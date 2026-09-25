@@ -226,7 +226,9 @@
         <tr><td>Payroll ÷ revenue, 2022</td><td><b>${fmtP(d.payroll_share)}%</b> ${chg(d.payroll_share_chg, " pts", true)}</td></tr>
         <tr><td>Payroll per employee, 2022</td><td>${fmtD(d.pay_per_emp_k)}k</td></tr>
         <tr><td>Employees (2022)</td><td>${fmtN(d.emp)}</td></tr>
+        ${d.top_employers ? `<tr><td>Well-known large employers</td><td>${d.top_employers.join(" · ")}</td></tr>` : ""}
       </table>
+      ${d.top_employers ? `<p class="note">Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share.</p>` : ""}
       ${d.bls ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}.</p>` : `<p class="note">No BLS productivity-program history for this industry.</p>`}
       ${q ? `<h3>Jobs today (QCEW 2026 Q1)</h3>
       <table>

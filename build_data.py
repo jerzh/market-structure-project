@@ -5,9 +5,12 @@ Run from /home/ubuntu/qcew.
 """
 import json
 import math
+import os
 import pandas as pd
 
 OUT = "site/data/industries.json"
+# Hand-curated, indicative list of well-known large employers per 6-digit industry (not a Census product).
+TOP_EMPLOYERS = json.load(open("top_employers.json")) if os.path.exists("top_employers.json") else {}
 
 SECTOR_NAMES = {
     "11": "Agriculture", "21": "Mining & oil/gas", "22": "Utilities", "23": "Construction",
@@ -196,6 +199,8 @@ for code, e in ec22.items():
     g = geo.get(code) or (geo.get(code[:4]) if len(code) >= 4 else None)
     if g:
         rec["geo"] = dict(g, code=code if code in geo else code[:4])
+    if code in TOP_EMPLOYERS:
+        rec["top_employers"] = TOP_EMPLOYERS[code]
     industries.append(rec)
 
 print("Industries out:", len(industries), pd.Series([r["level"] for r in industries]).value_counts().to_dict())
@@ -209,6 +214,7 @@ meta = {
         "payroll_share": "Same tables: annual payroll / sales, value of shipments or revenue.",
         "bls": "BLS Industry Productivity program (ip.data.1.AllData), labor share L03 or compensation/output, 1987-2023.",
         "qcew": "BLS QCEW 2026 Q1 single file (private ownership, national and county), released 2026-08-21.",
+        "top_employers": "Curated list of well-known large employers per industry (top_employers.json); indicative only, not from Census or BLS.",
     }
 }
 with open(OUT, "w") as f:
