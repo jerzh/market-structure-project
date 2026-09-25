@@ -229,13 +229,12 @@
       </table>
       <h3>Labor's cut</h3>
       <table>
-        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea" ? "BEA (compensation ÷ value added)" : d.va_source === "bea_scaled" ? `est. from BEA: ${d.va_bea_industry}${d.va_capped ? " (capped at 100)" : ""}` : ""}</span></td></tr>
+        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea_scaled" ? `est. from BEA: ${d.va_bea_industry}${d.va_capped ? " (capped at 100)" : ""}` : ""}</span></td></tr>
         <tr><td>Payroll ÷ revenue, 2022</td><td><b>${fmtP(d.payroll_share)}%</b> ${chg(d.payroll_share_chg, " pts", true)}</td></tr>
         <tr><td>Payroll per employee, 2022</td><td>${fmtD(d.pay_per_emp_k)}k</td></tr>
         <tr><td>Employees (2022)</td><td>${fmtN(d.emp)}</td></tr>
         ${d.top_employers ? `<tr><td>Well-known large employers</td><td>${d.top_employers.join(" · ")}</td></tr>` : ""}
       </table>
-      ${d.va_source === "bea" ? `<p class="note">BEA's labor share of value added for “${d.va_bea_industry}”, which coincides with this NAICS group. BEA compensation includes benefits and covers nonprofit/government-owned units; Census payroll does not, so it is not strictly comparable to the payroll figures.</p>` : ""}
       ${d.va_source === "bea_scaled" ? `<p class="note">Estimated: BEA labor share of value added for “${d.va_bea_industry}” (${fmtP(d.va_bea_parent_share)}%) scaled by this industry's payroll ÷ revenue relative to the group's, i.e. it assumes the same intermediate-input share across the group. Compensation includes benefits; Census payroll does not.</p>` : ""}
       ${d.top_employers ? `<p class="note">${d.top_employers_derived ? "Employer names are derived from the curated lists of this group's largest component industries — indicative only." : "Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share."}</p>` : ""}
       ${d.bls || d.bea_series ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls ? `${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}. Not comparable to payroll ÷ revenue above: compensation includes benefits${isTrade(d) ? ", and BLS output for wholesale/retail is sales margin, not sales" : ""}.` : ""}${d.bea_series ? ` Blue: BEA labor share of value added for “${d.va_bea_industry}”, ${d.bea_series.years[0]}–${d.bea_series.years[d.bea_series.years.length - 1]}.` : ""}</p>` : `<p class="note">No labor-share history for this industry.</p>`}
