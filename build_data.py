@@ -149,6 +149,24 @@ def bea_lookup(code):
 
 print("BEA value-added industries:", len(bea_va), " mapped titles:", len(set(BEA_NAICS_MAP.values())))
 
+
+bea_parent_totals = {}
+for code, e in ec22.items():
+    if len(code) != 6 or not code.isdigit() or e["cr4"] is None or e["payroll_share"] is None:
+        continue
+    bea_title, _ = bea_lookup(code)
+    if bea_title is None or e["payroll"] is None or e["revenue"] is None:
+        continue
+    totals = bea_parent_totals.setdefault(bea_title, [0.0, 0.0])
+    totals[0] += e["payroll"]
+    totals[1] += e["revenue"]
+bea_parent_ratio = {
+    title: payroll / revenue
+    for title, (payroll, revenue) in bea_parent_totals.items()
+    if revenue > 0
+}
+print("BEA parent payroll/revenue ratios:", len(bea_parent_ratio))
+
 # ---------------------------------------------------------------- BLS Industry Productivity
 series = pd.read_csv("ip.series", sep="\t", dtype=str)
 series.columns = [c.strip() for c in series.columns]
@@ -244,14 +262,20 @@ for code, e in ec22.items():
     if census_share is not None:
         va_share = census_share
         va_source = "census"
-        va_share_2017 = None
     elif bea is not None:
-        va_share = bea["values"][bea["years"].index(2022)] if 2022 in bea["years"] else None
-        va_share_2017 = bea["values"][bea["years"].index(2017)] if 2017 in bea["years"] else None
-        va_source = "bea" if va_share is not None else None
+        parent_share = bea["values"][bea["years"].index(2022)] if 2022 in bea["years"] else None
+        parent_ratio = bea_parent_ratio.get(bea_title)
+        record_ratio = e["payroll"] / e["revenue"] if e["payroll"] is not None and e["revenue"] else None
+        if parent_share is not None and parent_ratio and record_ratio is not None:
+            scaled_share = parent_share * record_ratio / parent_ratio
+            va_capped = scaled_share > 100
+            va_share = min(100, scaled_share)
+            va_source = "bea_scaled"
+        else:
+            va_share = None
+            va_source = None
     else:
         va_share = None
-        va_share_2017 = None
         va_source = None
     rec = {
         "code": code,
@@ -274,11 +298,14 @@ for code, e in ec22.items():
         "bls": b,
         "va_share": va_share,
         "va_source": va_source,
-        "va_share_2017": va_share_2017,
     }
-    if va_source == "bea":
+    if va_source == "bea_scaled":
         rec["va_bea_industry"] = bea_title
+        rec["va_bea_parent_share"] = parent_share
         rec["bea_series"] = bea
+        if va_capped:
+            rec["va_capped"] = True
+        rec["va_share"] = round(va_share, 1)
     if rec["cr4_2017"] is not None:
         rec["cr4_chg"] = round(rec["cr4"] - rec["cr4_2017"], 1)
     if rec["payroll_share_2017"] is not None:
@@ -319,10 +346,18 @@ print("Industries out:", len(industries), pd.Series([r["level"] for r in industr
 print("with 2017 match:", sum(r.get("cr4_2017") is not None for r in industries))
 print("with BLS:", sum(r["bls"] is not None for r in industries), "exact:", sum(r["bls_code"] == r["code"] for r in industries))
 print("with QCEW:", sum("qcew" in r for r in industries), "with geo:", sum("geo" in r for r in industries))
+scaled_va = [r["va_share"] for r in industries if r["va_source"] == "bea_scaled"]
+print(
+    "scaled BEA value-added labor share:",
+    "min", round(min(scaled_va), 1),
+    "median", round(float(pd.Series(scaled_va).median()), 1),
+    "max", round(max(scaled_va), 1),
+    "capped", sum(r.get("va_capped") is True for r in industries),
+)
 print(
     "value-added labor share:",
     "census exact", sum(r["va_source"] == "census" for r in industries),
-    "bea", sum(r["va_source"] == "bea" for r in industries),
+    "bea_scaled", sum(r["va_source"] == "bea_scaled" for r in industries),
     "null", sum(r["va_source"] is None for r in industries),
 )
 
@@ -330,7 +365,7 @@ meta = {
     "sources": {
         "concentration": "U.S. Census Bureau, 2022 & 2017 Economic Census, EC2200SIZECONCEN / EC1700SIZECONCEN (share of sales/receipts by largest firms; HHI for manufacturing).",
         "payroll_share": "Same tables: annual payroll / sales, value of shipments or revenue.",
-        "value_added": "U.S. Census Bureau, 2022 Economic Census EC2231BASIC value added and annual payroll (exact for manufacturing 6-digit industries); BEA GDP by Industry TVA113-A, Components of Value Added by Industry (1997–2024, released June 2026) for the finest mapped BEA industry.",
+        "value_added": "U.S. Census Bureau, 2022 Economic Census EC2231BASIC value added and annual payroll (exact for manufacturing 6-digit industries); elsewhere an estimate based on BEA GDP by Industry TVA113-A (1997–2024), scaled by each industry's payroll/revenue relative to its mapped BEA group's aggregate ratio and capped at 100%.",
         "bls": "BLS Industry Productivity program (ip.data.1.AllData), labor share L03 or compensation/output, 1987-2023.",
         "qcew": "BLS QCEW 2026 Q1 single file (private ownership, national and county), released 2026-08-21.",
         "top_employers": "Curated list of well-known large employers per industry (top_employers.json); indicative only, not from Census or BLS.",

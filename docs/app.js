@@ -12,7 +12,7 @@
   const sectorNames = {}; industries.forEach(d => sectorNames[d.sector] = d.sector_name);
 
   const axisDefs = {
-    va_share: { label: "Labor share of value added, 2022 (%)", get: d => d.va_share, log: true },
+    va_share: { label: "Labor share of value added, 2022 (%)", get: d => d.va_share, domain: [0, 100] },
     cr4: { label: "Share of revenue held by the 4 largest firms (%)", get: d => d.cr4, domain: [0, 100] },
     cr8: { label: "Share of revenue held by the 8 largest firms (%)", get: d => d.cr8, domain: [0, 100] },
     cr20: { label: "Share of revenue held by the 20 largest firms (%)", get: d => d.cr20, domain: [0, 100] },
@@ -203,7 +203,7 @@
     tip.style("display", "block").html(
       `<b>${d.label}</b> <span class="m">${d.code}</span><br>` +
       `CR4 <b>${fmtP(d.cr4)}%</b>${d.cr4_chg != null ? ` <span class="m">(${fmtS(d.cr4_chg)} since 2017)</span>` : ""}<br>` +
-      `Labor share of value added <b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b>${d.va_source === "bea" ? ` <span class="m">(BEA parent)</span>` : ""}<br>` +
+      `Labor share of value added <b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b>${d.va_source === "bea_scaled" ? ` <span class="m">(est., BEA parent)</span>` : ""}<br>` +
       `Payroll share <b>${fmtP(d.payroll_share)}%</b>${d.payroll_share_chg != null ? ` <span class="m">(${fmtS(d.payroll_share_chg)})</span>` : ""}<br>` +
       `<span class="m">${d.emp ? fmtN(d.emp) + " employees · " : ""}${d.firms ? fmtN(d.firms) + " firms" : ""}</span>`);
   }
@@ -229,13 +229,13 @@
       </table>
       <h3>Labor's cut</h3>
       <table>
-        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea" ? `BEA: ${d.va_bea_industry}` : ""}</span></td></tr>
+        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea_scaled" ? `est. from BEA: ${d.va_bea_industry}${d.va_capped ? " (capped at 100)" : ""}` : ""}</span></td></tr>
         <tr><td>Payroll ÷ revenue, 2022</td><td><b>${fmtP(d.payroll_share)}%</b> ${chg(d.payroll_share_chg, " pts", true)}</td></tr>
         <tr><td>Payroll per employee, 2022</td><td>${fmtD(d.pay_per_emp_k)}k</td></tr>
         <tr><td>Employees (2022)</td><td>${fmtN(d.emp)}</td></tr>
         ${d.top_employers ? `<tr><td>Well-known large employers</td><td>${d.top_employers.join(" · ")}</td></tr>` : ""}
       </table>
-      ${d.va_source === "bea" ? `<p class="note">Value-added share is BEA's for the parent industry “${d.va_bea_industry}” (compensation incl. benefits ÷ value added), so all industries in that group share one value; the payroll ÷ revenue figure is exact for this industry.</p>` : ""}
+      ${d.va_source === "bea_scaled" ? `<p class="note">Estimated: BEA labor share of value added for “${d.va_bea_industry}” (${fmtP(d.va_bea_parent_share)}%) scaled by this industry's payroll ÷ revenue relative to the group's, i.e. it assumes the same intermediate-input share across the group. Compensation includes benefits; Census payroll does not.</p>` : ""}
       ${d.top_employers ? `<p class="note">${d.top_employers_derived ? "Employer names are derived from the curated lists of this group's largest component industries — indicative only." : "Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share."}</p>` : ""}
       ${d.bls || d.bea_series ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls ? `${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}. Not comparable to payroll ÷ revenue above: compensation includes benefits${isTrade(d) ? ", and BLS output for wholesale/retail is sales margin, not sales" : ""}.` : ""}${d.bea_series ? ` Blue: BEA labor share of value added for “${d.va_bea_industry}”, ${d.bea_series.years[0]}–${d.bea_series.years[d.bea_series.years.length - 1]}.` : ""}</p>` : `<p class="note">No labor-share history for this industry.</p>`}
       ${q ? `<h3>Jobs today (QCEW 2026 Q1)</h3>

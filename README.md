@@ -11,13 +11,17 @@ histories and QCEW 2026 Q1 employment / wages / geographic dispersion.
 
 ## Labor share of value added
 
-The default vertical variable is payroll divided by value added. For manufacturing,
+The default vertical variable is labor's share of value added. For manufacturing,
 `EC2231BASIC` supplies exact 2022 Census payroll and value-added data for the available
-six-digit industries. Elsewhere, the site uses 2022 BEA GDP-by-industry compensation
-divided by value added for the finest mapped parent industry; those inherited values
-therefore appear as vertical stripes. The second Y option remains Census payroll divided
-by revenue, which is exact at the six-digit detail. BEA compensation includes benefits,
-while Census payroll excludes them, so the two measures are not strictly comparable.
+six-digit industries. Elsewhere, the site estimates the share from 2022 BEA
+compensation divided by value added for the finest mapped parent industry, multiplied
+by the industry's payroll/revenue relative to that group's aggregate payroll/revenue.
+This is equivalent to assuming intermediate inputs are the same share of revenue across
+the group, and the estimate is capped at 100%. Where that assumption fails — for example,
+in pass-through industries with tiny margins — the estimate can be far off. The second Y
+option remains Census payroll divided by revenue, which is exact at the six-digit detail.
+BEA compensation includes benefits, while Census payroll excludes them, so the two
+measures are not strictly comparable.
 
 ## Employer names (caveat / TODO)
 
