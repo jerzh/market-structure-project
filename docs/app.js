@@ -204,6 +204,8 @@
       `<span class="m">${d.emp ? fmtN(d.emp) + " employees · " : ""}${d.firms ? fmtN(d.firms) + " firms" : ""}</span>`);
   }
 
+  function isTrade(d) { return d.sector === "42" || d.sector === "44-45"; }
+
   function showPanel(d) {
     const el = $("panel");
     if (!d) { el.innerHTML = `<p class="hint">Hover a dot to preview; click to pin it here.</p>`; return; }
@@ -229,7 +231,7 @@
         ${d.top_employers ? `<tr><td>Well-known large employers</td><td>${d.top_employers.join(" · ")}</td></tr>` : ""}
       </table>
       ${d.top_employers ? `<p class="note">Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share.</p>` : ""}
-      ${d.bls ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}.</p>` : `<p class="note">No BLS productivity-program history for this industry.</p>`}
+      ${d.bls ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}. Not comparable to payroll ÷ revenue above: compensation includes benefits${isTrade(d) ? ", and BLS output for wholesale/retail is sales margin, not sales" : ""}.</p>` : `<p class="note">No BLS productivity-program history for this industry.</p>`}
       ${q ? `<h3>Jobs today (QCEW 2026 Q1)</h3>
       <table>
         <tr><td>Employment (March)</td><td>${fmtN(q.emp)} ${chg(q.emp_yoy, "%", true)}</td></tr>
