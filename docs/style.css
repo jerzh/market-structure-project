@@ -70,3 +70,5 @@ code { font-size: 11.5px; background: #eef0f3; padding: 1px 4px; border-radius: 
   #chart { height: 480px; }
 }
 .controls label.check.disabled { color: #aaa; cursor: not-allowed; }
+a.gh { position: fixed; top: 14px; right: 16px; color: var(--ink); opacity: 0.25; z-index: 10; }
+a.gh:hover { opacity: 0.8; }
