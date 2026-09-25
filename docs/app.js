@@ -229,7 +229,7 @@
       </table>
       <h3>Labor's cut</h3>
       <table>
-        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea_scaled" ? `est. from BEA: ${d.va_bea_industry}${d.va_capped ? " (capped at 100)" : ""}` : ""}</span></td></tr>
+        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea" ? "BEA, exact" : d.va_source === "bea_scaled" ? `est. from BEA: ${d.va_bea_industry}${d.va_capped ? " (capped at 100)" : ""}` : ""}</span></td></tr>
         <tr><td>Payroll ÷ revenue, 2022</td><td><b>${fmtP(d.payroll_share)}%</b> ${chg(d.payroll_share_chg, " pts", true)}</td></tr>
         <tr><td>Payroll per employee, 2022</td><td>${fmtD(d.pay_per_emp_k)}k</td></tr>
         <tr><td>Employees (2022)</td><td>${fmtN(d.emp)}</td></tr>
