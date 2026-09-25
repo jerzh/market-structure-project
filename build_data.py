@@ -150,6 +150,25 @@ def bea_lookup(code):
 print("BEA value-added industries:", len(bea_va), " mapped titles:", len(set(BEA_NAICS_MAP.values())))
 
 
+six_digit_codes = {
+    code for code in ec22
+    if len(code) == 6 and code.isdigit()
+}
+bea_exact_codes = set()
+for code, title in BEA_NAICS_MAP.items():
+    descendants = {
+        child for child in six_digit_codes
+        if (sector_of(child) == code if "-" in code else child.startswith(code))
+    }
+    mapped_to_title = {
+        child for child in six_digit_codes
+        if bea_lookup(child)[0] == title
+    }
+    if descendants == mapped_to_title:
+        bea_exact_codes.add(code)
+print("BEA exact group codes:", len(bea_exact_codes), sorted(bea_exact_codes))
+
+
 bea_parent_totals = {}
 for code, e in ec22.items():
     if len(code) != 6 or not code.isdigit() or e["cr4"] is None or e["payroll_share"] is None:
@@ -266,7 +285,10 @@ for code, e in ec22.items():
         parent_share = bea["values"][bea["years"].index(2022)] if 2022 in bea["years"] else None
         parent_ratio = bea_parent_ratio.get(bea_title)
         record_ratio = e["payroll"] / e["revenue"] if e["payroll"] is not None and e["revenue"] else None
-        if parent_share is not None and parent_ratio is None:
+        if parent_share is not None and code in bea_exact_codes:
+            va_share = parent_share
+            va_source = "bea"
+        elif parent_share is not None and parent_ratio is None:
             scaled_share = parent_share
             va_capped = scaled_share > 100
             va_share = min(100, scaled_share)
@@ -304,7 +326,11 @@ for code, e in ec22.items():
         "va_share": va_share,
         "va_source": va_source,
     }
-    if va_source == "bea_scaled":
+    if va_source == "bea":
+        rec["va_bea_industry"] = bea_title
+        rec["bea_series"] = bea
+        rec["va_share"] = round(va_share, 1)
+    elif va_source == "bea_scaled":
         rec["va_bea_industry"] = bea_title
         rec["va_bea_parent_share"] = parent_share
         rec["bea_series"] = bea
@@ -362,6 +388,7 @@ print(
 print(
     "value-added labor share:",
     "census exact", sum(r["va_source"] == "census" for r in industries),
+    "bea", sum(r["va_source"] == "bea" for r in industries),
     "bea_scaled", sum(r["va_source"] == "bea_scaled" for r in industries),
     "null", sum(r["va_source"] is None for r in industries),
 )
