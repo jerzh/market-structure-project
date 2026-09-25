@@ -1,5396 +1,5396 @@
 {
-  "211120": [
-    "ExxonMobil",
-    "Chevron",
-    "ConocoPhillips",
-    "Occidental Petroleum"
-  ],
-  "211130": [
-    "EQT",
-    "ExxonMobil",
-    "Chevron",
-    "ConocoPhillips"
-  ],
-  "212114": [
-    "Peabody Energy",
-    "Arch Resources",
-    "CONSOL Energy",
-    "Alliance Resource Partners"
-  ],
-  "212115": [
-    "Peabody Energy",
-    "Arch Resources",
-    "CONSOL Energy",
-    "Alliance Resource Partners"
-  ],
-  "212210": [
-    "Cleveland-Cliffs",
-    "U.S. Steel",
-    "Rio Tinto",
-    "Vale"
-  ],
-  "212220": [
-    "Newmont",
-    "Barrick Gold",
-    "Kinross Gold",
-    "Coeur Mining"
-  ],
-  "212230": [
-    "Freeport-McMoRan",
-    "Southern Copper",
-    "Rio Tinto",
-    "BHP"
-  ],
-  "212290": [
-    "Rio Tinto",
-    "Freeport-McMoRan",
-    "BHP",
-    "Glencore"
-  ],
-  "212311": [
-    "Vulcan Materials",
-    "Martin Marietta",
-    "CRH",
-    "Heidelberg Materials"
-  ],
-  "212312": [
-    "Vulcan Materials",
-    "Martin Marietta",
-    "CRH",
-    "Heidelberg Materials"
-  ],
-  "212313": [
-    "Marmomacchine",
-    "Polycor",
-    "Rock of Ages",
-    "Vulcan Materials"
-  ],
-  "212319": [
-    "Vulcan Materials",
-    "Martin Marietta",
-    "CRH",
-    "Heidelberg Materials"
-  ],
-  "212321": [
-    "Vulcan Materials",
-    "Martin Marietta",
-    "CRH",
-    "Oldcastle Materials"
-  ],
-  "212322": [
-    "U.S. Silica",
-    "Covia",
-    "Badger Mining",
-    "Preferred Sands"
-  ],
-  "212323": [
-    "KaMin",
-    "Imerys",
-    "Thiele Kaolin",
-    "Minerals Technologies"
-  ],
-  "212390": [
-    "Caterpillar",
-    "Rio Tinto",
-    "Freeport-McMoRan",
-    "Halliburton"
-  ],
-  "213111": [
-    "Patterson-UTI Energy",
-    "Helmerich & Payne",
-    "Nabors Industries",
-    "Precision Drilling"
-  ],
-  "213112": [
-    "Halliburton",
-    "SLB",
-    "Baker Hughes",
-    "Weatherford"
-  ],
-  "213113": [
-    "Peabody Energy",
-    "Arch Resources",
-    "CONSOL Energy",
-    "Alliance Resource Partners"
-  ],
-  "213114": [
-    "Boart Longyear",
-    "Epiroc",
-    "Sandvik",
-    "Komatsu Mining"
-  ],
-  "213115": [
-    "Caterpillar",
-    "Rio Tinto",
-    "Freeport-McMoRan",
-    "Halliburton"
-  ],
-  "221111": [
-    "Brookfield Renewable",
-    "Duke Energy",
-    "Edison International",
-    "Xcel Energy"
-  ],
-  "221112": [
-    "Duke Energy",
-    "Southern Company",
-    "Vistra",
-    "NRG Energy"
-  ],
-  "221113": [
-    "Constellation Energy",
-    "Duke Energy",
-    "Southern Company",
-    "Entergy"
-  ],
-  "221114": [
-    "NextEra Energy",
-    "First Solar",
-    "AES",
-    "Brookfield Renewable"
-  ],
-  "221115": [
-    "NextEra Energy",
-    "Avangrid",
-    "EDP Renewables",
-    "Brookfield Renewable"
-  ],
-  "221116": [
-    "Ormat Technologies",
-    "Calpine",
-    "Chevron",
-    "Enel Green Power"
-  ],
-  "221117": [
-    "Drax",
-    "Dominion Energy",
-    "RWE",
-    "Newland"
-  ],
-  "221118": [
-    "Duke Energy",
-    "Southern Company",
-    "American Water",
-    "NextEra Energy"
-  ],
-  "221121": [
-    "PJM Interconnection",
-    "MISO",
-    "ERCOT",
-    "California ISO"
-  ],
-  "221122": [
-    "Exelon",
-    "Duke Energy",
-    "Southern Company",
-    "American Electric Power"
-  ],
-  "221210": [
-    "Atmos Energy",
-    "NiSource",
-    "ONE Gas",
-    "Spire"
-  ],
-  "221310": [
-    "American Water",
-    "Essential Utilities",
-    "Suez North America",
-    "Veolia North America"
-  ],
-  "221320": [
-    "Veolia North America",
-    "Suez North America",
-    "Xylem",
-    "American Water"
-  ],
-  "221330": [
-    "Con Edison",
-    "Veolia North America",
-    "Trigen",
-    "District Energy St. Paul"
-  ],
-  "236115": [
-    "D.R. Horton",
-    "Lennar",
-    "PulteGroup",
-    "NVR"
-  ],
-  "236116": [
-    "Lennar Multifamily",
-    "Greystar",
-    "Hensel Phelps",
-    "Turner Construction"
-  ],
-  "236117": [
-    "D.R. Horton",
-    "Lennar",
-    "PulteGroup",
-    "NVR"
-  ],
-  "236118": [
-    "Power Home Remodeling",
-    "Mr. Handyman",
-    "Window World",
-    "Re-Bath"
-  ],
-  "236210": [
-    "Turner Construction",
-    "Bechtel",
-    "Whiting-Turner",
-    "DPR Construction"
-  ],
-  "236220": [
-    "Turner Construction",
-    "Whiting-Turner",
-    "Bechtel",
-    "Skanska USA"
-  ],
-  "237110": [
-    "Quanta Services",
-    "MasTec",
-    "Kiewit",
-    "Jacobs"
-  ],
-  "237120": [
-    "Kinder Morgan",
-    "Williams",
-    "Energy Transfer",
-    "Enbridge"
-  ],
-  "237130": [
-    "Quanta Services",
-    "MasTec",
-    "MYR Group",
-    "Pike Corporation"
-  ],
-  "237210": [
-    "Lennar",
-    "D.R. Horton",
-    "PulteGroup",
-    "Taylor Morrison"
-  ],
-  "237310": [
-    "Kiewit",
-    "Granite Construction",
-    "Vinci",
-    "Fluor"
-  ],
-  "237990": [
-    "Bechtel",
-    "Kiewit",
-    "Fluor",
-    "AECOM"
-  ],
-  "238110": [
-    "Baker Construction",
-    "Turner Construction",
-    "CRH",
-    "Oldcastle Infrastructure"
-  ],
-  "238120": [
-    "Nucor",
-    "Zekelman Industries",
-    "Schuff Steel",
-    "W&W AFCO Steel"
-  ],
-  "238130": [
-    "Lennar",
-    "D.R. Horton",
-    "Toll Brothers",
-    "PulteGroup"
-  ],
-  "238140": [
-    "Baker Construction",
-    "Masonry America",
-    "Sun Valley Masonry",
-    "The Blue Book Building"
-  ],
-  "238150": [
-    "Harmon",
-    "Binswanger Glass",
-    "Oldcastle BuildingEnvelope",
-    "Kawneer"
-  ],
-  "238160": [
-    "Tecta America",
-    "CentiMark",
-    "Flynn Group",
-    "Baker Roofing"
-  ],
-  "238170": [
-    "Power Home Remodeling",
-    "James Hardie",
-    "Westlake Royal Building Products",
-    "ABC Supply"
-  ],
-  "238190": [
-    "Turner Construction",
-    "Bechtel",
-    "Kiewit",
-    "AECOM"
-  ],
-  "238210": [
-    "EMCOR",
-    "Quanta Services",
-    "MYR Group",
-    "Rosendin"
-  ],
-  "238220": [
-    "Comfort Systems USA",
-    "EMCOR",
-    "Limbach",
-    "TDIndustries"
-  ],
-  "238290": [
-    "Turner Construction",
-    "Bechtel",
-    "Kiewit",
-    "AECOM"
-  ],
-  "238310": [
-    "CertaPro Painters",
-    "Owens Corning",
-    "USG",
-    "Installed Building Products"
-  ],
-  "238320": [
-    "CertaPro Painters",
-    "Five Star Painting",
-    "College Pro",
-    "Wow 1 Day Painting"
-  ],
-  "238330": [
-    "Empire Today",
-    "Floor & Decor",
-    "LL Flooring",
-    "The Home Depot"
-  ],
-  "238340": [
-    "Dal-Tile",
-    "Emser Tile",
-    "The Tile Shop",
-    "Marazzi"
-  ],
-  "238350": [
-    "Turner Construction",
-    "Bechtel",
-    "Kiewit",
-    "AECOM"
-  ],
-  "238390": [
-    "Turner Construction",
-    "Bechtel",
-    "Kiewit",
-    "AECOM"
-  ],
-  "238910": [
-    "United Rentals",
-    "Sunbelt Rentals",
-    "Granite Construction",
-    "Kiewit"
-  ],
-  "238990": [
-    "Turner Construction",
-    "Bechtel",
-    "Kiewit",
-    "AECOM"
-  ],
-  "311111": [
-    "Purina",
-    "Mars Petcare",
-    "Hill's Pet Nutrition",
-    "Blue Buffalo"
-  ],
-  "311119": [
-    "Cargill",
-    "ADM",
-    "Purina",
-    "Mars Petcare"
-  ],
-  "311211": [
-    "Ardent Mills",
-    "ADM",
-    "General Mills",
-    "ConAgra Brands"
-  ],
-  "311212": [
-    "Riceland Foods",
-    "Riviana Foods",
-    "Lundberg Family Farms",
-    "Farmers Rice Cooperative"
-  ],
-  "311213": [
-    "Cargill",
-    "Rahr Corporation",
-    "Malteurop",
-    "Briess Industries"
-  ],
-  "311221": [
-    "Ingredion",
-    "ADM",
-    "Cargill",
-    "Tate & Lyle"
-  ],
-  "311224": [
-    "ADM",
-    "Bunge",
-    "Cargill",
-    "Louis Dreyfus Company"
-  ],
-  "311225": [
-    "Bunge",
-    "ADM",
-    "Cargill",
-    "Ventura Foods"
-  ],
-  "311230": [
-    "Kellanova",
-    "General Mills",
-    "Post Holdings",
-    "Quaker (PepsiCo)"
-  ],
-  "311313": [
-    "American Crystal Sugar",
-    "Michigan Sugar",
-    "Western Sugar Cooperative",
-    "Amalgamated Sugar"
-  ],
-  "311314": [
-    "American Sugar Refining",
-    "Florida Crystals",
-    "Imperial Sugar",
-    "Domino Sugar"
-  ],
-  "311340": [
-    "Mars",
-    "The Hershey Company",
-    "Ferrero",
-    "Mondelez International"
-  ],
-  "311351": [
-    "Mars",
-    "The Hershey Company",
-    "Ferrero",
-    "Mondelez International"
-  ],
-  "311352": [
-    "Mars",
-    "The Hershey Company",
-    "Ferrero",
-    "Mondelez International"
-  ],
-  "311411": [
-    "Conagra Brands",
-    "Dole Packaged Foods",
-    "Seneca Foods",
-    "B&G Foods"
-  ],
-  "311412": [
-    "Conagra Brands",
-    "Nestlé USA",
-    "Kraft Heinz",
-    "J.M. Smucker"
-  ],
-  "311421": [
-    "Del Monte Foods",
-    "Seneca Foods",
-    "J.M. Smucker",
-    "Conagra Brands"
-  ],
-  "311422": [
-    "Bonduelle",
-    "Del Monte Foods",
-    "Seneca Foods",
-    "B&G Foods"
-  ],
-  "311423": [
-    "Olam Food Ingredients",
-    "TreeHouse Foods",
-    "J.M. Smucker",
-    "Conagra Brands"
-  ],
-  "311511": [
-    "Dairy Farmers of America",
-    "Land O'Lakes",
-    "Saputo Dairy USA",
-    "Prairie Farms"
-  ],
-  "311512": [
-    "Dairy Farmers of America",
-    "Land O'Lakes",
-    "Kerrygold",
-    "Challenge Dairy"
-  ],
-  "311513": [
-    "Dairy Farmers of America",
-    "Leprino Foods",
-    "Saputo Dairy USA",
-    "Schreiber Foods"
-  ],
-  "311514": [
-    "Dairy Farmers of America",
-    "Land O'Lakes",
-    "Saputo Dairy USA",
-    "Glanbia Nutritionals"
-  ],
-  "311520": [
-    "Unilever",
-    "Nestlé USA",
-    "Wells Enterprises",
-    "Blue Bell Creameries"
-  ],
-  "311611": [
-    "JBS USA",
-    "Tyson Foods",
-    "Cargill Protein",
-    "National Beef"
-  ],
-  "311612": [
-    "Tyson Foods",
-    "JBS USA",
-    "Smithfield Foods",
-    "Cargill Protein"
-  ],
-  "311613": [
-    "Darling Ingredients",
-    "JBS USA",
-    "Tyson Foods",
-    "Valley Proteins"
-  ],
-  "311615": [
-    "Tyson Foods",
-    "Pilgrim's Pride",
-    "Perdue Farms",
-    "Wayne-Sanderson Farms"
-  ],
-  "311710": [
-    "Trident Seafoods",
-    "Thai Union USA",
-    "Bumble Bee Foods",
-    "High Liner Foods"
-  ],
-  "311811": [
-    "Panera Bread",
-    "Flowers Foods",
-    "Bimbo Bakeries USA",
-    "Paris Baguette"
-  ],
-  "311812": [
-    "Bimbo Bakeries USA",
-    "Flowers Foods",
-    "Grupo Bimbo",
-    "Hostess Brands"
-  ],
-  "311813": [
-    "Conagra Brands",
-    "Sara Lee Frozen Bakery",
-    "Hostess Brands",
-    "Flowers Foods"
-  ],
-  "311821": [
-    "Mondelez International",
-    "Pepperidge Farm",
-    "Ferrero",
-    "Little Debbie"
-  ],
-  "311824": [
-    "Barilla",
-    "Riviana Foods",
-    "TreeHouse Foods",
-    "Ebro Foods"
-  ],
-  "311830": [
-    "Mission Foods",
-    "Gruma",
-    "Ole Mexican Foods",
-    "La Tortilla Factory"
-  ],
-  "311911": [
-    "Planters (Hormel)",
-    "Wonderful Pistachios",
-    "Blue Diamond Growers",
-    "J.M. Smucker"
-  ],
-  "311919": [
-    "Frito-Lay",
-    "Kellanova",
-    "Utz Brands",
-    "Herr Foods"
-  ],
-  "311920": [
-    "JDE Peet's",
-    "Keurig Dr Pepper",
-    "Starbucks",
-    "Nestlé USA"
-  ],
-  "311930": [
-    "Coca-Cola",
-    "PepsiCo",
-    "Keurig Dr Pepper",
-    "Monin"
-  ],
-  "311941": [
-    "Kraft Heinz",
-    "McCormick",
-    "Conagra Brands",
-    "Unilever"
-  ],
-  "311942": [
-    "McCormick",
-    "Kerry Group",
-    "Olam Food Ingredients",
-    "Döhler"
-  ],
-  "311991": [
-    "TreeHouse Foods",
-    "Conagra Brands",
-    "Kraft Heinz",
-    "J.M. Smucker"
-  ],
-  "311999": [
-    "Kraft Heinz",
-    "Nestlé USA",
-    "Conagra Brands",
-    "TreeHouse Foods"
-  ],
-  "312111": [
-    "Coca-Cola",
-    "PepsiCo",
-    "Keurig Dr Pepper",
-    "National Beverage"
-  ],
-  "312112": [
-    "Primo Brands",
-    "BlueTriton Brands",
-    "Niagara Bottling",
-    "Coca-Cola"
-  ],
-  "312113": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "312120": [
-    "Anheuser-Busch",
-    "Molson Coors",
-    "Constellation Brands",
-    "Heineken USA"
-  ],
-  "312130": [
-    "E. & J. Gallo Winery",
-    "The Wine Group",
-    "Constellation Brands",
-    "Treasury Wine Estates"
-  ],
-  "312140": [
-    "Diageo",
-    "Beam Suntory",
-    "Brown-Forman",
-    "Sazerac"
-  ],
-  "312230": [
-    "Altria",
-    "Reynolds American",
-    "ITG Brands",
-    "Swisher"
-  ],
-  "313110": [
-    "Parkdale Mills",
-    "Unifi",
-    "Gildan",
-    "Coats"
-  ],
-  "313210": [
-    "Milliken & Company",
-    "Burlington Industries",
-    "Glen Raven",
-    "Mount Vernon Mills"
-  ],
-  "313220": [
-    "Glen Raven",
-    "Murdock Webbing",
-    "Bally Ribbon Mills",
-    "American & Efird"
-  ],
-  "313230": [
-    "Berry Global",
-    "Freudenberg",
-    "Ahlstrom",
-    "Johns Manville"
-  ],
-  "313240": [
-    "Gildan",
-    "Hanesbrands",
-    "Carpenter Technology",
-    "Mount Vernon Mills"
-  ],
-  "313310": [
-    "Milliken & Company",
-    "Glen Raven",
-    "Parkdale Mills",
-    "Burlington Industries"
-  ],
-  "313320": [
-    "Saint-Gobain",
-    "Cooley Group",
-    "Continental",
-    "Trelleborg"
-  ],
-  "314110": [
-    "Shaw Industries",
-    "Mohawk Industries",
-    "Interface",
-    "Engineered Floors"
-  ],
-  "314120": [
-    "Standard Textile",
-    "WestPoint Home",
-    "Luna Textiles",
-    "Guilford of Maine"
-  ],
-  "314910": [
-    "Bagcraft",
-    "ProAmpac",
-    "Novolex",
-    "Berry Global"
-  ],
-  "314994": [
-    "Cortland Company",
-    "Samson Rope",
-    "Marlow Ropes",
-    "American & Efird"
-  ],
-  "314999": [
-    "Kraft Heinz",
-    "Tyson Foods",
-    "PepsiCo",
-    "Cargill"
-  ],
-  "315120": [
-    "Hanesbrands",
-    "Gildan",
-    "Fruit of the Loom",
-    "Knitcraft"
-  ],
-  "315210": [
-    "Gildan",
-    "Hanesbrands",
-    "VF Corporation",
-    "Sewn Products"
-  ],
-  "315250": [
-    "Hanesbrands",
-    "Gildan",
-    "VF Corporation",
-    "Kontoor Brands"
-  ],
-  "315990": [
-    "Hanesbrands",
-    "Gildan",
-    "VF Corporation",
-    "Kontoor Brands"
-  ],
-  "316110": [
-    "JBS Couros",
-    "Wolverine Worldwide",
-    "PrimeAsia Leather",
-    "Horween Leather"
-  ],
-  "316210": [
-    "Nike",
-    "Skechers",
-    "Wolverine Worldwide",
-    "New Balance"
-  ],
-  "316990": [
-    "Kraft Heinz",
-    "Tyson Foods",
-    "PepsiCo",
-    "Cargill"
-  ],
-  "321113": [
-    "Weyerhaeuser",
-    "West Fraser",
-    "Georgia-Pacific",
-    "Interfor"
-  ],
-  "321114": [
-    "Koppers",
-    "Viance",
-    "Lonza Wood Protection",
-    "Great Southern Wood"
-  ],
-  "321211": [
-    "Boise Cascade",
-    "Weyerhaeuser",
-    "Roseburg Forest Products",
-    "Georgia-Pacific"
-  ],
-  "321212": [
-    "Boise Cascade",
-    "Weyerhaeuser",
-    "Roseburg Forest Products",
-    "Georgia-Pacific"
-  ],
-  "321215": [
-    "Weyerhaeuser",
-    "Boise Cascade",
-    "LP Building Solutions",
-    "Roseburg Forest Products"
-  ],
-  "321219": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "321911": [
-    "JELD-WEN",
-    "Masonite",
-    "Andersen Corporation",
-    "Pella"
-  ],
-  "321912": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "321918": [
-    "Masonite",
-    "JELD-WEN",
-    "Builders FirstSource",
-    "Woodgrain Millwork"
-  ],
-  "321920": [
-    "Brambles",
-    "PECO Pallet",
-    "PalletOne",
-    "Millwood"
-  ],
-  "321991": [
-    "Clayton Homes",
-    "Champion Homes",
-    "Cavco Industries",
-    "Skyline Champion"
-  ],
-  "321992": [
-    "Factory OS",
-    "Cavco Industries",
-    "Champion Homes",
-    "Modular Building Concepts"
-  ],
-  "321999": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "322110": [
-    "International Paper",
-    "Georgia-Pacific",
-    "WestRock",
-    "Domtar"
-  ],
-  "322120": [
-    "International Paper",
-    "Georgia-Pacific",
-    "WestRock",
-    "Domtar"
-  ],
-  "322130": [
-    "International Paper",
-    "WestRock",
-    "Graphic Packaging",
-    "Sonoco"
-  ],
-  "322211": [
-    "International Paper",
-    "WestRock",
-    "Packaging Corporation of America",
-    "Georgia-Pacific"
-  ],
-  "322212": [
-    "International Paper",
-    "WestRock",
-    "Graphic Packaging",
-    "Sonoco"
-  ],
-  "322219": [
-    "International Paper",
-    "WestRock",
-    "Graphic Packaging",
-    "Sonoco"
-  ],
-  "322220": [
-    "Novolex",
-    "ProAmpac",
-    "International Paper",
-    "WestRock"
-  ],
-  "322230": [
-    "ACCO Brands",
-    "Avery Products",
-    "Dixon Ticonderoga",
-    "Smead"
-  ],
-  "322291": [
-    "Kimberly-Clark",
-    "Procter & Gamble",
-    "Georgia-Pacific",
-    "Essity"
-  ],
-  "322299": [
-    "GPCP",
-    "Graham Packaging",
-    "Novolex",
-    "Berry Global"
-  ],
-  "323111": [
-    "RR Donnelley",
-    "Quad",
-    "Cenveo",
-    "Ironmark"
-  ],
-  "323113": [
-    "S&S Activewear",
-    "Custom Ink",
-    "RushOrderTees",
-    "Jakprints"
-  ],
-  "323117": [
-    "Cenveo",
-    "LSC Communications",
-    "RR Donnelley",
-    "Thomson-Shore"
-  ],
-  "323120": [
-    "RR Donnelley",
-    "Quad",
-    "Cenveo",
-    "LSC Communications"
-  ],
-  "324110": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "324121": [
-    "CRH",
-    "Vulcan Materials",
-    "Granite Construction",
-    "Martin Marietta"
-  ],
-  "324122": [
-    "CRH",
-    "Vulcan Materials",
-    "Granite Construction",
-    "Martin Marietta"
-  ],
-  "324191": [
-    "ExxonMobil",
-    "Chevron",
-    "Valvoline",
-    "Phillips 66"
-  ],
-  "324199": [
-    "Marathon Petroleum",
-    "Valero Energy",
-    "Phillips 66",
-    "PBF Energy"
-  ],
-  "325110": [
-    "Dow",
-    "LyondellBasell",
-    "ExxonMobil",
-    "Chevron Phillips Chemical"
-  ],
-  "325120": [
-    "Linde",
-    "Air Products",
-    "Air Liquide",
-    "Messer"
-  ],
-  "325130": [
-    "BASF",
-    "Clariant",
-    "Huntsman",
-    "DuPont"
-  ],
-  "325180": [
-    "Chemours",
-    "OxyChem",
-    "BASF",
-    "Albemarle"
-  ],
-  "325193": [
-    "POET",
-    "Archer Daniels Midland",
-    "Green Plains",
-    "Valero Renewables"
-  ],
-  "325194": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "325199": [
-    "Dow",
-    "LyondellBasell",
-    "Eastman Chemical",
-    "Olin"
-  ],
-  "325211": [
-    "Dow",
-    "ExxonMobil Chemical",
-    "LyondellBasell",
-    "Westlake"
-  ],
-  "325212": [
-    "Lion Elastomers",
-    "Arlanxeo",
-    "Kumho Petrochemical",
-    "Goodyear"
-  ],
-  "325220": [
-    "Indorama Ventures",
-    "Eastman Chemical",
-    "Unifi",
-    "Celanese"
-  ],
-  "325311": [
-    "CF Industries",
-    "Nutrien",
-    "Koch Fertilizer",
-    "Yara"
-  ],
-  "325312": [
-    "The Mosaic Company",
-    "Nutrien",
-    "J.R. Simplot",
-    "PhosAgro"
-  ],
-  "325314": [
-    "Nutrien",
-    "The Mosaic Company",
-    "CF Industries",
-    "Yara"
-  ],
-  "325315": [
-    "McGill Environmental",
-    "Waste Management",
-    "Recology",
-    "Republic Services"
-  ],
-  "325320": [
-    "Corteva Agriscience",
-    "Bayer CropScience",
-    "Syngenta",
-    "FMC"
-  ],
-  "325411": [
-    "Pfizer",
-    "Merck",
-    "Eli Lilly",
-    "Johnson & Johnson"
-  ],
-  "325412": [
-    "Pfizer",
-    "Johnson & Johnson",
-    "Eli Lilly",
-    "Merck"
-  ],
-  "325413": [
-    "Abbott",
-    "Roche Diagnostics",
-    "Danaher",
-    "bioMérieux"
-  ],
-  "325414": [
-    "Amgen",
-    "Genentech",
-    "Regeneron",
-    "Biogen"
-  ],
-  "325510": [
-    "Sherwin-Williams",
-    "PPG",
-    "Benjamin Moore",
-    "RPM International"
-  ],
-  "325520": [
-    "H.B. Fuller",
-    "Henkel",
-    "3M",
-    "Sika"
-  ],
-  "325611": [
-    "Procter & Gamble",
-    "Unilever",
-    "Colgate-Palmolive",
-    "Church & Dwight"
-  ],
-  "325612": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "325613": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "325620": [
-    "L’Oréal USA",
-    "Estée Lauder",
-    "Coty",
-    "Revlon"
-  ],
-  "325910": [
-    "RR Donnelley",
-    "Quad",
-    "Cenveo",
-    "LSC Communications"
-  ],
-  "325920": [
-    "Austin Powder",
-    "Orica",
-    "Dyno Nobel",
-    "AEL Mining"
-  ],
-  "325991": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "325992": [
-    "Eastman Kodak",
-    "Fujifilm",
-    "Agfa",
-    "Mitsubishi Paper Mills"
-  ],
-  "325998": [
-    "3M",
-    "DuPont",
-    "Ecolab",
-    "Ashland"
-  ],
-  "326111": [
-    "Berry Global",
-    "Novolex",
-    "Amcor",
-    "ProAmpac"
-  ],
-  "326112": [
-    "Amcor",
-    "Berry Global",
-    "Sealed Air",
-    "Sonoco"
-  ],
-  "326113": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "326121": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "326122": [
-    "JM Eagle",
-    "Uponor",
-    "Westlake Pipe",
-    "Advanced Drainage Systems"
-  ],
-  "326130": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "326140": [
-    "Dart Container",
-    "Atlas Roofing",
-    "Insulfoam",
-    "Plastics Corporation"
-  ],
-  "326150": [
-    "Carpenter",
-    "FXI",
-    "Future Foam",
-    "Hickory Springs"
-  ],
-  "326160": [
-    "Amcor",
-    "Berry Global",
-    "Graham Packaging",
-    "Plastipak"
-  ],
-  "326191": [
-    "Westlake Royal Building Products",
-    "JM Eagle",
-    "Charlotte Pipe",
-    "IPEX"
-  ],
-  "326199": [
-    "Berry Global",
-    "Amcor",
-    "Pactiv Evergreen",
-    "Rogers Corporation"
-  ],
-  "326211": [
-    "Goodyear",
-    "Bridgestone Americas",
-    "Michelin North America",
-    "Continental"
-  ],
-  "326212": [
-    "Bandag",
-    "Oliver Rubber",
-    "Marangoni",
-    "Michelin Retread Technologies"
-  ],
-  "326220": [
-    "Gates Corporation",
-    "Parker Hannifin",
-    "Eaton",
-    "Continental"
-  ],
-  "326291": [
-    "Parker Hannifin",
-    "Trelleborg",
-    "Freudenberg",
-    "Eaton"
-  ],
-  "326299": [
-    "Parker Hannifin",
-    "Trelleborg",
-    "Freudenberg",
-    "Eaton"
-  ],
-  "327110": [
-    "Kohler",
-    "American Standard",
-    "Masco",
-    "Roca"
-  ],
-  "327120": [
-    "General Shale",
-    "Belden Brick",
-    "Glen-Gery",
-    "Acme Brick"
-  ],
-  "327211": [
-    "Vitro",
-    "Guardian Glass",
-    "NSG Group",
-    "Saint-Gobain"
-  ],
-  "327212": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "327213": [
-    "O-I Glass",
-    "Ardagh Glass Packaging",
-    "Verallia",
-    "Anchor Glass"
-  ],
-  "327215": [
-    "Corning",
-    "Saint-Gobain",
-    "Owens Corning",
-    "Guardian Glass"
-  ],
-  "327310": [
-    "Holcim US",
-    "CEMEX USA",
-    "Heidelberg Materials",
-    "CRH"
-  ],
-  "327320": [
-    "CEMEX USA",
-    "CRH",
-    "Vulcan Materials",
-    "Martin Marietta"
-  ],
-  "327331": [
-    "Oldcastle Infrastructure",
-    "CRH",
-    "Boral",
-    "Basalite"
-  ],
-  "327332": [
-    "Forterra",
-    "Rinker Materials",
-    "American Concrete Pipe",
-    "Oldcastle Infrastructure"
-  ],
-  "327390": [
-    "CRH",
-    "Vulcan Materials",
-    "Martin Marietta",
-    "Oldcastle Infrastructure"
-  ],
-  "327410": [
-    "Carmeuse",
-    "Lhoist",
-    "Graymont",
-    "Mississippi Lime"
-  ],
-  "327420": [
-    "USG",
-    "Georgia-Pacific",
-    "CertainTeed",
-    "National Gypsum"
-  ],
-  "327910": [
-    "3M",
-    "Saint-Gobain Abrasives",
-    "Norton Abrasives",
-    "Tyrolit"
-  ],
-  "327991": [
-    "Polycor",
-    "Cosentino",
-    "MSI Surfaces",
-    "Levantina"
-  ],
-  "327992": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "327993": [
-    "Johns Manville",
-    "Owens Corning",
-    "Knauf Insulation",
-    "Rockwool"
-  ],
-  "327999": [
-    "3M",
-    "Dow",
-    "International Paper",
-    "Sherwin-Williams"
-  ],
-  "331110": [
-    "Nucor",
-    "Cleveland-Cliffs",
-    "U.S. Steel",
-    "Steel Dynamics"
-  ],
-  "331210": [
-    "Zekelman Industries",
-    "Tenaris",
-    "Northwest Pipe",
-    "Wheatland Tube"
-  ],
-  "331221": [
-    "Nucor",
-    "Steel Dynamics",
-    "Commercial Metals",
-    "Gerdau"
-  ],
-  "331222": [
-    "Insteel Industries",
-    "Leggett & Platt",
-    "Nucor",
-    "Tree Island Steel"
-  ],
-  "331313": [
-    "Alcoa",
-    "Alumina Limited",
-    "Century Aluminum",
-    "Rio Tinto"
-  ],
-  "331314": [
-    "Alcoa",
-    "Novelis",
-    "Kaiser Aluminum",
-    "Constellium"
-  ],
-  "331315": [
-    "Alcoa",
-    "Novelis",
-    "Kaiser Aluminum",
-    "Constellium"
-  ],
-  "331318": [
-    "Alcoa",
-    "Novelis",
-    "Kaiser Aluminum",
-    "Constellium"
-  ],
-  "331410": [
-    "Alcoa",
-    "Novelis",
-    "Kaiser Aluminum",
-    "Constellium"
-  ],
-  "331420": [
-    "Freeport-McMoRan",
-    "Southern Copper",
-    "Rio Tinto",
-    "BHP"
-  ],
-  "331491": [
-    "Freeport-McMoRan",
-    "Southern Copper",
-    "Rio Tinto",
-    "BHP"
-  ],
-  "331492": [
-    "Freeport-McMoRan",
-    "Southern Copper",
-    "Rio Tinto",
-    "BHP"
-  ],
-  "331511": [
-    "Waupaca Foundry",
-    "Grede",
-    "Metal Technologies",
-    "ESCO Group"
-  ],
-  "331512": [
-    "Waupaca Foundry",
-    "Grede",
-    "Metal Technologies",
-    "ESCO Group"
-  ],
-  "331513": [
-    "Waupaca Foundry",
-    "Grede",
-    "Metal Technologies",
-    "ESCO Group"
-  ],
-  "331523": [
-    "Rio Tinto",
-    "Freeport-McMoRan",
-    "Glencore",
-    "Materion"
-  ],
-  "331524": [
-    "Alcoa",
-    "Novelis",
-    "Kaiser Aluminum",
-    "Constellium"
-  ],
-  "331529": [
-    "Rio Tinto",
-    "Freeport-McMoRan",
-    "Glencore",
-    "Materion"
-  ],
-  "332111": [
-    "Scot Forge",
-    "American Axle & Manufacturing",
-    "Finkl Steel",
-    "Wyman-Gordon"
-  ],
-  "332112": [
-    "Scot Forge",
-    "American Axle & Manufacturing",
-    "Finkl Steel",
-    "Wyman-Gordon"
-  ],
-  "332114": [
-    "Roll-Kraft",
-    "Samco Machinery",
-    "Bridger Steel",
-    "The Bradbury Group"
-  ],
-  "332117": [
-    "GKN Powder Metallurgy",
-    "Höganäs",
-    "Miba",
-    "Carpenter Technology"
-  ],
-  "332119": [
-    "Magna International",
-    "Gestamp",
-    "Martinrea",
-    "Tower Automotive"
-  ],
-  "332215": [
-    "Newell Brands",
-    "Meyer Corporation",
-    "Groupe SEB",
-    "Lifetime Brands"
-  ],
-  "332216": [
-    "Stanley Black & Decker",
-    "Snap-on",
-    "Lenox",
-    "Bahco"
-  ],
-  "332311": [
-    "Nucor Buildings Group",
-    "Varco Pruden",
-    "Butler Manufacturing",
-    "Kirby Building Systems"
-  ],
-  "332312": [
-    "Nucor",
-    "Schuff Steel",
-    "Zekelman Industries",
-    "Valmont Industries"
-  ],
-  "332313": [
-    "Welded Construction",
-    "Cives Steel",
-    "Zekelman Industries",
-    "Schuff Steel"
-  ],
-  "332321": [
-    "Kawneer",
-    "YKK AP",
-    "Oldcastle BuildingEnvelope",
-    "Tubelite"
-  ],
-  "332322": [
-    "EMCOR",
-    "The Brock Group",
-    "Hensel Phelps",
-    "Comfort Systems USA"
-  ],
-  "332323": [
-    "Crown Corr",
-    "Bendheim",
-    "Horton Lees Brogden",
-    "Kawneer"
-  ],
-  "332410": [
-    "Cleaver-Brooks",
-    "Babcock & Wilcox",
-    "Fulton",
-    "Hurst Boiler"
-  ],
-  "332420": [
-    "Caldwell Tanks",
-    "McDermott",
-    "Maus",
-    "Tarsco Bolted Tank"
-  ],
-  "332431": [
-    "Ball Corporation",
-    "Crown Holdings",
-    "Silgan Holdings",
-    "Ardagh Metal Packaging"
-  ],
-  "332439": [
-    "Ball Corporation",
-    "Crown Holdings",
-    "Silgan Holdings",
-    "Sonoco"
-  ],
-  "332510": [
-    "Stanley Black & Decker",
-    "Allegion",
-    "ASSA ABLOY",
-    "Masco"
-  ],
-  "332613": [
-    "Leggett & Platt",
-    "Associated Spring",
-    "MW Industries",
-    "Diamond Wire Spring"
-  ],
-  "332618": [
-    "Leggett & Platt",
-    "Tree Island Steel",
-    "Nucor",
-    "WireCo WorldGroup"
-  ],
-  "332710": [
-    "Xometry",
-    "Proto Labs",
-    "Fictiv",
-    "MW Industries"
-  ],
-  "332721": [
-    "MW Industries",
-    "Stanley Black & Decker",
-    "Kaman",
-    "PCC Industries"
-  ],
-  "332722": [
-    "Fastenal",
-    "Illinois Tool Works",
-    "PennEngineering",
-    "Nucor"
-  ],
-  "332811": [
-    "Bodycote",
-    "Bluewater Thermal Solutions",
-    "Paulo Products",
-    "Metalex"
-  ],
-  "332812": [
-    "PPG",
-    "Axalta",
-    "Sherwin-Williams",
-    "AkzoNobel"
-  ],
-  "332813": [
-    "Northeast Metal Works",
-    "Master Metal Finishing",
-    "Advanced Plating Technologies",
-    "Kuntz Electroplating"
-  ],
-  "332911": [
-    "Emerson",
-    "Flowserve",
-    "Crane Company",
-    "Watts Water Technologies"
-  ],
-  "332912": [
-    "Emerson",
-    "Flowserve",
-    "Crane Company",
-    "Watts Water Technologies"
-  ],
-  "332913": [
-    "Masco",
-    "Moen",
-    "Kohler",
-    "American Standard"
-  ],
-  "332919": [
-    "Emerson",
-    "Flowserve",
-    "Crane Company",
-    "Watts Water Technologies"
-  ],
-  "332991": [
-    "SKF",
-    "Timken",
-    "NTN Bearing",
-    "Schaeffler"
-  ],
-  "332992": [
-    "Vista Outdoor",
-    "Federal Premium",
-    "Olin Winchester",
-    "Remington"
-  ],
-  "332993": [
-    "Northrop Grumman",
-    "General Dynamics",
-    "BAE Systems",
-    "Olin Winchester"
-  ],
-  "332994": [
-    "General Dynamics",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "BAE Systems"
-  ],
-  "332996": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "332999": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "333111": [
-    "John Deere",
-    "CNH Industrial",
-    "AGCO",
-    "Kubota"
-  ],
-  "333112": [
-    "The Toro Company",
-    "Stanley Black & Decker",
-    "Husqvarna",
-    "Briggs & Stratton"
-  ],
-  "333120": [
-    "Caterpillar",
-    "Komatsu",
-    "John Deere",
-    "Volvo Construction Equipment"
-  ],
-  "333131": [
-    "Caterpillar",
-    "Komatsu Mining",
-    "Epiroc",
-    "Sandvik"
-  ],
-  "333132": [
-    "NOV",
-    "Baker Hughes",
-    "Halliburton",
-    "SLB"
-  ],
-  "333241": [
-    "JBT Marel",
-    "Bühler",
-    "Tetra Pak",
-    "GEA Group"
-  ],
-  "333242": [
-    "Applied Materials",
-    "Lam Research",
-    "KLA",
-    "ASML"
-  ],
-  "333243": [
-    "USNR",
-    "Morbark",
-    "Baker Products",
-    "Stiles Machinery"
-  ],
-  "333248": [
-    "Illinois Tool Works",
-    "Emerson",
-    "Dover",
-    "Ingersoll Rand"
-  ],
-  "333310": [
-    "Dover",
-    "Illinois Tool Works",
-    "Middleby",
-    "Rational"
-  ],
-  "333413": [
-    "Howden",
-    "Twin City Fan",
-    "Greenheck",
-    "Loren Cook"
-  ],
-  "333414": [
-    "Carrier",
-    "Trane Technologies",
-    "Lennox",
-    "Johnson Controls"
-  ],
-  "333415": [
-    "Carrier",
-    "Trane Technologies",
-    "Lennox",
-    "Johnson Controls"
-  ],
-  "333511": [
-    "Progressive Components",
-    "Mold-Masters",
-    "Milacron",
-    "Husky Technologies"
-  ],
-  "333514": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "333515": [
-    "Kennametal",
-    "Sandvik Coromant",
-    "Iscar",
-    "Mitsubishi Materials"
-  ],
-  "333517": [
-    "Haas Automation",
-    "Mazak",
-    "DMG MORI",
-    "Okuma"
-  ],
-  "333519": [
-    "Cincinnati Incorporated",
-    "Haas Automation",
-    "Komatsu",
-    "Amada"
-  ],
-  "333611": [
-    "GE Vernova",
-    "Siemens Energy",
-    "Mitsubishi Power",
-    "Baker Hughes"
-  ],
-  "333612": [
-    "Timken Power Systems",
-    "Regal Rexnord",
-    "SEW-Eurodrive",
-    "Sumitomo Drive Technologies"
-  ],
-  "333613": [
-    "Allison Transmission",
-    "BorgWarner",
-    "Dana",
-    "Aisin"
-  ],
-  "333618": [
-    "Cummins",
-    "Caterpillar",
-    "Deere",
-    "Rolls-Royce Power Systems"
-  ],
-  "333912": [
-    "Ingersoll Rand",
-    "Atlas Copco",
-    "Sullair",
-    "Gardner Denver"
-  ],
-  "333914": [
-    "Xylem",
-    "Flowserve",
-    "Pentair",
-    "ITT"
-  ],
-  "333921": [
-    "Otis",
-    "KONE",
-    "Schindler",
-    "TK Elevator"
-  ],
-  "333922": [
-    "Flexco",
-    "Dorner",
-    "Hytrol",
-    "Daifuku"
-  ],
-  "333923": [
-    "Konecranes",
-    "Terex",
-    "Columbus McKinnon",
-    "Manitowoc"
-  ],
-  "333924": [
-    "Toyota Material Handling",
-    "Crown Equipment",
-    "Hyster-Yale",
-    "Raymond"
-  ],
-  "333991": [
-    "Stanley Black & Decker",
-    "Snap-on",
-    "Apex Tool Group",
-    "Milwaukee Tool"
-  ],
-  "333992": [
-    "Lincoln Electric",
-    "Miller Electric",
-    "ESAB",
-    "Fronius"
-  ],
-  "333993": [
-    "ProMach",
-    "Barry-Wehmiller",
-    "Krones",
-    "Sidel"
-  ],
-  "333994": [
-    "Ipsen",
-    "Lindberg/MPH",
-    "Surface Combustion",
-    "Can-Eng Furnaces"
-  ],
-  "333995": [
-    "Parker Hannifin",
-    "Eaton",
-    "Bosch Rexroth",
-    "Danfoss"
-  ],
-  "333996": [
-    "Parker Hannifin",
-    "Eaton",
-    "Danfoss",
-    "Bosch Rexroth"
-  ],
-  "333998": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "334111": [
-    "Dell Technologies",
-    "HP Inc.",
-    "Apple",
-    "Lenovo"
-  ],
-  "334112": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "334118": [
-    "HP Inc.",
-    "Logitech",
-    "Epson America",
-    "Lexmark"
-  ],
-  "334210": [
-    "Cisco",
-    "Motorola Solutions",
-    "Avaya",
-    "Panasonic"
-  ],
-  "334220": [
-    "Sony",
-    "Roku",
-    "Samsung Electronics",
-    "LG Electronics"
-  ],
-  "334290": [
-    "Cisco",
-    "Motorola Solutions",
-    "Nokia",
-    "Ericsson"
-  ],
-  "334310": [
-    "Sony",
-    "Bose",
-    "Harman",
-    "Sonos"
-  ],
-  "334412": [
-    "TTM Technologies",
-    "Sanmina",
-    "Jabil",
-    "Summit Interconnect"
-  ],
-  "334413": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "334416": [
-    "KEMET",
-    "Vishay",
-    "TDK",
-    "Murata"
-  ],
-  "334417": [
-    "TE Connectivity",
-    "Amphenol",
-    "Molex",
-    "ITT"
-  ],
-  "334418": [
-    "Jabil",
-    "Flex",
-    "Sanmina",
-    "Celestica"
-  ],
-  "334419": [
-    "Amphenol",
-    "TE Connectivity",
-    "Jabil",
-    "Flex"
-  ],
-  "334510": [
-    "Medtronic",
-    "Abbott",
-    "Stryker",
-    "Boston Scientific"
-  ],
-  "334511": [
-    "Lockheed Martin",
-    "Raytheon",
-    "Northrop Grumman",
-    "L3Harris"
-  ],
-  "334512": [
-    "Honeywell",
-    "Johnson Controls",
-    "Emerson",
-    "Carrier"
-  ],
-  "334513": [
-    "Emerson",
-    "Honeywell",
-    "Siemens",
-    "Rockwell Automation"
-  ],
-  "334514": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "334515": [
-    "Fluke",
-    "Keysight Technologies",
-    "Tektronix",
-    "Ametek"
-  ],
-  "334516": [
-    "Thermo Fisher Scientific",
-    "Danaher",
-    "Agilent",
-    "Waters Corporation"
-  ],
-  "334517": [
-    "Sterigenics",
-    "IBA",
-    "Varian",
-    "Nordion"
-  ],
-  "334519": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "334610": [
-    "Sony",
-    "Verbatim",
-    "Imation",
-    "Mitsubishi Chemical"
-  ],
-  "335131": [
-    "Acuity Brands",
-    "Hubbell",
-    "Current Lighting",
-    "Signify"
-  ],
-  "335132": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "335139": [
-    "Sylvania",
-    "GE Lighting",
-    "Philips",
-    "Feit Electric"
-  ],
-  "335210": [
-    "Newell Brands",
-    "Hamilton Beach",
-    "Conair",
-    "SharkNinja"
-  ],
-  "335220": [
-    "Whirlpool",
-    "GE Appliances",
-    "Electrolux",
-    "Samsung Electronics"
-  ],
-  "335311": [
-    "Eaton",
-    "Schneider Electric",
-    "Hitachi Energy",
-    "GE Vernova"
-  ],
-  "335312": [
-    "Regal Rexnord",
-    "Nidec",
-    "ABB",
-    "WEG"
-  ],
-  "335313": [
-    "Timken Power Systems",
-    "Regal Rexnord",
-    "SEW-Eurodrive",
-    "Sumitomo Drive Technologies"
-  ],
-  "335314": [
-    "Rockwell Automation",
-    "Eaton",
-    "Honeywell",
-    "Emerson"
-  ],
-  "335910": [
-    "Clarios",
-    "Panasonic Energy",
-    "Duracell",
-    "EnerSys"
-  ],
-  "335921": [
-    "Corning",
-    "Prysmian",
-    "CommScope",
-    "OFS"
-  ],
-  "335929": [
-    "Prysmian",
-    "Southwire",
-    "Nexans",
-    "Encore Wire"
-  ],
-  "335931": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "335932": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "335991": [
-    "GrafTech",
-    "SGL Carbon",
-    "Mersen",
-    "Tokai Carbon"
-  ],
-  "335999": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "336110": [
-    "General Motors",
-    "Ford",
-    "Toyota",
-    "Stellantis"
-  ],
-  "336120": [
-    "Daimler Truck",
-    "PACCAR",
-    "Volvo Trucks",
-    "Navistar"
-  ],
-  "336211": [
-    "Magna International",
-    "Flex-N-Gate",
-    "Gestamp",
-    "ABC Technologies"
-  ],
-  "336212": [
-    "Wabash National",
-    "Utility Trailer",
-    "Great Dane",
-    "Hyundai Translead"
-  ],
-  "336213": [
-    "Thor Industries",
-    "Winnebago Industries",
-    "Forest River",
-    "REV Group"
-  ],
-  "336214": [
-    "Thor Industries",
-    "Forest River",
-    "Winnebago Industries",
-    "REV Group"
-  ],
-  "336310": [
-    "Cummins",
-    "BorgWarner",
-    "Dana",
-    "MAHLE"
-  ],
-  "336320": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "336330": [
-    "Tenneco",
-    "BorgWarner",
-    "ZF",
-    "American Axle & Manufacturing"
-  ],
-  "336340": [
-    "Brembo",
-    "Akebono Brake",
-    "ZF",
-    "Bosch"
-  ],
-  "336350": [
-    "Allison Transmission",
-    "BorgWarner",
-    "Dana",
-    "Aisin"
-  ],
-  "336360": [
-    "Lear Corporation",
-    "Adient",
-    "Magna International",
-    "Yanfeng"
-  ],
-  "336370": [
-    "Magna International",
-    "Gestamp",
-    "Martinrea",
-    "Tower Automotive"
-  ],
-  "336390": [
-    "Lear Corporation",
-    "Aptiv",
-    "BorgWarner",
-    "Dana"
-  ],
-  "336411": [
-    "Boeing",
-    "Lockheed Martin",
-    "Northrop Grumman",
-    "Textron Aviation"
-  ],
-  "336412": [
-    "GE Aerospace",
-    "Pratt & Whitney",
-    "Rolls-Royce",
-    "Honeywell Aerospace"
-  ],
-  "336413": [
-    "Spirit AeroSystems",
-    "Collins Aerospace",
-    "Parker Aerospace",
-    "Triumph Group"
-  ],
-  "336414": [
-    "Lockheed Martin",
-    "Raytheon",
-    "Northrop Grumman",
-    "General Dynamics"
-  ],
-  "336415": [
-    "Lockheed Martin",
-    "Raytheon",
-    "Northrop Grumman",
-    "General Dynamics"
-  ],
-  "336419": [
-    "Lockheed Martin",
-    "Raytheon",
-    "Northrop Grumman",
-    "General Dynamics"
-  ],
-  "336510": [
-    "Wabtec",
-    "Alstom",
-    "Siemens Mobility",
-    "Stadler"
-  ],
-  "336611": [
-    "Huntington Ingalls",
-    "General Dynamics NASSCO",
-    "Fincantieri Marinette Marine",
-    "Austal USA"
-  ],
-  "336612": [
-    "Brunswick",
-    "Malibu Boats",
-    "MasterCraft",
-    "Correct Craft"
-  ],
-  "336991": [
-    "Harley-Davidson",
-    "Polaris",
-    "Honda",
-    "Yamaha"
-  ],
-  "336992": [
-    "General Dynamics Land Systems",
-    "BAE Systems",
-    "Oshkosh Defense",
-    "AM General"
-  ],
-  "336999": [
-    "Wabtec",
-    "Wesco",
-    "Airline Hydraulics",
-    "Bell Equipment"
-  ],
-  "337110": [
-    "MasterBrand Cabinets",
-    "American Woodmark",
-    "CabinetWorks",
-    "KraftMaid"
-  ],
-  "337121": [
-    "Ashley Furniture",
-    "La-Z-Boy",
-    "IKEA",
-    "Bassett Furniture"
-  ],
-  "337122": [
-    "Ashley Furniture",
-    "Ethan Allen",
-    "IKEA",
-    "Sauder"
-  ],
-  "337126": [
-    "Ashley Furniture",
-    "La-Z-Boy",
-    "IKEA",
-    "Steelcase"
-  ],
-  "337127": [
-    "Steelcase",
-    "Herman Miller",
-    "Haworth",
-    "Kimball International"
-  ],
-  "337211": [
-    "Steelcase",
-    "Herman Miller",
-    "Haworth",
-    "Knoll"
-  ],
-  "337212": [
-    "Masonite",
-    "JELD-WEN",
-    "Builders FirstSource",
-    "Woodgrain Millwork"
-  ],
-  "337214": [
-    "Steelcase",
-    "Herman Miller",
-    "Haworth",
-    "Knoll"
-  ],
-  "337215": [
-    "Interlake Mecalux",
-    "Rousseau Metal",
-    "Steelcase",
-    "Spacesaver"
-  ],
-  "337910": [
-    "Serta Simmons Bedding",
-    "Tempur Sealy",
-    "Spring Air",
-    "Corsicana"
-  ],
-  "337920": [
-    "Hunter Douglas",
-    "Springs Window Fashions",
-    "Bali",
-    "Norman Window Fashions"
-  ],
-  "339112": [
-    "Stryker",
-    "Medtronic",
-    "Johnson & Johnson",
-    "Boston Scientific"
-  ],
-  "339113": [
-    "Össur",
-    "Zimmer Biomet",
-    "DJO",
-    "Coloplast"
-  ],
-  "339114": [
-    "Dentsply Sirona",
-    "Henry Schein",
-    "Align Technology",
-    "Envista"
-  ],
-  "339115": [
-    "EssilorLuxottica",
-    "Johnson & Johnson Vision",
-    "Bausch + Lomb",
-    "CooperVision"
-  ],
-  "339116": [
-    "National Dentex Labs",
-    "Modern Dental USA",
-    "Affordable Dentures",
-    "Glidewell"
-  ],
-  "339910": [
-    "Signet Jewelers",
-    "Tiffany & Co.",
-    "Pandora",
-    "Brilliant Earth"
-  ],
-  "339920": [
-    "Nike",
-    "Wilson Sporting Goods",
-    "Easton",
-    "Callaway"
-  ],
-  "339930": [
-    "Mattel",
-    "Hasbro",
-    "Spin Master",
-    "MGA Entertainment"
-  ],
-  "339940": [
-    "ACCO Brands",
-    "Newell Brands",
-    "Avery Products",
-    "Staples"
-  ],
-  "339950": [
-    "YESCO",
-    "Federal Heath",
-    "Watchfire Signs",
-    "Daktronics"
-  ],
-  "339991": [
-    "Reddy Ice",
-    "Home City Ice",
-    "Arctic Glacier",
-    "Penguin Ice"
-  ],
-  "339992": [
-    "Fender",
-    "Gibson Brands",
-    "Yamaha",
-    "Steinway & Sons"
-  ],
-  "339993": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "339994": [
-    "The Libman Company",
-    "Rubbermaid",
-    "Fuller Brush",
-    "O-Cedar"
-  ],
-  "339995": [
-    "Hillenbrand",
-    "Matthews International",
-    "Batesville",
-    "Aurora Casket"
-  ],
-  "339999": [
-    "Honeywell",
-    "3M",
-    "Illinois Tool Works",
-    "Emerson"
-  ],
-  "423110": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423120": [
-    "Genuine Parts Company",
-    "LKQ Corporation",
-    "AutoZone",
-    "Advance Auto Parts"
-  ],
-  "423130": [
-    "TireHub",
-    "American Tire Distributors",
-    "Goodyear",
-    "Michelin"
-  ],
-  "423140": [
-    "Lear Corporation",
-    "Aptiv",
-    "BorgWarner",
-    "Dana"
-  ],
-  "423210": [
-    "Furniture Row",
-    "Legends Furniture",
-    "Ashley Furniture",
-    "Hooker Furnishings"
-  ],
-  "423220": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423310": [
-    "Masonite",
-    "JELD-WEN",
-    "Builders FirstSource",
-    "Woodgrain Millwork"
-  ],
-  "423320": [
-    "Builders FirstSource",
-    "ABC Supply",
-    "Beacon Building Products",
-    "Ferguson"
-  ],
-  "423330": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423390": [
-    "Builders FirstSource",
-    "ABC Supply",
-    "Beacon Building Products",
-    "Ferguson"
-  ],
-  "423410": [
-    "Nikon",
-    "Canon",
-    "Sony",
-    "B&H Photo"
-  ],
-  "423420": [
-    "Xerox",
-    "Ricoh",
-    "Konica Minolta",
-    "Canon"
-  ],
-  "423430": [
-    "HP Inc.",
-    "Logitech",
-    "Epson America",
-    "Lexmark"
-  ],
-  "423440": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423450": [
-    "Medline",
-    "McKesson Medical-Surgical",
-    "Henry Schein",
-    "Cardinal Health"
-  ],
-  "423460": [
-    "EssilorLuxottica",
-    "Johnson & Johnson Vision",
-    "Bausch + Lomb",
-    "CooperVision"
-  ],
-  "423490": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423510": [
-    "Ryerson",
-    "Kloeckner Metals",
-    "Reliance",
-    "Russel Metals"
-  ],
-  "423520": [
-    "Glencore",
-    "Vitol",
-    "Trafigura",
-    "Cargill"
-  ],
-  "423610": [
-    "WESCO International",
-    "Graybar",
-    "Sonepar",
-    "Rexel"
-  ],
-  "423620": [
-    "Ferguson",
-    "WESCO International",
-    "ADI Global",
-    "Mayer Electric"
-  ],
-  "423690": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423710": [
-    "Ferguson",
-    "HD Supply",
-    "Fastenal",
-    "Grainger"
-  ],
-  "423720": [
-    "Carrier",
-    "Trane Technologies",
-    "Lennox",
-    "Johnson Controls"
-  ],
-  "423730": [
-    "Carrier",
-    "Trane Technologies",
-    "Lennox",
-    "Daikin Applied"
-  ],
-  "423740": [
-    "United Refrigeration",
-    "Baker Distributing",
-    "Watsco",
-    "Ferguson"
-  ],
-  "423810": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423820": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "423830": [
-    "Illinois Tool Works",
-    "Emerson",
-    "Dover",
-    "Ingersoll Rand"
-  ],
-  "423840": [
-    "Grainger",
-    "Fastenal",
-    "MSC Industrial",
-    "Motion Industries"
-  ],
-  "423850": [
-    "Edward Don & Company",
-    "TriMark USA",
-    "Singer Equipment",
-    "KaTom"
-  ],
-  "423860": [
-    "Wabtec",
-    "Wesco",
-    "Airline Hydraulics",
-    "Bell Equipment"
-  ],
-  "423910": [
-    "Nike",
-    "Callaway",
-    "Wilson Sporting Goods",
-    "The North Face"
-  ],
-  "423920": [
-    "MGA Entertainment",
-    "Hasbro",
-    "Mattel",
-    "Bandai Namco"
-  ],
-  "423930": [
-    "Sims Metal",
-    "Commercial Metals",
-    "Radius Recycling",
-    "Waste Management"
-  ],
-  "423940": [
-    "Signet Jewelers",
-    "Tiffany & Co.",
-    "Pandora",
-    "Brilliant Earth"
-  ],
-  "423990": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "424110": [
-    "RR Donnelley",
-    "Quad",
-    "Cenveo",
-    "LSC Communications"
-  ],
-  "424120": [
-    "ACCO Brands",
-    "Avery Products",
-    "Dixon Ticonderoga",
-    "Smead"
-  ],
-  "424130": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "424210": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "424310": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "424340": [
-    "Nike",
-    "Skechers",
-    "Wolverine Worldwide",
-    "New Balance"
-  ],
-  "424350": [
-    "TJX Companies",
-    "Ross Stores",
-    "Gap",
-    "H&M"
-  ],
-  "424410": [
-    "C&S Wholesale Grocers",
-    "McLane Company",
-    "UNFI",
-    "KeHE Distributors"
-  ],
-  "424420": [
-    "Lineage",
-    "Conagra Brands",
-    "Sysco",
-    "US Foods"
-  ],
-  "424430": [
-    "Dairy Farmers of America",
-    "Land O'Lakes",
-    "Saputo Dairy USA",
-    "Glanbia Nutritionals"
-  ],
-  "424440": [
-    "Tyson Foods",
-    "Pilgrim's Pride",
-    "Perdue Farms",
-    "Wayne-Sanderson Farms"
-  ],
-  "424450": [
-    "Mars",
-    "The Hershey Company",
-    "Ferrero",
-    "Mondelez International"
-  ],
-  "424460": [
-    "Trident Seafoods",
-    "Thai Union USA",
-    "Bumble Bee Foods",
-    "High Liner Foods"
-  ],
-  "424470": [
-    "Sysco",
-    "US Foods",
-    "Cargill Protein",
-    "JBS USA"
-  ],
-  "424480": [
-    "Fresh Del Monte",
-    "Dole",
-    "Chiquita",
-    "Sunkist"
-  ],
-  "424490": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "424510": [
-    "ADM",
-    "Cargill",
-    "Bunge",
-    "CHS"
-  ],
-  "424520": [
-    "Cargill",
-    "JBS USA",
-    "Tyson Foods",
-    "National Beef"
-  ],
-  "424590": [
-    "Cargill",
-    "ADM",
-    "Bunge",
-    "CHS"
-  ],
-  "424610": [
-    "Dow",
-    "ExxonMobil Chemical",
-    "LyondellBasell",
-    "Westlake"
-  ],
-  "424690": [
-    "Univar Solutions",
-    "Brenntag",
-    "Azelis",
-    "Gates Corporation"
-  ],
-  "424710": [
-    "Kinder Morgan",
-    "Vitol",
-    "Marathon Petroleum",
-    "Buckeye Partners"
-  ],
-  "424720": [
-    "Vitol",
-    "Trafigura",
-    "Marathon Petroleum",
-    "Phillips 66"
-  ],
-  "424810": [
-    "Reyes Beverage Group",
-    "Coca-Cola Consolidated",
-    "Breakthru Beverage",
-    "Columbia Distributing"
-  ],
-  "424820": [
-    "Southern Glazer's Wine & Spirits",
-    "RNDC",
-    "Breakthru Beverage",
-    "Young's Market"
-  ],
-  "424910": [
-    "Nutrien Ag Solutions",
-    "Helena Agri-Enterprises",
-    "CHS",
-    "SiteOne Landscape Supply"
-  ],
-  "424920": [
-    "Ingram Content Group",
-    "Simon & Schuster",
-    "Penguin Random House",
-    "Baker & Taylor"
-  ],
-  "424930": [
-    "SiteOne Landscape Supply",
-    "BFG Supply",
-    "Ewing Irrigation",
-    "Horizon Distributors"
-  ],
-  "424940": [
-    "Altria",
-    "Reynolds American",
-    "ITG Brands",
-    "Swisher"
-  ],
-  "424950": [
-    "Sherwin-Williams",
-    "PPG",
-    "Benjamin Moore",
-    "Genuine Parts Company"
-  ],
-  "424990": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "425120": [
-    "Grainger",
-    "Ferguson",
-    "Sysco",
-    "C.H. Robinson"
-  ],
-  "441110": [
-    "AutoNation",
-    "Penske Automotive",
-    "Lithia Motors",
-    "Group 1 Automotive"
-  ],
-  "441120": [
-    "CarMax",
-    "Carvana",
-    "AutoNation",
-    "Lithia Motors"
-  ],
-  "441210": [
-    "Camping World",
-    "General RV Center",
-    "LaMesa RV",
-    "Curtis Trailers"
-  ],
-  "441222": [
-    "MarineMax",
-    "OneWater Marine",
-    "Bass Pro Shops",
-    "West Marine"
-  ],
-  "441227": [
-    "Harley-Davidson",
-    "Polaris",
-    "Honda",
-    "Yamaha"
-  ],
-  "441330": [
-    "AutoZone",
-    "O'Reilly Auto Parts",
-    "Advance Auto Parts",
-    "NAPA"
-  ],
-  "441340": [
-    "Discount Tire",
-    "Les Schwab",
-    "Goodyear",
-    "NTB"
-  ],
-  "444110": [
-    "The Home Depot",
-    "Lowe's",
-    "Menards",
-    "84 Lumber"
-  ],
-  "444120": [
-    "Sherwin-Williams",
-    "The Home Depot",
-    "Lowe's",
-    "Benjamin Moore"
-  ],
-  "444140": [
-    "Ace Hardware",
-    "True Value",
-    "The Home Depot",
-    "Lowe's"
-  ],
-  "444180": [
-    "Builders FirstSource",
-    "84 Lumber",
-    "ABC Supply",
-    "Lowe's"
-  ],
-  "444230": [
-    "Tractor Supply",
-    "The Home Depot",
-    "Lowe's",
-    "Husqvarna"
-  ],
-  "444240": [
-    "Tractor Supply",
-    "SiteOne Landscape Supply",
-    "The Home Depot",
-    "Lowe's"
-  ],
-  "445110": [
-    "Kroger",
-    "Albertsons",
-    "Publix",
-    "Ahold Delhaize USA"
-  ],
-  "445131": [
-    "7-Eleven",
-    "Circle K",
-    "Casey's",
-    "Wawa"
-  ],
-  "445132": [
-    "Aramark",
-    "Canteen",
-    "Selecta",
-    "Compass Group"
-  ],
-  "445230": [
-    "The Fresh Market",
-    "Whole Foods Market",
-    "Sprouts Farmers Market",
-    "Kroger"
-  ],
-  "445240": [
-    "Kroger",
-    "Publix",
-    "Albertsons",
-    "Walmart"
-  ],
-  "445250": [
-    "Trident Seafoods",
-    "Thai Union USA",
-    "Bumble Bee Foods",
-    "High Liner Foods"
-  ],
-  "445291": [
-    "Panera Bread",
-    "Nothing Bundt Cakes",
-    "Cinnabon",
-    "Great Harvest"
-  ],
-  "445292": [
-    "Mars",
-    "The Hershey Company",
-    "Ferrero",
-    "Mondelez International"
-  ],
-  "445298": [
-    "Whole Foods Market",
-    "Trader Joe's",
-    "Sprouts Farmers Market",
-    "The Fresh Market"
-  ],
-  "445320": [
-    "Total Wine & More",
-    "Drizly",
-    "BevMo!",
-    "Binny's"
-  ],
-  "449110": [
-    "Ashley Furniture",
-    "IKEA",
-    "Rooms To Go",
-    "Wayfair"
-  ],
-  "449121": [
-    "Floor & Decor",
-    "The Home Depot",
-    "Lowe's",
-    "LL Flooring"
-  ],
-  "449122": [
-    "Budget Blinds",
-    "Blinds To Go",
-    "Hunter Douglas",
-    "The Home Depot"
-  ],
-  "449129": [
-    "Williams-Sonoma",
-    "Wayfair",
-    "Bed Bath & Beyond",
-    "At Home"
-  ],
-  "449210": [
-    "Best Buy",
-    "The Home Depot",
-    "Lowe's",
-    "Amazon"
-  ],
-  "455110": [
-    "Macy's",
-    "Kohl's",
-    "Nordstrom",
-    "JCPenney"
-  ],
-  "455211": [
-    "Walmart",
-    "Costco",
-    "Sam's Club",
-    "BJ's Wholesale Club"
-  ],
-  "455219": [
-    "Walmart",
-    "Target",
-    "Amazon",
-    "Dollar General"
-  ],
-  "456110": [
-    "CVS Health",
-    "Walgreens Boots Alliance",
-    "Walmart",
-    "Rite Aid"
-  ],
-  "456120": [
-    "Ulta Beauty",
-    "Sephora",
-    "Sally Beauty",
-    "Bath & Body Works"
-  ],
-  "456130": [
-    "LensCrafters",
-    "Warby Parker",
-    "Visionworks",
-    "America's Best"
-  ],
-  "456191": [
-    "Walmart",
-    "Target",
-    "Amazon",
-    "Kroger"
-  ],
-  "456199": [
-    "CVS Health",
-    "Walgreens",
-    "Walmart",
-    "Dollar General"
-  ],
-  "457110": [
-    "Shell",
-    "Circle K",
-    "BP",
-    "ExxonMobil"
-  ],
-  "457120": [
-    "Shell",
-    "Circle K",
-    "BP",
-    "ExxonMobil"
-  ],
-  "457210": [
-    "AmeriGas",
-    "Suburban Propane",
-    "Ferrellgas",
-    "Heritage Cooperative"
-  ],
-  "458110": [
-    "TJX Companies",
-    "Ross Stores",
-    "Gap",
-    "H&M"
-  ],
-  "458210": [
-    "Foot Locker",
-    "Famous Footwear",
-    "DSW",
-    "Shoe Carnival"
-  ],
-  "458310": [
-    "Signet Jewelers",
-    "Tiffany & Co.",
-    "Pandora",
-    "Brilliant Earth"
-  ],
-  "458320": [
-    "Tumi",
-    "Samsonite",
-    "Coach",
-    "Travelpro"
-  ],
-  "459110": [
-    "Dick's Sporting Goods",
-    "Academy Sports",
-    "REI",
-    "Bass Pro Shops"
-  ],
-  "459120": [
-    "GameStop",
-    "Michaels",
-    "Hobby Lobby",
-    "Build-A-Bear"
-  ],
-  "459130": [
-    "Joann",
-    "Hobby Lobby",
-    "Michaels",
-    "The Sewing Basket"
-  ],
-  "459140": [
-    "Fender",
-    "Gibson Brands",
-    "Yamaha",
-    "Steinway & Sons"
-  ],
-  "459210": [
-    "Barnes & Noble",
-    "Books-A-Million",
-    "Amazon",
-    "Half Price Books"
-  ],
-  "459310": [
-    "1-800-Flowers.com",
-    "FTD",
-    "Teleflora",
-    "ProFlowers"
-  ],
-  "459410": [
-    "ACCO Brands",
-    "Avery Products",
-    "Dixon Ticonderoga",
-    "Smead"
-  ],
-  "459420": [
-    "Spencer Gifts",
-    "Hallmark",
-    "Five Below",
-    "Papyrus"
-  ],
-  "459510": [
-    "Goodwill",
-    "Savers",
-    "Plato's Closet",
-    "The Salvation Army"
-  ],
-  "459910": [
-    "PetSmart",
-    "Petco",
-    "Chewy",
-    "Tractor Supply"
-  ],
-  "459920": [
-    "Sotheby's",
-    "Christie's",
-    "Haven Art Group",
-    "Artsy"
-  ],
-  "459930": [
-    "Walmart",
-    "Target",
-    "Amazon",
-    "Kroger"
-  ],
-  "459991": [
-    "Altria",
-    "Reynolds American",
-    "ITG Brands",
-    "Swisher"
-  ],
-  "459999": [
-    "Walmart",
-    "Target",
-    "Amazon",
-    "Kroger"
-  ],
-  "481111": [
-    "American Airlines",
-    "Delta Air Lines",
-    "United Airlines",
-    "Southwest Airlines"
-  ],
-  "481112": [
-    "FedEx Express",
-    "UPS Airlines",
-    "Atlas Air",
-    "DHL Aviation"
-  ],
-  "481211": [
-    "American Airlines",
-    "Delta Air Lines",
-    "United Airlines",
-    "Southwest Airlines"
-  ],
-  "481212": [
-    "FedEx Express",
-    "UPS Airlines",
-    "Atlas Air",
-    "DHL Aviation"
-  ],
-  "481219": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "483111": [
-    "Maersk",
-    "MSC",
-    "CMA CGM",
-    "Hapag-Lloyd"
-  ],
-  "483112": [
-    "Carnival Cruise Line",
-    "Royal Caribbean",
-    "Norwegian Cruise Line",
-    "Disney Cruise Line"
-  ],
-  "483113": [
-    "Kirby Corporation",
-    "Ingram Barge",
-    "American Steamship Company",
-    "Interlake Steamship"
-  ],
-  "483114": [
-    "Washington State Ferries",
-    "Martha's Vineyard Steamship",
-    "Golden Gate Ferry",
-    "NYC Ferry"
-  ],
-  "483211": [
-    "Kirby Corporation",
-    "Ingram Barge",
-    "American Commercial Barge Line",
-    "Cargill Marine"
-  ],
-  "483212": [
-    "NYC Ferry",
-    "Hornblower",
-    "Washington State Ferries",
-    "Alcatraz City Cruises"
-  ],
-  "484110": [
-    "Ryder",
-    "Penske Logistics",
-    "J.B. Hunt",
-    "Estes Express Lines"
-  ],
-  "484121": [
-    "J.B. Hunt",
-    "Schneider National",
-    "Werner Enterprises",
-    "Knight-Swift"
-  ],
-  "484122": [
-    "J.B. Hunt",
-    "Schneider National",
-    "Werner Enterprises",
-    "Knight-Swift"
-  ],
-  "484210": [
-    "U-Haul",
-    "United Van Lines",
-    "Mayflower Transit",
-    "Allied Van Lines"
-  ],
-  "484220": [
-    "Ryder",
-    "Penske Logistics",
-    "J.B. Hunt",
-    "TForce Freight"
-  ],
-  "484230": [
-    "Ryder",
-    "Penske Logistics",
-    "J.B. Hunt",
-    "TForce Freight"
-  ],
-  "485111": [
-    "New York MTA",
-    "WMATA",
-    "Chicago Transit Authority",
-    "LA Metro"
-  ],
-  "485112": [
-    "New Jersey Transit",
-    "Metropolitan Transportation Authority",
-    "Metra",
-    "Caltrain"
-  ],
-  "485113": [
-    "First Transit",
-    "Transdev",
-    "MV Transportation",
-    "Keolis"
-  ],
-  "485119": [
-    "New York MTA",
-    "Chicago Transit Authority",
-    "LA Metro",
-    "SEPTA"
-  ],
-  "485210": [
-    "Greyhound",
-    "Jefferson Lines",
-    "Trailways",
-    "Coach USA"
-  ],
-  "485310": [
-    "Uber",
-    "Lyft",
-    "Curb",
-    "Yellow Cab"
-  ],
-  "485320": [
-    "Carey International",
-    "EmpireCLS",
-    "Dav El | BostonCoach",
-    "ExecuCar"
-  ],
-  "485410": [
-    "First Student",
-    "National Express",
-    "Transdev",
-    "DATTCO"
-  ],
-  "485510": [
-    "Coach USA",
-    "Academy Bus",
-    "Greyhound",
-    "Peter Pan Bus Lines"
-  ],
-  "485991": [
-    "MV Transportation",
-    "Transdev",
-    "Medical Transportation Management",
-    "Modivcare"
-  ],
-  "485999": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "486110": [
-    "Kinder Morgan",
-    "Enbridge",
-    "Plains All American",
-    "Enterprise Products"
-  ],
-  "486210": [
-    "Kinder Morgan",
-    "Enbridge",
-    "Williams",
-    "Energy Transfer"
-  ],
-  "486910": [
-    "Kinder Morgan",
-    "Enbridge",
-    "Williams",
-    "Energy Transfer"
-  ],
-  "486990": [
-    "Kinder Morgan",
-    "Enbridge",
-    "Williams",
-    "Energy Transfer"
-  ],
-  "487110": [
-    "Gray Line",
-    "Big Bus Tours",
-    "City Experiences",
-    "Viator"
-  ],
-  "487210": [
-    "Gray Line",
-    "Big Bus Tours",
-    "City Experiences",
-    "Viator"
-  ],
-  "487990": [
-    "Gray Line",
-    "Big Bus Tours",
-    "City Experiences",
-    "Viator"
-  ],
-  "488111": [
-    "FAA",
-    "L3Harris",
-    "Raytheon",
-    "SAIC"
-  ],
-  "488119": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "488190": [
-    "Swissport",
-    "Menzies Aviation",
-    "Dnata",
-    "Airport Terminal Services"
-  ],
-  "488210": [
-    "Progress Rail",
-    "Loram Maintenance",
-    "Herzog",
-    "RailWorks"
-  ],
-  "488310": [
-    "Ports America",
-    "SSA Marine",
-    "ICTSI",
-    "Ceres Terminals"
-  ],
-  "488320": [
-    "Ports America",
-    "SSA Marine",
-    "Long Beach Container Terminal",
-    "Ceres Terminals"
-  ],
-  "488330": [
-    "L3Harris",
-    "Raytheon",
-    "Garmin",
-    "Furuno"
-  ],
-  "488390": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "488410": [
-    "AAA",
-    "LKQ",
-    "Copart",
-    "Agero"
-  ],
-  "488490": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "488510": [
-    "C.H. Robinson",
-    "Expeditors",
-    "Kuehne+Nagel",
-    "DSV"
-  ],
-  "488991": [
-    "FedEx Office",
-    "UPS Store",
-    "Craters & Freighters",
-    "Packsize"
-  ],
-  "488999": [
-    "UPS",
-    "FedEx",
-    "J.B. Hunt",
-    "Ryder"
-  ],
-  "492110": [
-    "UPS",
-    "FedEx",
-    "DHL",
-    "Amazon Logistics"
-  ],
-  "492210": [
-    "Uber Eats",
-    "DoorDash",
-    "Roadie",
-    "Postmates"
-  ],
-  "493110": [
-    "GXO Logistics",
-    "DHL Supply Chain",
-    "Ryder",
-    "Prologis"
-  ],
-  "493120": [
-    "Lineage Logistics",
-    "Americold",
-    "United States Cold Storage",
-    "VersaCold"
-  ],
-  "493130": [
-    "C.H. Robinson",
-    "Americold",
-    "Gavilon",
-    "The Andersons"
-  ],
-  "493190": [
-    "UPS",
-    "FedEx",
-    "GXO Logistics",
-    "Prologis"
-  ],
-  "512110": [
-    "Walt Disney Studios",
-    "Universal Pictures",
-    "Warner Bros. Pictures",
-    "Paramount Pictures"
-  ],
-  "512120": [
-    "Warner Bros. Discovery",
-    "The Walt Disney Company",
-    "Universal Pictures",
-    "Sony Pictures"
-  ],
-  "512131": [
-    "AMC Theatres",
-    "Regal Cinemas",
-    "Cinemark",
-    "Marcus Theatres"
-  ],
-  "512132": [
-    "AMC Theatres",
-    "Regal Cinemas",
-    "Cinemark",
-    "Marcus Theatres"
-  ],
-  "512191": [
-    "Deluxe Entertainment",
-    "Company 3",
-    "FotoKem",
-    "Pixelogic Media"
-  ],
-  "512199": [
-    "Microsoft",
-    "Alphabet",
-    "Comcast",
-    "AT&T"
-  ],
-  "512230": [
-    "Universal Music Publishing",
-    "Sony Music Publishing",
-    "Warner Chappell",
-    "Kobalt Music"
-  ],
-  "512240": [
-    "Universal Music Group",
-    "Sony Music Entertainment",
-    "Warner Music Group",
-    "Atlantic Records"
-  ],
-  "512250": [
-    "Universal Music Group",
-    "Sony Music Entertainment",
-    "Warner Music Group",
-    "Concord"
-  ],
-  "512290": [
-    "Microsoft",
-    "Alphabet",
-    "Comcast",
-    "AT&T"
-  ],
-  "513110": [
-    "Gannett",
-    "News Corp",
-    "McClatchy",
-    "Hearst Newspapers"
-  ],
-  "513120": [
-    "Condé Nast",
-    "Hearst Magazines",
-    "Meredith",
-    "Dotdash Meredith"
-  ],
-  "513130": [
-    "Penguin Random House",
-    "HarperCollins",
-    "Simon & Schuster",
-    "Hachette Book Group"
-  ],
-  "513140": [
-    "DexKo Global",
-    "Yell",
-    "DexOne",
-    "RR Donnelley"
-  ],
-  "513191": [
-    "Hallmark",
-    "American Greetings",
-    "Papyrus",
-    "Blue Mountain Arts"
-  ],
-  "513199": [
-    "Microsoft",
-    "Alphabet",
-    "Comcast",
-    "AT&T"
-  ],
-  "513210": [
-    "Microsoft",
-    "Oracle",
-    "Adobe",
-    "Intuit"
-  ],
-  "516110": [
-    "iHeartMedia",
-    "Audacy",
-    "Cumulus Media",
-    "Townsquare Media"
-  ],
-  "516120": [
-    "Comcast NBCUniversal",
-    "The Walt Disney Company",
-    "Fox Corporation",
-    "Paramount Global"
-  ],
-  "516210": [
-    "Netflix",
-    "Alphabet",
-    "Meta",
-    "Amazon"
-  ],
-  "517111": [
-    "AT&T",
-    "Comcast",
-    "Verizon",
-    "Charter Communications"
-  ],
-  "517112": [
-    "Verizon",
-    "AT&T",
-    "T-Mobile",
-    "Dish Network"
-  ],
-  "517121": [
-    "TracFone",
-    "Ting Mobile",
-    "Boost Mobile",
-    "Consumer Cellular"
-  ],
-  "517122": [
-    "Verizon",
-    "AT&T",
-    "T-Mobile",
-    "Dish Network"
-  ],
-  "517410": [
-    "SpaceX Starlink",
-    "Viasat",
-    "EchoStar",
-    "SES"
-  ],
-  "517810": [
-    "American Tower",
-    "Crown Castle",
-    "Zayo",
-    "Lumen Technologies"
-  ],
-  "518210": [
-    "Amazon Web Services",
-    "Microsoft Azure",
-    "Google Cloud",
-    "Oracle Cloud"
-  ],
-  "519210": [
-    "New York Public Library",
-    "Library of Congress",
-    "Chicago Public Library",
-    "Los Angeles Public Library"
-  ],
-  "519290": [
-    "Alphabet",
-    "Microsoft",
-    "Meta",
-    "Verizon Media"
-  ],
-  "521110": [
-    "Federal Reserve System",
-    "Federal Reserve Bank of New York",
-    "Federal Reserve Bank of Chicago",
-    "Federal Reserve Bank of San Francisco"
-  ],
-  "522110": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Wells Fargo",
-    "Citigroup"
-  ],
-  "522130": [
-    "Navy Federal Credit Union",
-    "State Employees' Credit Union",
-    "America First Credit Union",
-    "Boeing Employees Credit Union"
-  ],
-  "522180": [
-    "U.S. Bancorp",
-    "Truist",
-    "Fifth Third Bank",
-    "M&T Bank"
-  ],
-  "522210": [
-    "JPMorgan Chase",
-    "American Express",
-    "Capital One",
-    "Citibank"
-  ],
-  "522220": [
-    "Ally Financial",
-    "Ford Credit",
-    "Toyota Financial Services",
-    "Synchrony"
-  ],
-  "522291": [
-    "LendingClub",
-    "Discover",
-    "SoFi",
-    "OneMain Financial"
-  ],
-  "522292": [
-    "Rocket Mortgage",
-    "United Wholesale Mortgage",
-    "Mr. Cooper",
-    "PennyMac"
-  ],
-  "522299": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "522310": [
-    "LendingTree",
-    "Rocket Mortgage",
-    "Guaranteed Rate",
-    "Fairway Independent Mortgage"
-  ],
-  "522320": [
-    "FIS",
-    "Fiserv",
-    "Global Payments",
-    "Jack Henry"
-  ],
-  "522390": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "523150": [
-    "JPMorgan Chase",
-    "Goldman Sachs",
-    "Morgan Stanley",
-    "Bank of America"
-  ],
-  "523160": [
-    "Cargill",
-    "J.P. Morgan",
-    "Goldman Sachs",
-    "Morgan Stanley"
-  ],
-  "523210": [
-    "CME Group",
-    "Intercontinental Exchange",
-    "Nasdaq",
-    "Cboe Global Markets"
-  ],
-  "523910": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "523940": [
-    "BlackRock",
-    "Vanguard",
-    "Fidelity Investments",
-    "State Street Global Advisors"
-  ],
-  "523991": [
-    "BNY Mellon",
-    "State Street",
-    "Northern Trust",
-    "JPMorgan Chase"
-  ],
-  "523999": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "524113": [
-    "Berkshire Hathaway",
-    "MetLife",
-    "Prudential Financial",
-    "New York Life"
-  ],
-  "524114": [
-    "Berkshire Hathaway",
-    "MetLife",
-    "Prudential Financial",
-    "New York Life"
-  ],
-  "524126": [
-    "Berkshire Hathaway",
-    "MetLife",
-    "Prudential Financial",
-    "New York Life"
-  ],
-  "524127": [
-    "Berkshire Hathaway",
-    "MetLife",
-    "Prudential Financial",
-    "New York Life"
-  ],
-  "524128": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "524130": [
-    "Berkshire Hathaway",
-    "MetLife",
-    "Prudential Financial",
-    "New York Life"
-  ],
-  "524210": [
-    "Marsh McLennan",
-    "Aon",
-    "Arthur J. Gallagher",
-    "Brown & Brown"
-  ],
-  "524291": [
-    "Crawford & Company",
-    "Sedgwick",
-    "PMA Companies",
-    "Gallagher Bassett"
-  ],
-  "524292": [
-    "CVS Caremark",
-    "Express Scripts",
-    "Optum Rx",
-    "Prime Therapeutics"
-  ],
-  "524298": [
-    "JPMorgan Chase",
-    "Bank of America",
-    "Berkshire Hathaway",
-    "BlackRock"
-  ],
-  "531110": [
-    "AvalonBay Communities",
-    "Equity Residential",
-    "Invitation Homes",
-    "American Homes 4 Rent"
-  ],
-  "531120": [
-    "AvalonBay Communities",
-    "Equity Residential",
-    "Invitation Homes",
-    "American Homes 4 Rent"
-  ],
-  "531130": [
-    "Public Storage",
-    "Extra Space Storage",
-    "CubeSmart",
-    "U-Haul"
-  ],
-  "531190": [
-    "CBRE",
-    "JLL",
-    "Prologis",
-    "Enterprise Mobility"
-  ],
-  "531210": [
-    "CBRE",
-    "JLL",
-    "Cushman & Wakefield",
-    "Colliers"
-  ],
-  "531311": [
-    "Greystar",
-    "FirstService Corporation",
-    "Lincoln Property Company",
-    "Cushman & Wakefield"
-  ],
-  "531312": [
-    "Greystar",
-    "FirstService Corporation",
-    "Lincoln Property Company",
-    "Cushman & Wakefield"
-  ],
-  "531320": [
-    "Cushman & Wakefield",
-    "CBRE",
-    "JLL",
-    "CoreLogic"
-  ],
-  "531390": [
-    "CBRE",
-    "JLL",
-    "Prologis",
-    "Enterprise Mobility"
-  ],
-  "532111": [
-    "Enterprise Mobility",
-    "Hertz",
-    "Avis Budget Group",
-    "Sixt"
-  ],
-  "532112": [
-    "Enterprise Mobility",
-    "Hertz",
-    "Ayvens",
-    "LeasePlan"
-  ],
-  "532120": [
-    "Ryder",
-    "Penske",
-    "United Rentals",
-    "Herc Rentals"
-  ],
-  "532210": [
-    "CBRE",
-    "JLL",
-    "Prologis",
-    "Enterprise Mobility"
-  ],
-  "532281": [
-    "Men's Wearhouse",
-    "Generation Tux",
-    "Al's Formal Wear",
-    "Kleinfield"
-  ],
-  "532282": [
-    "Redbox",
-    "Family Video",
-    "Netflix",
-    "GameFly"
-  ],
-  "532283": [
-    "Apria Healthcare",
-    "Lincare",
-    "Rotech Healthcare",
-    "AdaptHealth"
-  ],
-  "532284": [
-    "Rent-A-Center",
-    "Sunbelt Rentals",
-    "United Rentals",
-    "REI"
-  ],
-  "532289": [
-    "CBRE",
-    "JLL",
-    "Prologis",
-    "Enterprise Mobility"
-  ],
-  "532310": [
-    "United Rentals",
-    "Sunbelt Rentals",
-    "Herc Rentals",
-    "Home Depot Rental"
-  ],
-  "532411": [
-    "Wabtec",
-    "Wesco",
-    "Airline Hydraulics",
-    "Bell Equipment"
-  ],
-  "532412": [
-    "United Rentals",
-    "Sunbelt Rentals",
-    "Herc Rentals",
-    "H&E Equipment Services"
-  ],
-  "532420": [
-    "Xerox",
-    "Ricoh",
-    "Canon",
-    "Konica Minolta"
-  ],
-  "532490": [
-    "Illinois Tool Works",
-    "Emerson",
-    "Dover",
-    "Ingersoll Rand"
-  ],
-  "533110": [
-    "IBM",
-    "Microsoft",
-    "Oracle",
-    "Dolby Laboratories"
-  ],
-  "541110": [
-    "Kirkland & Ellis",
-    "Baker McKenzie",
-    "Latham & Watkins",
-    "DLA Piper"
-  ],
-  "541191": [
-    "First American",
-    "Fidelity National Financial",
-    "Old Republic",
-    "Stewart Title"
-  ],
-  "541199": [
-    "LegalZoom",
-    "Baker McKenzie",
-    "DLA Piper",
-    "Kirkland & Ellis"
-  ],
-  "541211": [
-    "Deloitte",
-    "PwC",
-    "EY",
-    "KPMG"
-  ],
-  "541213": [
-    "H&R Block",
-    "Jackson Hewitt",
-    "Intuit",
-    "Liberty Tax"
-  ],
-  "541214": [
-    "ADP",
-    "Paychex",
-    "Paycor",
-    "UKG"
-  ],
-  "541219": [
-    "Deloitte",
-    "PwC",
-    "EY",
-    "KPMG"
-  ],
-  "541310": [
-    "Gensler",
-    "AECOM",
-    "HOK",
-    "Perkins&Will"
-  ],
-  "541320": [
-    "Gensler",
-    "AECOM",
-    "HOK",
-    "Perkins&Will"
-  ],
-  "541330": [
-    "AECOM",
-    "Jacobs",
-    "Bechtel",
-    "WSP USA"
-  ],
-  "541340": [
-    "AECOM",
-    "Jacobs",
-    "HNTB",
-    "Kimley-Horn"
-  ],
-  "541350": [
-    "Bureau Veritas",
-    "Intertek",
-    "UL Solutions",
-    "SOCOTEC"
-  ],
-  "541360": [
-    "CGG",
-    "SLB",
-    "TGS",
-    "Fugro"
-  ],
-  "541370": [
-    "WSP USA",
-    "Stantec",
-    "Dewberry",
-    "Kimley-Horn"
-  ],
-  "541380": [
-    "Eurofins Scientific",
-    "SGS",
-    "Intertek",
-    "Bureau Veritas"
-  ],
-  "541410": [
-    "Gensler",
-    "HOK",
-    "Perkins&Will",
-    "IA Interior Architects"
-  ],
-  "541420": [
-    "IDEO",
-    "frog",
-    "Teague",
-    "Designworks"
-  ],
-  "541430": [
-    "Pentagram",
-    "Landor & Fitch",
-    "Wolff Olins",
-    "Chermayeff & Geismar"
-  ],
-  "541490": [
-    "IDEO",
-    "frog",
-    "Gensler",
-    "Teague"
-  ],
-  "541511": [
-    "Accenture",
-    "Deloitte",
-    "Tata Consultancy Services",
-    "EPAM"
-  ],
-  "541512": [
-    "Accenture",
-    "IBM",
-    "Deloitte",
-    "Cognizant"
-  ],
-  "541513": [
-    "IBM",
-    "Kyndryl",
-    "NTT Data",
-    "Cognizant"
-  ],
-  "541519": [
-    "IBM",
-    "Accenture",
-    "Cognizant",
-    "CDW"
-  ],
-  "541611": [
-    "McKinsey & Company",
-    "Boston Consulting Group",
-    "Bain & Company",
-    "Accenture"
-  ],
-  "541612": [
-    "Mercer",
-    "Korn Ferry",
-    "Aon",
-    "Willis Towers Watson"
-  ],
-  "541613": [
-    "Accenture Song",
-    "Deloitte Digital",
-    "Publicis Groupe",
-    "Omnicom Group"
-  ],
-  "541614": [
-    "Gartner",
-    "Accenture",
-    "Deloitte",
-    "Kearney"
-  ],
-  "541618": [
-    "McKinsey & Company",
-    "Boston Consulting Group",
-    "Bain & Company",
-    "Accenture"
-  ],
-  "541620": [
-    "AECOM",
-    "Tetra Tech",
-    "Jacobs",
-    "Stantec"
-  ],
-  "541690": [
-    "Booz Allen Hamilton",
-    "ICF",
-    "Science Applications International",
-    "Leidos"
-  ],
-  "541713": [
-    "IBM Research",
-    "Applied Materials",
-    "3M",
-    "Nanosys"
-  ],
-  "541714": [
-    "Amgen",
-    "Gilead Sciences",
-    "Regeneron",
-    "Genentech"
-  ],
-  "541715": [
-    "IBM Research",
-    "Applied Materials",
-    "3M",
-    "Nanosys"
-  ],
-  "541720": [
-    "NORC",
-    "RTI International",
-    "Westat",
-    "Mathematica"
-  ],
-  "541810": [
-    "WPP",
-    "Omnicom Group",
-    "Publicis Groupe",
-    "IPG"
-  ],
-  "541820": [
-    "Edelman",
-    "FleishmanHillard",
-    "Burson",
-    "Ketchum"
-  ],
-  "541830": [
-    "GroupM",
-    "Horizon Media",
-    "dentsu",
-    "Omnicom Media Group"
-  ],
-  "541840": [
-    "National CineMedia",
-    "Clear Channel Outdoor",
-    "Lamar Advertising",
-    "Entravision"
-  ],
-  "541850": [
-    "Lamar Advertising",
-    "Clear Channel Outdoor",
-    "JCDecaux",
-    "Outfront Media"
-  ],
-  "541860": [
-    "RR Donnelley",
-    "Quad",
-    "Valassis",
-    "IWCO Direct"
-  ],
-  "541870": [
-    "Valassis",
-    "Quad",
-    "RR Donnelley",
-    "Loblaw Marketing"
-  ],
-  "541890": [
-    "Accenture",
-    "Deloitte",
-    "AECOM",
-    "ADP"
-  ],
-  "541910": [
-    "NielsenIQ",
-    "Ipsos",
-    "Kantar",
-    "Circana"
-  ],
-  "541921": [
-    "Accenture",
-    "Deloitte",
-    "AECOM",
-    "ADP"
-  ],
-  "541922": [
-    "Getty Images",
-    "Shutterstock",
-    "Lifetouch",
-    "MullenLowe"
-  ],
-  "541930": [
-    "TransPerfect",
-    "Lionbridge",
-    "LanguageLine Solutions",
-    "RWS"
-  ],
-  "541940": [
-    "VCA Animal Hospitals",
-    "Banfield Pet Hospital",
-    "BluePearl",
-    "NVA"
-  ],
-  "541990": [
-    "Accenture",
-    "Deloitte",
-    "AECOM",
-    "ADP"
-  ],
-  "561110": [
-    "Kelly Services",
-    "Robert Half",
-    "Adecco",
-    "Manpower"
-  ],
-  "561210": [
-    "ABM Industries",
-    "Aramark",
-    "Sodexo",
-    "ISS Facility Services"
-  ],
-  "561311": [
-    "Holcim US",
-    "CEMEX USA",
-    "Heidelberg Materials",
-    "CRH"
-  ],
-  "561312": [
-    "Korn Ferry",
-    "Russell Reynolds",
-    "Spencer Stuart",
-    "Heidrick & Struggles"
-  ],
-  "561320": [
-    "Adecco",
-    "Randstad",
-    "Manpower",
-    "Kelly Services"
-  ],
-  "561330": [
-    "Insperity",
-    "TriNet",
-    "Paychex",
-    "ADP"
-  ],
-  "561410": [
-    "LegalZoom",
-    "Doxim",
-    "RR Donnelley",
-    "Iron Mountain"
-  ],
-  "561421": [
-    "AnswerNet",
-    "PATLive",
-    "Stericycle Communication Solutions",
-    "Ruby Receptionists"
-  ],
-  "561422": [
-    "Concentrix",
-    "Teleperformance",
-    "Foundever",
-    "TTEC"
-  ],
-  "561431": [
-    "The UPS Store",
-    "FedEx Office",
-    "PostalAnnex",
-    "Pak Mail"
-  ],
-  "561439": [
-    "FedEx Office",
-    "The UPS Store",
-    "Minuteman Press",
-    "AlphaGraphics"
-  ],
-  "561440": [
-    "Encore Capital Group",
-    "PRA Group",
-    "CBE Group",
-    "Transworld Systems"
-  ],
-  "561450": [
-    "Equifax",
-    "Experian",
-    "TransUnion",
-    "Dun & Bradstreet"
-  ],
-  "561491": [
-    "Recovery Database Network",
-    "RepoSystems",
-    "Paragon Systems",
-    "United Road"
-  ],
-  "561492": [
-    "Veritext",
-    "Esquire Deposition Solutions",
-    "Planet Depos",
-    "US Legal Support"
-  ],
-  "561499": [
-    "ABM Industries",
-    "Manpower",
-    "Waste Management",
-    "Allied Universal"
-  ],
-  "561510": [
-    "American Express Global Business Travel",
-    "BCD Travel",
-    "Carlson Wagonlit",
-    "Flight Centre"
-  ],
-  "561520": [
-    "Trafalgar",
-    "Globus",
-    "G Adventures",
-    "Intrepid Travel"
-  ],
-  "561591": [
-    "Visit Orlando",
-    "NYC & Company",
-    "Las Vegas Convention and Visitors Authority",
-    "Visit California"
-  ],
-  "561599": [
-    "Expedia",
-    "Booking.com",
-    "American Express Travel",
-    "Tripadvisor"
-  ],
-  "561611": [
-    "Pinkerton",
-    "Kroll",
-    "Securitas",
-    "Allied Universal"
-  ],
-  "561612": [
-    "Allied Universal",
-    "Securitas",
-    "G4S",
-    "GardaWorld"
-  ],
-  "561613": [
-    "Brink's",
-    "Loomis",
-    "GardaWorld",
-    "Malca-Amit"
-  ],
-  "561621": [
-    "ADT",
-    "Securitas Technology",
-    "Johnson Controls",
-    "Vivint"
-  ],
-  "561622": [
-    "Pop-A-Lock",
-    "Mr. Rekey",
-    "A-1 Locksmith",
-    "Minute Key"
-  ],
-  "561710": [
-    "Rentokil Terminix",
-    "Rollins",
-    "Ecolab",
-    "Truly Nolen"
-  ],
-  "561720": [
-    "ABM Industries",
-    "ServiceMaster Clean",
-    "ISS Facility Services",
-    "Sodexo"
-  ],
-  "561730": [
-    "BrightView",
-    "TruGreen",
-    "The Davey Tree Expert Company",
-    "Bartlett Tree Experts"
-  ],
-  "561740": [
-    "Shaw Industries",
-    "Mohawk Industries",
-    "Interface",
-    "Engineered Floors"
-  ],
-  "561790": [
-    "ABM Industries",
-    "JLL",
-    "CBRE",
-    "ServiceMaster"
-  ],
-  "561910": [
-    "ProAmpac",
-    "Multi-Color Corporation",
-    "CCL Industries",
-    "Avery Dennison"
-  ],
-  "561920": [
-    "Freeman",
-    "GES",
-    "Informa Markets",
-    "RX Global"
-  ],
-  "561990": [
-    "ABM Industries",
-    "Manpower",
-    "Waste Management",
-    "Allied Universal"
-  ],
-  "562111": [
-    "Waste Management",
-    "Republic Services",
-    "GFL Environmental",
-    "Recology"
-  ],
-  "562112": [
-    "Clean Harbors",
-    "Stericycle",
-    "Veolia",
-    "Heritage-Crystal Clean"
-  ],
-  "562119": [
-    "Waste Management",
-    "Republic Services",
-    "GFL Environmental",
-    "Waste Connections"
-  ],
-  "562211": [
-    "Clean Harbors",
-    "Veolia",
-    "Stericycle",
-    "Heritage-Crystal Clean"
-  ],
-  "562212": [
-    "Waste Management",
-    "Republic Services",
-    "GFL Environmental",
-    "Waste Connections"
-  ],
-  "562213": [
-    "Covanta",
-    "Wheelabrator",
-    "WIN Waste Innovations",
-    "Rumpke"
-  ],
-  "562219": [
-    "Clean Harbors",
-    "Veolia",
-    "Stericycle",
-    "Heritage-Crystal Clean"
-  ],
-  "562910": [
-    "Clean Harbors",
-    "Tetra Tech",
-    "AECOM",
-    "Veolia"
-  ],
-  "562920": [
-    "Waste Management",
-    "Republic Services",
-    "GFL Environmental",
-    "AMP Robotics"
-  ],
-  "562991": [
-    "Roto-Rooter",
-    "Mr. Rooter",
-    "Septic Solutions",
-    "A-1 Septic"
-  ],
-  "562998": [
-    "ABM Industries",
-    "Manpower",
-    "Waste Management",
-    "Allied Universal"
-  ],
-  "611410": [
-    "Office Dynamics",
-    "Pitman Training",
-    "New Horizons",
-    "MyComputerCareer"
-  ],
-  "611420": [
-    "New Horizons",
-    "General Assembly",
-    "Noble Desktop",
-    "Learning Tree"
-  ],
-  "611430": [
-    "Dale Carnegie",
-    "FranklinCovey",
-    "Skillsoft",
-    "LinkedIn Learning"
-  ],
-  "611511": [
-    "Paul Mitchell Schools",
-    "Aveda Institutes",
-    "Regency Beauty Institute",
-    "Empire Beauty School"
-  ],
-  "611512": [
-    "ATP Flight School",
-    "FlightSafety International",
-    "CAE",
-    "Embry-Riddle"
-  ],
-  "611513": [
-    "Apprenticeship Works",
-    "IEC",
-    "ABC National",
-    "Union Apprenticeship"
-  ],
-  "611519": [
-    "Lincoln Tech",
-    "Universal Technical Institute",
-    "WyoTech",
-    "The Refrigeration School"
-  ],
-  "611610": [
-    "School of Visual Arts",
-    "Parsons School of Design",
-    "ArtCenter College of Design",
-    "Pratt Institute"
-  ],
-  "611620": [
-    "YMCA",
-    "U.S. Sports Camps",
-    "i9 Sports",
-    "Skyhawks"
-  ],
-  "611630": [
-    "Berlitz",
-    "EF Education First",
-    "Rosetta Stone",
-    "Inlingua"
-  ],
-  "611691": [
-    "Kaplan",
-    "Princeton Review",
-    "Pearson",
-    "Magoosh"
-  ],
-  "611692": [
-    "AAA Driving School",
-    "160 Driving Academy",
-    "DriversEd.com",
-    "Roadmaster Group"
-  ],
-  "611699": [
-    "K12",
-    "Stride",
-    "Pearson",
-    "Lifelong Learning"
-  ],
-  "611710": [
-    "Pearson",
-    "McGraw Hill",
-    "ETS",
-    "College Board"
-  ],
-  "621111": [
-    "HCA Healthcare",
-    "Tenet Healthcare",
-    "CommonSpirit Health",
-    "Kaiser Permanente"
-  ],
-  "621112": [
-    "HCA Healthcare",
-    "Tenet Healthcare",
-    "CommonSpirit Health",
-    "Kaiser Permanente"
-  ],
-  "621210": [
-    "Heartland Dental",
-    "Aspen Dental",
-    "Pacific Dental Services",
-    "Dental Care Alliance"
-  ],
-  "621310": [
-    "The Joint Chiropractic",
-    "Chiro One",
-    "HealthSource",
-    "Team Rehabilitation"
-  ],
-  "621320": [
-    "MyEyeDr.",
-    "National Vision",
-    "Visionworks",
-    "America's Best"
-  ],
-  "621330": [
-    "HCA Healthcare",
-    "Tenet Healthcare",
-    "CommonSpirit Health",
-    "Kaiser Permanente"
-  ],
-  "621340": [
-    "Select Physical Therapy",
-    "ATI Physical Therapy",
-    "BenchMark Physical Therapy",
-    "U.S. Physical Therapy"
-  ],
-  "621391": [
-    "Upperline Health",
-    "Village Podiatry",
-    "Foot & Ankle Specialists",
-    "US Foot & Ankle"
-  ],
-  "621399": [
-    "Optum",
-    "DaVita",
-    "Fresenius Medical Care",
-    "Concentra"
-  ],
-  "621410": [
-    "Planned Parenthood",
-    "Family Health Centers",
-    "Mayo Clinic",
-    "Kaiser Permanente"
-  ],
-  "621420": [
-    "Acadia Healthcare",
-    "Universal Health Services",
-    "Behavioral Health Group",
-    "LifeStance Health"
-  ],
-  "621491": [
-    "Kaiser Permanente",
-    "HealthPartners",
-    "Geisinger",
-    "Molina Healthcare"
-  ],
-  "621492": [
-    "DaVita",
-    "Fresenius Medical Care",
-    "U.S. Renal Care",
-    "American Renal Associates"
-  ],
-  "621493": [
-    "Surgery Partners",
-    "AmSurg",
-    "HCA Healthcare",
-    "Tenet Healthcare"
-  ],
-  "621498": [
-    "HCA Healthcare",
-    "Optum",
-    "Envision Healthcare",
-    "USPI"
-  ],
-  "621511": [
-    "Quest Diagnostics",
-    "Labcorp",
-    "Sonic Healthcare",
-    "Mayo Clinic Laboratories"
-  ],
-  "621512": [
-    "RadNet",
-    "Akumin",
-    "Alliance Medical Group",
-    "Rayus Radiology"
-  ],
-  "621610": [
-    "Amedisys",
-    "Enhabit",
-    "Aveanna Healthcare",
-    "CenterWell Home Health"
-  ],
-  "621910": [
-    "AMR",
-    "Falck",
-    "Acadian Ambulance",
-    "Rural/Metro"
-  ],
-  "621991": [
-    "American Red Cross",
-    "Vitalant",
-    "OneBlood",
-    "LifeSouth"
-  ],
-  "621999": [
-    "Optum",
-    "Concentra",
-    "HCA Healthcare",
-    "Carbon Health"
-  ],
-  "622110": [
-    "HCA Healthcare",
-    "CommonSpirit Health",
-    "Tenet Healthcare",
-    "Ascension"
-  ],
-  "622210": [
-    "Universal Health Services",
-    "Acadia Healthcare",
-    "LifeStance Health",
-    "BHG"
-  ],
-  "622310": [
-    "Universal Health Services",
-    "Acadia Healthcare",
-    "LifeStance Health",
-    "BHG"
-  ],
-  "623110": [
-    "Genesis HealthCare",
-    "Ensign Group",
-    "PruittHealth",
-    "Life Care Centers of America"
-  ],
-  "623210": [
-    "The MENTOR Network",
-    "Sevita",
-    "Easterseals",
-    "Goodwill"
-  ],
-  "623220": [
-    "Acadia Healthcare",
-    "Universal Health Services",
-    "Sevita",
-    "Civitas Solutions"
-  ],
-  "623311": [
-    "Erickson Senior Living",
-    "Sunrise Senior Living",
-    "Brookdale Senior Living",
-    "Acts Retirement-Life Communities"
-  ],
-  "623312": [
-    "Brookdale Senior Living",
-    "Sunrise Senior Living",
-    "Atria Senior Living",
-    "Five Star Senior Living"
-  ],
-  "623990": [
-    "Brookdale Senior Living",
-    "Encompass Health",
-    "Sevita",
-    "The Arbor Company"
-  ],
-  "624110": [
-    "Boys & Girls Clubs of America",
-    "YMCA",
-    "Childhelp",
-    "Big Brothers Big Sisters"
-  ],
-  "624120": [
-    "Caregivers America",
-    "Home Instead",
-    "Comfort Keepers",
-    "Visiting Angels"
-  ],
-  "624190": [
-    "Catholic Charities",
-    "Lutheran Services in America",
-    "Goodwill",
-    "The Salvation Army"
-  ],
-  "624210": [
-    "Feeding America",
-    "City Harvest",
-    "Food Bank for New York City",
-    "Meals on Wheels"
-  ],
-  "624221": [
-    "The Salvation Army",
-    "Volunteers of America",
-    "Catholic Charities",
-    "National Coalition for the Homeless"
-  ],
-  "624229": [
-    "Habitat for Humanity",
-    "Volunteers of America",
-    "Mercy Housing",
-    "National Church Residences"
-  ],
-  "624230": [
-    "American Red Cross",
-    "The Salvation Army",
-    "FEMA",
-    "Direct Relief"
-  ],
-  "624310": [
-    "Goodwill Industries",
-    "Easterseals",
-    "Maximus",
-    "Vocational Rehabilitation Services"
-  ],
-  "624410": [
-    "KinderCare",
-    "Bright Horizons",
-    "Learning Care Group",
-    "Primrose Schools"
-  ],
-  "711110": [
-    "Disney Theatrical Group",
-    "Nederlander Organization",
-    "Shubert Organization",
-    "Broadway Across America"
-  ],
-  "711120": [
-    "American Ballet Theatre",
-    "Ballet Hispanico",
-    "Alvin Ailey",
-    "New York City Ballet"
-  ],
-  "711130": [
-    "Live Nation",
-    "AEG Presents",
-    "Warner Music Group",
-    "Universal Music Group"
-  ],
-  "711190": [
-    "Live Nation",
-    "Nederlander Organization",
-    "Shubert Organization",
-    "Lincoln Center"
-  ],
-  "711211": [
-    "NFL",
-    "MLB",
-    "NBA",
-    "NHL"
-  ],
-  "711212": [
-    "Churchill Downs",
-    "NASCAR",
-    "Keeneland",
-    "Penn Entertainment"
-  ],
-  "711219": [
-    "Live Nation",
-    "ESPN",
-    "Fox Sports",
-    "NBC Sports"
-  ],
-  "711310": [
-    "Live Nation",
-    "AEG Presents",
-    "Oak View Group",
-    "Wasserman"
-  ],
-  "711320": [
-    "Live Nation",
-    "AEG Presents",
-    "Oak View Group",
-    "Wasserman"
-  ],
-  "711410": [
-    "Creative Artists Agency",
-    "William Morris Endeavor",
-    "United Talent Agency",
-    "Wasserman"
-  ],
-  "711510": [
-    "Getty Images",
-    "Shutterstock",
-    "Patreon",
-    "Etsy"
-  ],
-  "712110": [
-    "Smithsonian Institution",
-    "Metropolitan Museum of Art",
-    "American Museum of Natural History",
-    "Museum of Modern Art"
-  ],
-  "712120": [
-    "National Trust for Historic Preservation",
-    "Colonial Williamsburg",
-    "Historic Jamestowne",
-    "National Park Service"
-  ],
-  "712130": [
-    "San Diego Zoo Wildlife Alliance",
-    "Columbus Zoo",
-    "Smithsonian National Zoo",
-    "Dallas Zoo"
-  ],
-  "712190": [
-    "National Park Service",
-    "The Nature Conservancy",
-    "Six Flags",
-    "SeaWorld Parks"
-  ],
-  "713110": [
-    "Walt Disney Parks",
-    "Universal Parks & Resorts",
-    "Six Flags",
-    "Cedar Fair"
-  ],
-  "713120": [
-    "Dave & Buster's",
-    "Main Event",
-    "Round One",
-    "Chuck E. Cheese"
-  ],
-  "713210": [
-    "MGM Resorts",
-    "Caesars Entertainment",
-    "Penn Entertainment",
-    "Boyd Gaming"
-  ],
-  "713290": [
-    "DraftKings",
-    "FanDuel",
-    "MGM Resorts",
-    "Caesars Entertainment"
-  ],
-  "713910": [
-    "Troon",
-    "ClubCorp",
-    "KemperSports",
-    "Invited"
-  ],
-  "713920": [
-    "Vail Resorts",
-    "Alterra Mountain Company",
-    "Boyne Resorts",
-    "Powder Corporation"
-  ],
-  "713930": [
-    "Safe Harbor Marinas",
-    "Suntex Marinas",
-    "Marina Management Services",
-    "Westrec Marinas"
-  ],
-  "713940": [
-    "Planet Fitness",
-    "LA Fitness",
-    "Crunch Fitness",
-    "Anytime Fitness"
-  ],
-  "713950": [
-    "Bowlero",
-    "Brunswick Zone",
-    "AMF Bowling",
-    "Main Event"
-  ],
-  "713990": [
-    "Walt Disney Parks",
-    "Six Flags",
-    "Live Nation",
-    "Vail Resorts"
-  ],
-  "721110": [
-    "Marriott International",
-    "Hilton",
-    "Hyatt",
-    "Wyndham Hotels & Resorts"
-  ],
-  "721120": [
-    "Marriott International",
-    "Hilton",
-    "Hyatt",
-    "Wyndham Hotels & Resorts"
-  ],
-  "721191": [
-    "BedandBreakfast.com",
-    "Select Registry",
-    "B&Bs for Vets",
-    "The B&B Team"
-  ],
-  "721199": [
-    "Marriott International",
-    "Hilton",
-    "Airbnb",
-    "Booking.com"
-  ],
-  "721211": [
-    "Marriott International",
-    "Compass Group",
-    "McDonald's",
-    "Hilton"
-  ],
-  "721214": [
-    "YMCA",
-    "Boy Scouts of America",
-    "Girl Scouts of the USA",
-    "Camp America"
-  ],
-  "721310": [
-    "American Campus Communities",
-    "Greystar",
-    "Campus Advantage",
-    "Collegiate Housing Services"
-  ],
-  "722310": [
-    "Compass Group",
-    "Aramark",
-    "Sodexo",
-    "Delaware North"
-  ],
-  "722320": [
-    "Compass Group",
-    "Aramark",
-    "Sodexo",
-    "Delaware North"
-  ],
-  "722330": [
-    "Fooda",
-    "Guzman y Gomez",
-    "The Halal Guys",
-    "Cousins Maine Lobster"
-  ],
-  "722410": [
-    "Yum! Brands",
-    "Restaurant Brands International",
-    "Darden Restaurants",
-    "Brinker International"
-  ],
-  "722511": [
-    "Darden Restaurants",
-    "Yum! Brands",
-    "Restaurant Brands International",
-    "Applebee's"
-  ],
-  "722513": [
-    "McDonald's",
-    "Yum! Brands",
-    "Restaurant Brands International",
-    "Wendy's"
-  ],
-  "722514": [
-    "Compass Group",
-    "Aramark",
-    "Sodexo",
-    "CulinArt"
-  ],
-  "722515": [
-    "Starbucks",
-    "Dunkin'",
-    "Dutch Bros",
-    "JAB Holding"
-  ],
-  "811111": [
-    "Firestone Complete Auto Care",
-    "Midas",
-    "Jiffy Lube",
-    "Meineke"
-  ],
-  "811114": [
-    "Firestone Complete Auto Care",
-    "Midas",
-    "Jiffy Lube",
-    "Meineke"
-  ],
-  "811121": [
-    "Caliber Collision",
-    "Service King",
-    "Gerber Collision & Glass",
-    "Classic Collision"
-  ],
-  "811122": [
-    "Holcim US",
-    "CEMEX USA",
-    "Heidelberg Materials",
-    "CRH"
-  ],
-  "811191": [
-    "Jiffy Lube",
-    "Valvoline Instant Oil Change",
-    "Take 5 Oil Change",
-    "Meineke"
-  ],
-  "811192": [
-    "Mister Car Wash",
-    "Quick Quack Car Wash",
-    "International Car Wash Group",
-    "Zips Car Wash"
-  ],
-  "811198": [
-    "Firestone Complete Auto Care",
-    "Midas",
-    "Jiffy Lube",
-    "Meineke"
-  ],
-  "811210": [
-    "Geek Squad",
-    "uBreakiFix",
-    "Best Buy",
-    "Asurion"
-  ],
-  "811310": [
-    "Illinois Tool Works",
-    "Emerson",
-    "Dover",
-    "Ingersoll Rand"
-  ],
-  "811411": [
-    "Home Depot",
-    "Lowe's",
-    "Sears Home Services",
-    "Ace Hardware"
-  ],
-  "811412": [
-    "Sears Home Services",
-    "Mr. Appliance",
-    "GE Appliances",
-    "Whirlpool"
-  ],
-  "811420": [
-    "Furniture Medic",
-    "Fibrenew",
-    "The Leather Institute",
-    "CORT"
-  ],
-  "811430": [
-    "Nike",
-    "Skechers",
-    "Wolverine Worldwide",
-    "New Balance"
-  ],
-  "811490": [
-    "Asurion",
-    "uBreakiFix",
-    "Best Buy",
-    "Sears Home Services"
-  ],
-  "812111": [
-    "Sport Clips",
-    "Great Clips",
-    "Supercuts",
-    "The Barbers"
-  ],
-  "812112": [
-    "Great Clips",
-    "Regis Corporation",
-    "Ulta Beauty",
-    "Drybar"
-  ],
-  "812113": [
-    "Regis Corporation",
-    "Daisy Nail",
-    "PROSE",
-    "MiniLuxe"
-  ],
-  "812191": [
-    "Jenny Craig",
-    "WeightWatchers",
-    "Nutrisystem",
-    "Medi-Weightloss"
-  ],
-  "812199": [
-    "Massage Envy",
-    "Hand & Stone",
-    "European Wax Center",
-    "The Lash Lounge"
-  ],
-  "812210": [
-    "Service Corporation International",
-    "Dignity Memorial",
-    "Carriage Services",
-    "StoneMor"
-  ],
-  "812220": [
-    "Service Corporation International",
-    "StoneMor",
-    "Dignity Memorial",
-    "Carriage Services"
-  ],
-  "812310": [
-    "Speed Queen",
-    "Laundromat Equipment",
-    "CSC ServiceWorks",
-    "Alliance Laundry Systems"
-  ],
-  "812320": [
-    "Cleanly",
-    "Martinizing",
-    "Lapels Cleaners",
-    "Comet Cleaners"
-  ],
-  "812331": [
-    "UniFirst",
-    "Cintas",
-    "Alsco",
-    "Healthcare Services Group"
-  ],
-  "812332": [
-    "Cintas",
-    "UniFirst",
-    "Alsco",
-    "Prudential Overall Supply"
-  ],
-  "812910": [
-    "PetSmart",
-    "Petco",
-    "Camp Bow Wow",
-    "Rover"
-  ],
-  "812921": [
-    "Shutterfly",
-    "Walgreens Photo",
-    "CVS Photo",
-    "Printique"
-  ],
-  "812922": [
-    "Shutterfly",
-    "Walgreens Photo",
-    "CVS Photo",
-    "Printique"
-  ],
-  "812930": [
-    "SP+",
-    "LAZ Parking",
-    "ABM Parking",
-    "Metropolis"
-  ],
-  "812990": [
-    "ServiceMaster",
-    "The UPS Store",
-    "Aramark",
-    "Cintas"
-  ],
-  "813211": [
-    "Ford Foundation",
-    "Bill & Melinda Gates Foundation",
-    "Rockefeller Foundation",
-    "MacArthur Foundation"
-  ],
-  "813212": [
-    "American Cancer Society",
-    "American Heart Association",
-    "Susan G. Komen",
-    "March of Dimes"
-  ],
-  "813219": [
-    "ServiceMaster",
-    "Cintas",
-    "Mister Car Wash",
-    "The UPS Store"
-  ],
-  "813311": [
-    "ACLU",
-    "Human Rights Campaign",
-    "Amnesty International USA",
-    "NAACP"
-  ],
-  "813312": [
-    "The Nature Conservancy",
-    "National Audubon Society",
-    "Sierra Club",
-    "World Wildlife Fund"
-  ],
-  "813319": [
-    "NAACP",
-    "ACLU",
-    "League of Women Voters",
-    "Human Rights Campaign"
-  ],
-  "813410": [
-    "YMCA",
-    "Boys & Girls Clubs of America",
-    "Rotary International",
-    "Knights of Columbus"
-  ],
-  "813910": [
-    "U.S. Chamber of Commerce",
-    "National Association of Manufacturers",
-    "Business Roundtable",
-    "NFIB"
-  ],
-  "813920": [
-    "American Medical Association",
-    "American Bar Association",
-    "IEEE",
-    "American Nurses Association"
-  ],
-  "813990": [
-    "United Way",
-    "Goodwill Industries",
-    "United Way Worldwide",
-    "Catholic Charities"
-  ]
+ "211120": [
+  "ExxonMobil",
+  "Chevron",
+  "ConocoPhillips",
+  "Occidental Petroleum"
+ ],
+ "211130": [
+  "EQT",
+  "ExxonMobil",
+  "Chevron",
+  "ConocoPhillips"
+ ],
+ "212114": [
+  "Peabody Energy",
+  "Arch Resources",
+  "CONSOL Energy",
+  "Alliance Resource Partners"
+ ],
+ "212115": [
+  "Peabody Energy",
+  "Arch Resources",
+  "CONSOL Energy",
+  "Alliance Resource Partners"
+ ],
+ "212210": [
+  "Cleveland-Cliffs",
+  "U.S. Steel",
+  "Rio Tinto",
+  "Vale"
+ ],
+ "212220": [
+  "Newmont",
+  "Barrick Gold",
+  "Kinross Gold",
+  "Coeur Mining"
+ ],
+ "212230": [
+  "Freeport-McMoRan",
+  "Southern Copper",
+  "Rio Tinto",
+  "BHP"
+ ],
+ "212290": [
+  "Rio Tinto",
+  "Freeport-McMoRan",
+  "BHP",
+  "Glencore"
+ ],
+ "212311": [
+  "Vulcan Materials",
+  "Martin Marietta",
+  "CRH",
+  "Heidelberg Materials"
+ ],
+ "212312": [
+  "Vulcan Materials",
+  "Martin Marietta",
+  "CRH",
+  "Heidelberg Materials"
+ ],
+ "212313": [
+  "Marmomacchine",
+  "Polycor",
+  "Rock of Ages",
+  "Vulcan Materials"
+ ],
+ "212319": [
+  "Vulcan Materials",
+  "Martin Marietta",
+  "CRH",
+  "Heidelberg Materials"
+ ],
+ "212321": [
+  "Vulcan Materials",
+  "Martin Marietta",
+  "CRH",
+  "Oldcastle Materials"
+ ],
+ "212322": [
+  "U.S. Silica",
+  "Covia",
+  "Badger Mining",
+  "Preferred Sands"
+ ],
+ "212323": [
+  "KaMin",
+  "Imerys",
+  "Thiele Kaolin",
+  "Minerals Technologies"
+ ],
+ "212390": [
+  "Caterpillar",
+  "Rio Tinto",
+  "Freeport-McMoRan",
+  "Halliburton"
+ ],
+ "213111": [
+  "Patterson-UTI Energy",
+  "Helmerich & Payne",
+  "Nabors Industries",
+  "Precision Drilling"
+ ],
+ "213112": [
+  "Halliburton",
+  "SLB",
+  "Baker Hughes",
+  "Weatherford"
+ ],
+ "213113": [
+  "Peabody Energy",
+  "Arch Resources",
+  "CONSOL Energy",
+  "Alliance Resource Partners"
+ ],
+ "213114": [
+  "Boart Longyear",
+  "Epiroc",
+  "Sandvik",
+  "Komatsu Mining"
+ ],
+ "213115": [
+  "Caterpillar",
+  "Rio Tinto",
+  "Freeport-McMoRan",
+  "Halliburton"
+ ],
+ "221111": [
+  "Brookfield Renewable",
+  "Duke Energy",
+  "Edison International",
+  "Xcel Energy"
+ ],
+ "221112": [
+  "Duke Energy",
+  "Southern Company",
+  "Vistra",
+  "NRG Energy"
+ ],
+ "221113": [
+  "Constellation Energy",
+  "Duke Energy",
+  "Southern Company",
+  "Entergy"
+ ],
+ "221114": [
+  "NextEra Energy",
+  "First Solar",
+  "AES",
+  "Brookfield Renewable"
+ ],
+ "221115": [
+  "NextEra Energy",
+  "Avangrid",
+  "EDP Renewables",
+  "Brookfield Renewable"
+ ],
+ "221116": [
+  "Ormat Technologies",
+  "Calpine",
+  "Chevron",
+  "Enel Green Power"
+ ],
+ "221117": [
+  "Drax",
+  "Dominion Energy",
+  "RWE",
+  "Newland"
+ ],
+ "221118": [
+  "Duke Energy",
+  "Southern Company",
+  "American Water",
+  "NextEra Energy"
+ ],
+ "221121": [
+  "PJM Interconnection",
+  "MISO",
+  "ERCOT",
+  "California ISO"
+ ],
+ "221122": [
+  "Exelon",
+  "Duke Energy",
+  "Southern Company",
+  "American Electric Power"
+ ],
+ "221210": [
+  "Atmos Energy",
+  "NiSource",
+  "ONE Gas",
+  "Spire"
+ ],
+ "221310": [
+  "American Water",
+  "Essential Utilities",
+  "Suez North America",
+  "Veolia North America"
+ ],
+ "221320": [
+  "Veolia North America",
+  "Suez North America",
+  "Xylem",
+  "American Water"
+ ],
+ "221330": [
+  "Con Edison",
+  "Veolia North America",
+  "Trigen",
+  "District Energy St. Paul"
+ ],
+ "236115": [
+  "D.R. Horton",
+  "Lennar",
+  "PulteGroup",
+  "NVR"
+ ],
+ "236116": [
+  "Lennar Multifamily",
+  "Greystar",
+  "Hensel Phelps",
+  "Turner Construction"
+ ],
+ "236117": [
+  "D.R. Horton",
+  "Lennar",
+  "PulteGroup",
+  "NVR"
+ ],
+ "236118": [
+  "Power Home Remodeling",
+  "Mr. Handyman",
+  "Window World",
+  "Re-Bath"
+ ],
+ "236210": [
+  "Turner Construction",
+  "Bechtel",
+  "Whiting-Turner",
+  "DPR Construction"
+ ],
+ "236220": [
+  "Turner Construction",
+  "Whiting-Turner",
+  "Bechtel",
+  "Skanska USA"
+ ],
+ "237110": [
+  "Quanta Services",
+  "MasTec",
+  "Kiewit",
+  "Jacobs"
+ ],
+ "237120": [
+  "Kinder Morgan",
+  "Williams",
+  "Energy Transfer",
+  "Enbridge"
+ ],
+ "237130": [
+  "Quanta Services",
+  "MasTec",
+  "MYR Group",
+  "Pike Corporation"
+ ],
+ "237210": [
+  "Lennar",
+  "D.R. Horton",
+  "PulteGroup",
+  "Taylor Morrison"
+ ],
+ "237310": [
+  "Kiewit",
+  "Granite Construction",
+  "Vinci",
+  "Fluor"
+ ],
+ "237990": [
+  "Bechtel",
+  "Kiewit",
+  "Fluor",
+  "AECOM"
+ ],
+ "238110": [
+  "Baker Construction",
+  "Turner Construction",
+  "CRH",
+  "Oldcastle Infrastructure"
+ ],
+ "238120": [
+  "Nucor",
+  "Zekelman Industries",
+  "Schuff Steel",
+  "W&W AFCO Steel"
+ ],
+ "238130": [
+  "Lennar",
+  "D.R. Horton",
+  "Toll Brothers",
+  "PulteGroup"
+ ],
+ "238140": [
+  "Baker Construction",
+  "Masonry America",
+  "Sun Valley Masonry",
+  "The Blue Book Building"
+ ],
+ "238150": [
+  "Harmon",
+  "Binswanger Glass",
+  "Oldcastle BuildingEnvelope",
+  "Kawneer"
+ ],
+ "238160": [
+  "Tecta America",
+  "CentiMark",
+  "Flynn Group",
+  "Baker Roofing"
+ ],
+ "238170": [
+  "Power Home Remodeling",
+  "James Hardie",
+  "Westlake Royal Building Products",
+  "ABC Supply"
+ ],
+ "238190": [
+  "Turner Construction",
+  "Bechtel",
+  "Kiewit",
+  "AECOM"
+ ],
+ "238210": [
+  "EMCOR",
+  "Quanta Services",
+  "MYR Group",
+  "Rosendin"
+ ],
+ "238220": [
+  "Comfort Systems USA",
+  "EMCOR",
+  "Limbach",
+  "TDIndustries"
+ ],
+ "238290": [
+  "Turner Construction",
+  "Bechtel",
+  "Kiewit",
+  "AECOM"
+ ],
+ "238310": [
+  "CertaPro Painters",
+  "Owens Corning",
+  "USG",
+  "Installed Building Products"
+ ],
+ "238320": [
+  "CertaPro Painters",
+  "Five Star Painting",
+  "College Pro",
+  "Wow 1 Day Painting"
+ ],
+ "238330": [
+  "Empire Today",
+  "Floor & Decor",
+  "LL Flooring",
+  "The Home Depot"
+ ],
+ "238340": [
+  "Dal-Tile",
+  "Emser Tile",
+  "The Tile Shop",
+  "Marazzi"
+ ],
+ "238350": [
+  "Turner Construction",
+  "Bechtel",
+  "Kiewit",
+  "AECOM"
+ ],
+ "238390": [
+  "Turner Construction",
+  "Bechtel",
+  "Kiewit",
+  "AECOM"
+ ],
+ "238910": [
+  "United Rentals",
+  "Sunbelt Rentals",
+  "Granite Construction",
+  "Kiewit"
+ ],
+ "238990": [
+  "Turner Construction",
+  "Bechtel",
+  "Kiewit",
+  "AECOM"
+ ],
+ "311111": [
+  "Purina",
+  "Mars Petcare",
+  "Hill's Pet Nutrition",
+  "Blue Buffalo"
+ ],
+ "311119": [
+  "Cargill",
+  "ADM",
+  "Purina",
+  "Mars Petcare"
+ ],
+ "311211": [
+  "Ardent Mills",
+  "ADM",
+  "General Mills",
+  "ConAgra Brands"
+ ],
+ "311212": [
+  "Riceland Foods",
+  "Riviana Foods",
+  "Lundberg Family Farms",
+  "Farmers Rice Cooperative"
+ ],
+ "311213": [
+  "Cargill",
+  "Rahr Corporation",
+  "Malteurop",
+  "Briess Industries"
+ ],
+ "311221": [
+  "Ingredion",
+  "ADM",
+  "Cargill",
+  "Tate & Lyle"
+ ],
+ "311224": [
+  "ADM",
+  "Bunge",
+  "Cargill",
+  "Louis Dreyfus Company"
+ ],
+ "311225": [
+  "Bunge",
+  "ADM",
+  "Cargill",
+  "Ventura Foods"
+ ],
+ "311230": [
+  "Kellanova",
+  "General Mills",
+  "Post Holdings",
+  "Quaker (PepsiCo)"
+ ],
+ "311313": [
+  "American Crystal Sugar",
+  "Michigan Sugar",
+  "Western Sugar Cooperative",
+  "Amalgamated Sugar"
+ ],
+ "311314": [
+  "American Sugar Refining",
+  "Florida Crystals",
+  "Imperial Sugar",
+  "Domino Sugar"
+ ],
+ "311340": [
+  "Mars",
+  "The Hershey Company",
+  "Ferrero",
+  "Mondelez International"
+ ],
+ "311351": [
+  "Mars",
+  "The Hershey Company",
+  "Ferrero",
+  "Mondelez International"
+ ],
+ "311352": [
+  "Mars",
+  "The Hershey Company",
+  "Ferrero",
+  "Mondelez International"
+ ],
+ "311411": [
+  "Conagra Brands",
+  "Dole Packaged Foods",
+  "Seneca Foods",
+  "B&G Foods"
+ ],
+ "311412": [
+  "Conagra Brands",
+  "Nestlé USA",
+  "Kraft Heinz",
+  "J.M. Smucker"
+ ],
+ "311421": [
+  "Del Monte Foods",
+  "Seneca Foods",
+  "J.M. Smucker",
+  "Conagra Brands"
+ ],
+ "311422": [
+  "Bonduelle",
+  "Del Monte Foods",
+  "Seneca Foods",
+  "B&G Foods"
+ ],
+ "311423": [
+  "Olam Food Ingredients",
+  "TreeHouse Foods",
+  "J.M. Smucker",
+  "Conagra Brands"
+ ],
+ "311511": [
+  "Dairy Farmers of America",
+  "Land O'Lakes",
+  "Saputo Dairy USA",
+  "Prairie Farms"
+ ],
+ "311512": [
+  "Dairy Farmers of America",
+  "Land O'Lakes",
+  "Kerrygold",
+  "Challenge Dairy"
+ ],
+ "311513": [
+  "Dairy Farmers of America",
+  "Leprino Foods",
+  "Saputo Dairy USA",
+  "Schreiber Foods"
+ ],
+ "311514": [
+  "Dairy Farmers of America",
+  "Land O'Lakes",
+  "Saputo Dairy USA",
+  "Glanbia Nutritionals"
+ ],
+ "311520": [
+  "Unilever",
+  "Nestlé USA",
+  "Wells Enterprises",
+  "Blue Bell Creameries"
+ ],
+ "311611": [
+  "JBS USA",
+  "Tyson Foods",
+  "Cargill Protein",
+  "National Beef"
+ ],
+ "311612": [
+  "Tyson Foods",
+  "JBS USA",
+  "Smithfield Foods",
+  "Cargill Protein"
+ ],
+ "311613": [
+  "Darling Ingredients",
+  "JBS USA",
+  "Tyson Foods",
+  "Valley Proteins"
+ ],
+ "311615": [
+  "Tyson Foods",
+  "Pilgrim's Pride",
+  "Perdue Farms",
+  "Wayne-Sanderson Farms"
+ ],
+ "311710": [
+  "Trident Seafoods",
+  "Thai Union USA",
+  "Bumble Bee Foods",
+  "High Liner Foods"
+ ],
+ "311811": [
+  "Panera Bread",
+  "Flowers Foods",
+  "Bimbo Bakeries USA",
+  "Paris Baguette"
+ ],
+ "311812": [
+  "Bimbo Bakeries USA",
+  "Flowers Foods",
+  "Grupo Bimbo",
+  "Hostess Brands"
+ ],
+ "311813": [
+  "Conagra Brands",
+  "Sara Lee Frozen Bakery",
+  "Hostess Brands",
+  "Flowers Foods"
+ ],
+ "311821": [
+  "Mondelez International",
+  "Pepperidge Farm",
+  "Ferrero",
+  "Little Debbie"
+ ],
+ "311824": [
+  "Barilla",
+  "Riviana Foods",
+  "TreeHouse Foods",
+  "Ebro Foods"
+ ],
+ "311830": [
+  "Mission Foods",
+  "Gruma",
+  "Ole Mexican Foods",
+  "La Tortilla Factory"
+ ],
+ "311911": [
+  "Planters (Hormel)",
+  "Wonderful Pistachios",
+  "Blue Diamond Growers",
+  "J.M. Smucker"
+ ],
+ "311919": [
+  "Frito-Lay",
+  "Kellanova",
+  "Utz Brands",
+  "Herr Foods"
+ ],
+ "311920": [
+  "JDE Peet's",
+  "Keurig Dr Pepper",
+  "Starbucks",
+  "Nestlé USA"
+ ],
+ "311930": [
+  "Coca-Cola",
+  "PepsiCo",
+  "Keurig Dr Pepper",
+  "Monin"
+ ],
+ "311941": [
+  "Kraft Heinz",
+  "McCormick",
+  "Conagra Brands",
+  "Unilever"
+ ],
+ "311942": [
+  "McCormick",
+  "Kerry Group",
+  "Olam Food Ingredients",
+  "Döhler"
+ ],
+ "311991": [
+  "TreeHouse Foods",
+  "Conagra Brands",
+  "Kraft Heinz",
+  "J.M. Smucker"
+ ],
+ "311999": [
+  "Kraft Heinz",
+  "Nestlé USA",
+  "Conagra Brands",
+  "TreeHouse Foods"
+ ],
+ "312111": [
+  "Coca-Cola",
+  "PepsiCo",
+  "Keurig Dr Pepper",
+  "National Beverage"
+ ],
+ "312112": [
+  "Primo Brands",
+  "BlueTriton Brands",
+  "Niagara Bottling",
+  "Coca-Cola"
+ ],
+ "312113": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "312120": [
+  "Anheuser-Busch",
+  "Molson Coors",
+  "Constellation Brands",
+  "Heineken USA"
+ ],
+ "312130": [
+  "E. & J. Gallo Winery",
+  "The Wine Group",
+  "Constellation Brands",
+  "Treasury Wine Estates"
+ ],
+ "312140": [
+  "Diageo",
+  "Beam Suntory",
+  "Brown-Forman",
+  "Sazerac"
+ ],
+ "312230": [
+  "Altria",
+  "Reynolds American",
+  "ITG Brands",
+  "Swisher"
+ ],
+ "313110": [
+  "Parkdale Mills",
+  "Unifi",
+  "Gildan",
+  "Coats"
+ ],
+ "313210": [
+  "Milliken & Company",
+  "Burlington Industries",
+  "Glen Raven",
+  "Mount Vernon Mills"
+ ],
+ "313220": [
+  "Glen Raven",
+  "Murdock Webbing",
+  "Bally Ribbon Mills",
+  "American & Efird"
+ ],
+ "313230": [
+  "Berry Global",
+  "Freudenberg",
+  "Ahlstrom",
+  "Johns Manville"
+ ],
+ "313240": [
+  "Gildan",
+  "Hanesbrands",
+  "Carpenter Technology",
+  "Mount Vernon Mills"
+ ],
+ "313310": [
+  "Milliken & Company",
+  "Glen Raven",
+  "Parkdale Mills",
+  "Burlington Industries"
+ ],
+ "313320": [
+  "Saint-Gobain",
+  "Cooley Group",
+  "Continental",
+  "Trelleborg"
+ ],
+ "314110": [
+  "Shaw Industries",
+  "Mohawk Industries",
+  "Interface",
+  "Engineered Floors"
+ ],
+ "314120": [
+  "Standard Textile",
+  "WestPoint Home",
+  "Luna Textiles",
+  "Guilford of Maine"
+ ],
+ "314910": [
+  "Bagcraft",
+  "ProAmpac",
+  "Novolex",
+  "Berry Global"
+ ],
+ "314994": [
+  "Cortland Company",
+  "Samson Rope",
+  "Marlow Ropes",
+  "American & Efird"
+ ],
+ "314999": [
+  "Kraft Heinz",
+  "Tyson Foods",
+  "PepsiCo",
+  "Cargill"
+ ],
+ "315120": [
+  "Hanesbrands",
+  "Gildan",
+  "Fruit of the Loom",
+  "Knitcraft"
+ ],
+ "315210": [
+  "Gildan",
+  "Hanesbrands",
+  "VF Corporation",
+  "Sewn Products"
+ ],
+ "315250": [
+  "Hanesbrands",
+  "Gildan",
+  "VF Corporation",
+  "Kontoor Brands"
+ ],
+ "315990": [
+  "Hanesbrands",
+  "Gildan",
+  "VF Corporation",
+  "Kontoor Brands"
+ ],
+ "316110": [
+  "JBS Couros",
+  "Wolverine Worldwide",
+  "PrimeAsia Leather",
+  "Horween Leather"
+ ],
+ "316210": [
+  "Nike",
+  "Skechers",
+  "Wolverine Worldwide",
+  "New Balance"
+ ],
+ "316990": [
+  "Kraft Heinz",
+  "Tyson Foods",
+  "PepsiCo",
+  "Cargill"
+ ],
+ "321113": [
+  "Weyerhaeuser",
+  "West Fraser",
+  "Georgia-Pacific",
+  "Interfor"
+ ],
+ "321114": [
+  "Koppers",
+  "Viance",
+  "Lonza Wood Protection",
+  "Great Southern Wood"
+ ],
+ "321211": [
+  "Boise Cascade",
+  "Weyerhaeuser",
+  "Roseburg Forest Products",
+  "Georgia-Pacific"
+ ],
+ "321212": [
+  "Boise Cascade",
+  "Weyerhaeuser",
+  "Roseburg Forest Products",
+  "Georgia-Pacific"
+ ],
+ "321215": [
+  "Weyerhaeuser",
+  "Boise Cascade",
+  "LP Building Solutions",
+  "Roseburg Forest Products"
+ ],
+ "321219": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "321911": [
+  "JELD-WEN",
+  "Masonite",
+  "Andersen Corporation",
+  "Pella"
+ ],
+ "321912": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "321918": [
+  "Masonite",
+  "JELD-WEN",
+  "Builders FirstSource",
+  "Woodgrain Millwork"
+ ],
+ "321920": [
+  "Brambles",
+  "PECO Pallet",
+  "PalletOne",
+  "Millwood"
+ ],
+ "321991": [
+  "Clayton Homes",
+  "Champion Homes",
+  "Cavco Industries",
+  "Skyline Champion"
+ ],
+ "321992": [
+  "Factory OS",
+  "Cavco Industries",
+  "Champion Homes",
+  "Modular Building Concepts"
+ ],
+ "321999": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "322110": [
+  "International Paper",
+  "Georgia-Pacific",
+  "WestRock",
+  "Domtar"
+ ],
+ "322120": [
+  "International Paper",
+  "Georgia-Pacific",
+  "WestRock",
+  "Domtar"
+ ],
+ "322130": [
+  "International Paper",
+  "WestRock",
+  "Graphic Packaging",
+  "Sonoco"
+ ],
+ "322211": [
+  "International Paper",
+  "WestRock",
+  "Packaging Corporation of America",
+  "Georgia-Pacific"
+ ],
+ "322212": [
+  "International Paper",
+  "WestRock",
+  "Graphic Packaging",
+  "Sonoco"
+ ],
+ "322219": [
+  "International Paper",
+  "WestRock",
+  "Graphic Packaging",
+  "Sonoco"
+ ],
+ "322220": [
+  "Novolex",
+  "ProAmpac",
+  "International Paper",
+  "WestRock"
+ ],
+ "322230": [
+  "ACCO Brands",
+  "Avery Products",
+  "Dixon Ticonderoga",
+  "Smead"
+ ],
+ "322291": [
+  "Kimberly-Clark",
+  "Procter & Gamble",
+  "Georgia-Pacific",
+  "Essity"
+ ],
+ "322299": [
+  "GPCP",
+  "Graham Packaging",
+  "Novolex",
+  "Berry Global"
+ ],
+ "323111": [
+  "RR Donnelley",
+  "Quad",
+  "Cenveo",
+  "Ironmark"
+ ],
+ "323113": [
+  "S&S Activewear",
+  "Custom Ink",
+  "RushOrderTees",
+  "Jakprints"
+ ],
+ "323117": [
+  "Cenveo",
+  "LSC Communications",
+  "RR Donnelley",
+  "Thomson-Shore"
+ ],
+ "323120": [
+  "RR Donnelley",
+  "Quad",
+  "Cenveo",
+  "LSC Communications"
+ ],
+ "324110": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "324121": [
+  "CRH",
+  "Vulcan Materials",
+  "Granite Construction",
+  "Martin Marietta"
+ ],
+ "324122": [
+  "CRH",
+  "Vulcan Materials",
+  "Granite Construction",
+  "Martin Marietta"
+ ],
+ "324191": [
+  "ExxonMobil",
+  "Chevron",
+  "Valvoline",
+  "Phillips 66"
+ ],
+ "324199": [
+  "Marathon Petroleum",
+  "Valero Energy",
+  "Phillips 66",
+  "PBF Energy"
+ ],
+ "325110": [
+  "Dow",
+  "LyondellBasell",
+  "ExxonMobil",
+  "Chevron Phillips Chemical"
+ ],
+ "325120": [
+  "Linde",
+  "Air Products",
+  "Air Liquide",
+  "Messer"
+ ],
+ "325130": [
+  "BASF",
+  "Clariant",
+  "Huntsman",
+  "DuPont"
+ ],
+ "325180": [
+  "Chemours",
+  "OxyChem",
+  "BASF",
+  "Albemarle"
+ ],
+ "325193": [
+  "POET",
+  "Archer Daniels Midland",
+  "Green Plains",
+  "Valero Renewables"
+ ],
+ "325194": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "325199": [
+  "Dow",
+  "LyondellBasell",
+  "Eastman Chemical",
+  "Olin"
+ ],
+ "325211": [
+  "Dow",
+  "ExxonMobil Chemical",
+  "LyondellBasell",
+  "Westlake"
+ ],
+ "325212": [
+  "Lion Elastomers",
+  "Arlanxeo",
+  "Kumho Petrochemical",
+  "Goodyear"
+ ],
+ "325220": [
+  "Indorama Ventures",
+  "Eastman Chemical",
+  "Unifi",
+  "Celanese"
+ ],
+ "325311": [
+  "CF Industries",
+  "Nutrien",
+  "Koch Fertilizer",
+  "Yara"
+ ],
+ "325312": [
+  "The Mosaic Company",
+  "Nutrien",
+  "J.R. Simplot",
+  "PhosAgro"
+ ],
+ "325314": [
+  "Nutrien",
+  "The Mosaic Company",
+  "CF Industries",
+  "Yara"
+ ],
+ "325315": [
+  "McGill Environmental",
+  "Waste Management",
+  "Recology",
+  "Republic Services"
+ ],
+ "325320": [
+  "Corteva Agriscience",
+  "Bayer CropScience",
+  "Syngenta",
+  "FMC"
+ ],
+ "325411": [
+  "Pfizer",
+  "Merck",
+  "Eli Lilly",
+  "Johnson & Johnson"
+ ],
+ "325412": [
+  "Pfizer",
+  "Johnson & Johnson",
+  "Eli Lilly",
+  "Merck"
+ ],
+ "325413": [
+  "Abbott",
+  "Roche Diagnostics",
+  "Danaher",
+  "bioMérieux"
+ ],
+ "325414": [
+  "Amgen",
+  "Genentech",
+  "Regeneron",
+  "Biogen"
+ ],
+ "325510": [
+  "Sherwin-Williams",
+  "PPG",
+  "Benjamin Moore",
+  "RPM International"
+ ],
+ "325520": [
+  "H.B. Fuller",
+  "Henkel",
+  "3M",
+  "Sika"
+ ],
+ "325611": [
+  "Procter & Gamble",
+  "Unilever",
+  "Colgate-Palmolive",
+  "Church & Dwight"
+ ],
+ "325612": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "325613": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "325620": [
+  "L’Oréal USA",
+  "Estée Lauder",
+  "Coty",
+  "Revlon"
+ ],
+ "325910": [
+  "RR Donnelley",
+  "Quad",
+  "Cenveo",
+  "LSC Communications"
+ ],
+ "325920": [
+  "Austin Powder",
+  "Orica",
+  "Dyno Nobel",
+  "AEL Mining"
+ ],
+ "325991": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "325992": [
+  "Eastman Kodak",
+  "Fujifilm",
+  "Agfa",
+  "Mitsubishi Paper Mills"
+ ],
+ "325998": [
+  "3M",
+  "DuPont",
+  "Ecolab",
+  "Ashland"
+ ],
+ "326111": [
+  "Berry Global",
+  "Novolex",
+  "Amcor",
+  "ProAmpac"
+ ],
+ "326112": [
+  "Amcor",
+  "Berry Global",
+  "Sealed Air",
+  "Sonoco"
+ ],
+ "326113": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "326121": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "326122": [
+  "JM Eagle",
+  "Uponor",
+  "Westlake Pipe",
+  "Advanced Drainage Systems"
+ ],
+ "326130": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "326140": [
+  "Dart Container",
+  "Atlas Roofing",
+  "Insulfoam",
+  "Plastics Corporation"
+ ],
+ "326150": [
+  "Carpenter",
+  "FXI",
+  "Future Foam",
+  "Hickory Springs"
+ ],
+ "326160": [
+  "Amcor",
+  "Berry Global",
+  "Graham Packaging",
+  "Plastipak"
+ ],
+ "326191": [
+  "Westlake Royal Building Products",
+  "JM Eagle",
+  "Charlotte Pipe",
+  "IPEX"
+ ],
+ "326199": [
+  "Berry Global",
+  "Amcor",
+  "Pactiv Evergreen",
+  "Rogers Corporation"
+ ],
+ "326211": [
+  "Goodyear",
+  "Bridgestone Americas",
+  "Michelin North America",
+  "Continental"
+ ],
+ "326212": [
+  "Bandag",
+  "Oliver Rubber",
+  "Marangoni",
+  "Michelin Retread Technologies"
+ ],
+ "326220": [
+  "Gates Corporation",
+  "Parker Hannifin",
+  "Eaton",
+  "Continental"
+ ],
+ "326291": [
+  "Parker Hannifin",
+  "Trelleborg",
+  "Freudenberg",
+  "Eaton"
+ ],
+ "326299": [
+  "Parker Hannifin",
+  "Trelleborg",
+  "Freudenberg",
+  "Eaton"
+ ],
+ "327110": [
+  "Kohler",
+  "American Standard",
+  "Masco",
+  "Roca"
+ ],
+ "327120": [
+  "General Shale",
+  "Belden Brick",
+  "Glen-Gery",
+  "Acme Brick"
+ ],
+ "327211": [
+  "Vitro",
+  "Guardian Glass",
+  "NSG Group",
+  "Saint-Gobain"
+ ],
+ "327212": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "327213": [
+  "O-I Glass",
+  "Ardagh Glass Packaging",
+  "Verallia",
+  "Anchor Glass"
+ ],
+ "327215": [
+  "Corning",
+  "Saint-Gobain",
+  "Owens Corning",
+  "Guardian Glass"
+ ],
+ "327310": [
+  "Holcim US",
+  "CEMEX USA",
+  "Heidelberg Materials",
+  "CRH"
+ ],
+ "327320": [
+  "CEMEX USA",
+  "CRH",
+  "Vulcan Materials",
+  "Martin Marietta"
+ ],
+ "327331": [
+  "Oldcastle Infrastructure",
+  "CRH",
+  "Boral",
+  "Basalite"
+ ],
+ "327332": [
+  "Forterra",
+  "Rinker Materials",
+  "American Concrete Pipe",
+  "Oldcastle Infrastructure"
+ ],
+ "327390": [
+  "CRH",
+  "Vulcan Materials",
+  "Martin Marietta",
+  "Oldcastle Infrastructure"
+ ],
+ "327410": [
+  "Carmeuse",
+  "Lhoist",
+  "Graymont",
+  "Mississippi Lime"
+ ],
+ "327420": [
+  "USG",
+  "Georgia-Pacific",
+  "CertainTeed",
+  "National Gypsum"
+ ],
+ "327910": [
+  "3M",
+  "Saint-Gobain Abrasives",
+  "Norton Abrasives",
+  "Tyrolit"
+ ],
+ "327991": [
+  "Polycor",
+  "Cosentino",
+  "MSI Surfaces",
+  "Levantina"
+ ],
+ "327992": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "327993": [
+  "Johns Manville",
+  "Owens Corning",
+  "Knauf Insulation",
+  "Rockwool"
+ ],
+ "327999": [
+  "3M",
+  "Dow",
+  "International Paper",
+  "Sherwin-Williams"
+ ],
+ "331110": [
+  "Nucor",
+  "Cleveland-Cliffs",
+  "U.S. Steel",
+  "Steel Dynamics"
+ ],
+ "331210": [
+  "Zekelman Industries",
+  "Tenaris",
+  "Northwest Pipe",
+  "Wheatland Tube"
+ ],
+ "331221": [
+  "Nucor",
+  "Steel Dynamics",
+  "Commercial Metals",
+  "Gerdau"
+ ],
+ "331222": [
+  "Insteel Industries",
+  "Leggett & Platt",
+  "Nucor",
+  "Tree Island Steel"
+ ],
+ "331313": [
+  "Alcoa",
+  "Alumina Limited",
+  "Century Aluminum",
+  "Rio Tinto"
+ ],
+ "331314": [
+  "Alcoa",
+  "Novelis",
+  "Kaiser Aluminum",
+  "Constellium"
+ ],
+ "331315": [
+  "Alcoa",
+  "Novelis",
+  "Kaiser Aluminum",
+  "Constellium"
+ ],
+ "331318": [
+  "Alcoa",
+  "Novelis",
+  "Kaiser Aluminum",
+  "Constellium"
+ ],
+ "331410": [
+  "Alcoa",
+  "Novelis",
+  "Kaiser Aluminum",
+  "Constellium"
+ ],
+ "331420": [
+  "Freeport-McMoRan",
+  "Southern Copper",
+  "Rio Tinto",
+  "BHP"
+ ],
+ "331491": [
+  "Freeport-McMoRan",
+  "Southern Copper",
+  "Rio Tinto",
+  "BHP"
+ ],
+ "331492": [
+  "Freeport-McMoRan",
+  "Southern Copper",
+  "Rio Tinto",
+  "BHP"
+ ],
+ "331511": [
+  "Waupaca Foundry",
+  "Grede",
+  "Metal Technologies",
+  "ESCO Group"
+ ],
+ "331512": [
+  "Waupaca Foundry",
+  "Grede",
+  "Metal Technologies",
+  "ESCO Group"
+ ],
+ "331513": [
+  "Waupaca Foundry",
+  "Grede",
+  "Metal Technologies",
+  "ESCO Group"
+ ],
+ "331523": [
+  "Rio Tinto",
+  "Freeport-McMoRan",
+  "Glencore",
+  "Materion"
+ ],
+ "331524": [
+  "Alcoa",
+  "Novelis",
+  "Kaiser Aluminum",
+  "Constellium"
+ ],
+ "331529": [
+  "Rio Tinto",
+  "Freeport-McMoRan",
+  "Glencore",
+  "Materion"
+ ],
+ "332111": [
+  "Scot Forge",
+  "American Axle & Manufacturing",
+  "Finkl Steel",
+  "Wyman-Gordon"
+ ],
+ "332112": [
+  "Scot Forge",
+  "American Axle & Manufacturing",
+  "Finkl Steel",
+  "Wyman-Gordon"
+ ],
+ "332114": [
+  "Roll-Kraft",
+  "Samco Machinery",
+  "Bridger Steel",
+  "The Bradbury Group"
+ ],
+ "332117": [
+  "GKN Powder Metallurgy",
+  "Höganäs",
+  "Miba",
+  "Carpenter Technology"
+ ],
+ "332119": [
+  "Magna International",
+  "Gestamp",
+  "Martinrea",
+  "Tower Automotive"
+ ],
+ "332215": [
+  "Newell Brands",
+  "Meyer Corporation",
+  "Groupe SEB",
+  "Lifetime Brands"
+ ],
+ "332216": [
+  "Stanley Black & Decker",
+  "Snap-on",
+  "Lenox",
+  "Bahco"
+ ],
+ "332311": [
+  "Nucor Buildings Group",
+  "Varco Pruden",
+  "Butler Manufacturing",
+  "Kirby Building Systems"
+ ],
+ "332312": [
+  "Nucor",
+  "Schuff Steel",
+  "Zekelman Industries",
+  "Valmont Industries"
+ ],
+ "332313": [
+  "Welded Construction",
+  "Cives Steel",
+  "Zekelman Industries",
+  "Schuff Steel"
+ ],
+ "332321": [
+  "Kawneer",
+  "YKK AP",
+  "Oldcastle BuildingEnvelope",
+  "Tubelite"
+ ],
+ "332322": [
+  "EMCOR",
+  "The Brock Group",
+  "Hensel Phelps",
+  "Comfort Systems USA"
+ ],
+ "332323": [
+  "Crown Corr",
+  "Bendheim",
+  "Horton Lees Brogden",
+  "Kawneer"
+ ],
+ "332410": [
+  "Cleaver-Brooks",
+  "Babcock & Wilcox",
+  "Fulton",
+  "Hurst Boiler"
+ ],
+ "332420": [
+  "Caldwell Tanks",
+  "McDermott",
+  "Maus",
+  "Tarsco Bolted Tank"
+ ],
+ "332431": [
+  "Ball Corporation",
+  "Crown Holdings",
+  "Silgan Holdings",
+  "Ardagh Metal Packaging"
+ ],
+ "332439": [
+  "Ball Corporation",
+  "Crown Holdings",
+  "Silgan Holdings",
+  "Sonoco"
+ ],
+ "332510": [
+  "Stanley Black & Decker",
+  "Allegion",
+  "ASSA ABLOY",
+  "Masco"
+ ],
+ "332613": [
+  "Leggett & Platt",
+  "Associated Spring",
+  "MW Industries",
+  "Diamond Wire Spring"
+ ],
+ "332618": [
+  "Leggett & Platt",
+  "Tree Island Steel",
+  "Nucor",
+  "WireCo WorldGroup"
+ ],
+ "332710": [
+  "Xometry",
+  "Proto Labs",
+  "Fictiv",
+  "MW Industries"
+ ],
+ "332721": [
+  "MW Industries",
+  "Stanley Black & Decker",
+  "Kaman",
+  "PCC Industries"
+ ],
+ "332722": [
+  "Fastenal",
+  "Illinois Tool Works",
+  "PennEngineering",
+  "Nucor"
+ ],
+ "332811": [
+  "Bodycote",
+  "Bluewater Thermal Solutions",
+  "Paulo Products",
+  "Metalex"
+ ],
+ "332812": [
+  "PPG",
+  "Axalta",
+  "Sherwin-Williams",
+  "AkzoNobel"
+ ],
+ "332813": [
+  "Northeast Metal Works",
+  "Master Metal Finishing",
+  "Advanced Plating Technologies",
+  "Kuntz Electroplating"
+ ],
+ "332911": [
+  "Emerson",
+  "Flowserve",
+  "Crane Company",
+  "Watts Water Technologies"
+ ],
+ "332912": [
+  "Emerson",
+  "Flowserve",
+  "Crane Company",
+  "Watts Water Technologies"
+ ],
+ "332913": [
+  "Masco",
+  "Moen",
+  "Kohler",
+  "American Standard"
+ ],
+ "332919": [
+  "Emerson",
+  "Flowserve",
+  "Crane Company",
+  "Watts Water Technologies"
+ ],
+ "332991": [
+  "SKF",
+  "Timken",
+  "NTN Bearing",
+  "Schaeffler"
+ ],
+ "332992": [
+  "Vista Outdoor",
+  "Federal Premium",
+  "Olin Winchester",
+  "Remington"
+ ],
+ "332993": [
+  "Northrop Grumman",
+  "General Dynamics",
+  "BAE Systems",
+  "Olin Winchester"
+ ],
+ "332994": [
+  "General Dynamics",
+  "Lockheed Martin",
+  "Northrop Grumman",
+  "BAE Systems"
+ ],
+ "332996": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "332999": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "333111": [
+  "John Deere",
+  "CNH Industrial",
+  "AGCO",
+  "Kubota"
+ ],
+ "333112": [
+  "The Toro Company",
+  "Stanley Black & Decker",
+  "Husqvarna",
+  "Briggs & Stratton"
+ ],
+ "333120": [
+  "Caterpillar",
+  "Komatsu",
+  "John Deere",
+  "Volvo Construction Equipment"
+ ],
+ "333131": [
+  "Caterpillar",
+  "Komatsu Mining",
+  "Epiroc",
+  "Sandvik"
+ ],
+ "333132": [
+  "NOV",
+  "Baker Hughes",
+  "Halliburton",
+  "SLB"
+ ],
+ "333241": [
+  "JBT Marel",
+  "Bühler",
+  "Tetra Pak",
+  "GEA Group"
+ ],
+ "333242": [
+  "Applied Materials",
+  "Lam Research",
+  "KLA",
+  "ASML"
+ ],
+ "333243": [
+  "USNR",
+  "Morbark",
+  "Baker Products",
+  "Stiles Machinery"
+ ],
+ "333248": [
+  "Illinois Tool Works",
+  "Emerson",
+  "Dover",
+  "Ingersoll Rand"
+ ],
+ "333310": [
+  "Dover",
+  "Illinois Tool Works",
+  "Middleby",
+  "Rational"
+ ],
+ "333413": [
+  "Howden",
+  "Twin City Fan",
+  "Greenheck",
+  "Loren Cook"
+ ],
+ "333414": [
+  "Carrier",
+  "Trane Technologies",
+  "Lennox",
+  "Johnson Controls"
+ ],
+ "333415": [
+  "Carrier",
+  "Trane Technologies",
+  "Lennox",
+  "Johnson Controls"
+ ],
+ "333511": [
+  "Progressive Components",
+  "Mold-Masters",
+  "Milacron",
+  "Husky Technologies"
+ ],
+ "333514": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "333515": [
+  "Kennametal",
+  "Sandvik Coromant",
+  "Iscar",
+  "Mitsubishi Materials"
+ ],
+ "333517": [
+  "Haas Automation",
+  "Mazak",
+  "DMG MORI",
+  "Okuma"
+ ],
+ "333519": [
+  "Cincinnati Incorporated",
+  "Haas Automation",
+  "Komatsu",
+  "Amada"
+ ],
+ "333611": [
+  "GE Vernova",
+  "Siemens Energy",
+  "Mitsubishi Power",
+  "Baker Hughes"
+ ],
+ "333612": [
+  "Timken Power Systems",
+  "Regal Rexnord",
+  "SEW-Eurodrive",
+  "Sumitomo Drive Technologies"
+ ],
+ "333613": [
+  "Allison Transmission",
+  "BorgWarner",
+  "Dana",
+  "Aisin"
+ ],
+ "333618": [
+  "Cummins",
+  "Caterpillar",
+  "Deere",
+  "Rolls-Royce Power Systems"
+ ],
+ "333912": [
+  "Ingersoll Rand",
+  "Atlas Copco",
+  "Sullair",
+  "Gardner Denver"
+ ],
+ "333914": [
+  "Xylem",
+  "Flowserve",
+  "Pentair",
+  "ITT"
+ ],
+ "333921": [
+  "Otis",
+  "KONE",
+  "Schindler",
+  "TK Elevator"
+ ],
+ "333922": [
+  "Flexco",
+  "Dorner",
+  "Hytrol",
+  "Daifuku"
+ ],
+ "333923": [
+  "Konecranes",
+  "Terex",
+  "Columbus McKinnon",
+  "Manitowoc"
+ ],
+ "333924": [
+  "Toyota Material Handling",
+  "Crown Equipment",
+  "Hyster-Yale",
+  "Raymond"
+ ],
+ "333991": [
+  "Stanley Black & Decker",
+  "Snap-on",
+  "Apex Tool Group",
+  "Milwaukee Tool"
+ ],
+ "333992": [
+  "Lincoln Electric",
+  "Miller Electric",
+  "ESAB",
+  "Fronius"
+ ],
+ "333993": [
+  "ProMach",
+  "Barry-Wehmiller",
+  "Krones",
+  "Sidel"
+ ],
+ "333994": [
+  "Ipsen",
+  "Lindberg/MPH",
+  "Surface Combustion",
+  "Can-Eng Furnaces"
+ ],
+ "333995": [
+  "Parker Hannifin",
+  "Eaton",
+  "Bosch Rexroth",
+  "Danfoss"
+ ],
+ "333996": [
+  "Parker Hannifin",
+  "Eaton",
+  "Danfoss",
+  "Bosch Rexroth"
+ ],
+ "333998": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "334111": [
+  "Dell Technologies",
+  "HP Inc.",
+  "Apple",
+  "Lenovo"
+ ],
+ "334112": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "334118": [
+  "HP Inc.",
+  "Logitech",
+  "Epson America",
+  "Lexmark"
+ ],
+ "334210": [
+  "Cisco",
+  "Motorola Solutions",
+  "Avaya",
+  "Panasonic"
+ ],
+ "334220": [
+  "Sony",
+  "Roku",
+  "Samsung Electronics",
+  "LG Electronics"
+ ],
+ "334290": [
+  "Cisco",
+  "Motorola Solutions",
+  "Nokia",
+  "Ericsson"
+ ],
+ "334310": [
+  "Sony",
+  "Bose",
+  "Harman",
+  "Sonos"
+ ],
+ "334412": [
+  "TTM Technologies",
+  "Sanmina",
+  "Jabil",
+  "Summit Interconnect"
+ ],
+ "334413": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "334416": [
+  "KEMET",
+  "Vishay",
+  "TDK",
+  "Murata"
+ ],
+ "334417": [
+  "TE Connectivity",
+  "Amphenol",
+  "Molex",
+  "ITT"
+ ],
+ "334418": [
+  "Jabil",
+  "Flex",
+  "Sanmina",
+  "Celestica"
+ ],
+ "334419": [
+  "Amphenol",
+  "TE Connectivity",
+  "Jabil",
+  "Flex"
+ ],
+ "334510": [
+  "Medtronic",
+  "Abbott",
+  "Stryker",
+  "Boston Scientific"
+ ],
+ "334511": [
+  "Lockheed Martin",
+  "Raytheon",
+  "Northrop Grumman",
+  "L3Harris"
+ ],
+ "334512": [
+  "Honeywell",
+  "Johnson Controls",
+  "Emerson",
+  "Carrier"
+ ],
+ "334513": [
+  "Emerson",
+  "Honeywell",
+  "Siemens",
+  "Rockwell Automation"
+ ],
+ "334514": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "334515": [
+  "Fluke",
+  "Keysight Technologies",
+  "Tektronix",
+  "Ametek"
+ ],
+ "334516": [
+  "Thermo Fisher Scientific",
+  "Danaher",
+  "Agilent",
+  "Waters Corporation"
+ ],
+ "334517": [
+  "Sterigenics",
+  "IBA",
+  "Varian",
+  "Nordion"
+ ],
+ "334519": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "334610": [
+  "Sony",
+  "Verbatim",
+  "Imation",
+  "Mitsubishi Chemical"
+ ],
+ "335131": [
+  "Acuity Brands",
+  "Hubbell",
+  "Current Lighting",
+  "Signify"
+ ],
+ "335132": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "335139": [
+  "Sylvania",
+  "GE Lighting",
+  "Philips",
+  "Feit Electric"
+ ],
+ "335210": [
+  "Newell Brands",
+  "Hamilton Beach",
+  "Conair",
+  "SharkNinja"
+ ],
+ "335220": [
+  "Whirlpool",
+  "GE Appliances",
+  "Electrolux",
+  "Samsung Electronics"
+ ],
+ "335311": [
+  "Eaton",
+  "Schneider Electric",
+  "Hitachi Energy",
+  "GE Vernova"
+ ],
+ "335312": [
+  "Regal Rexnord",
+  "Nidec",
+  "ABB",
+  "WEG"
+ ],
+ "335313": [
+  "Timken Power Systems",
+  "Regal Rexnord",
+  "SEW-Eurodrive",
+  "Sumitomo Drive Technologies"
+ ],
+ "335314": [
+  "Rockwell Automation",
+  "Eaton",
+  "Honeywell",
+  "Emerson"
+ ],
+ "335910": [
+  "Clarios",
+  "Panasonic Energy",
+  "Duracell",
+  "EnerSys"
+ ],
+ "335921": [
+  "Corning",
+  "Prysmian",
+  "CommScope",
+  "OFS"
+ ],
+ "335929": [
+  "Prysmian",
+  "Southwire",
+  "Nexans",
+  "Encore Wire"
+ ],
+ "335931": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "335932": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "335991": [
+  "GrafTech",
+  "SGL Carbon",
+  "Mersen",
+  "Tokai Carbon"
+ ],
+ "335999": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "336110": [
+  "General Motors",
+  "Ford",
+  "Toyota",
+  "Stellantis"
+ ],
+ "336120": [
+  "Daimler Truck",
+  "PACCAR",
+  "Volvo Trucks",
+  "Navistar"
+ ],
+ "336211": [
+  "Magna International",
+  "Flex-N-Gate",
+  "Gestamp",
+  "ABC Technologies"
+ ],
+ "336212": [
+  "Wabash National",
+  "Utility Trailer",
+  "Great Dane",
+  "Hyundai Translead"
+ ],
+ "336213": [
+  "Thor Industries",
+  "Winnebago Industries",
+  "Forest River",
+  "REV Group"
+ ],
+ "336214": [
+  "Thor Industries",
+  "Forest River",
+  "Winnebago Industries",
+  "REV Group"
+ ],
+ "336310": [
+  "Cummins",
+  "BorgWarner",
+  "Dana",
+  "MAHLE"
+ ],
+ "336320": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "336330": [
+  "Tenneco",
+  "BorgWarner",
+  "ZF",
+  "American Axle & Manufacturing"
+ ],
+ "336340": [
+  "Brembo",
+  "Akebono Brake",
+  "ZF",
+  "Bosch"
+ ],
+ "336350": [
+  "Allison Transmission",
+  "BorgWarner",
+  "Dana",
+  "Aisin"
+ ],
+ "336360": [
+  "Lear Corporation",
+  "Adient",
+  "Magna International",
+  "Yanfeng"
+ ],
+ "336370": [
+  "Magna International",
+  "Gestamp",
+  "Martinrea",
+  "Tower Automotive"
+ ],
+ "336390": [
+  "Lear Corporation",
+  "Aptiv",
+  "BorgWarner",
+  "Dana"
+ ],
+ "336411": [
+  "Boeing",
+  "Lockheed Martin",
+  "Northrop Grumman",
+  "Textron Aviation"
+ ],
+ "336412": [
+  "GE Aerospace",
+  "Pratt & Whitney",
+  "Rolls-Royce",
+  "Honeywell Aerospace"
+ ],
+ "336413": [
+  "Spirit AeroSystems",
+  "Collins Aerospace",
+  "Parker Aerospace",
+  "Triumph Group"
+ ],
+ "336414": [
+  "Lockheed Martin",
+  "Raytheon",
+  "Northrop Grumman",
+  "General Dynamics"
+ ],
+ "336415": [
+  "Lockheed Martin",
+  "Raytheon",
+  "Northrop Grumman",
+  "General Dynamics"
+ ],
+ "336419": [
+  "Lockheed Martin",
+  "Raytheon",
+  "Northrop Grumman",
+  "General Dynamics"
+ ],
+ "336510": [
+  "Wabtec",
+  "Alstom",
+  "Siemens Mobility",
+  "Stadler"
+ ],
+ "336611": [
+  "Huntington Ingalls",
+  "General Dynamics NASSCO",
+  "Fincantieri Marinette Marine",
+  "Austal USA"
+ ],
+ "336612": [
+  "Brunswick",
+  "Malibu Boats",
+  "MasterCraft",
+  "Correct Craft"
+ ],
+ "336991": [
+  "Harley-Davidson",
+  "Polaris",
+  "Honda",
+  "Yamaha"
+ ],
+ "336992": [
+  "General Dynamics Land Systems",
+  "BAE Systems",
+  "Oshkosh Defense",
+  "AM General"
+ ],
+ "336999": [
+  "Wabtec",
+  "Wesco",
+  "Airline Hydraulics",
+  "Bell Equipment"
+ ],
+ "337110": [
+  "MasterBrand Cabinets",
+  "American Woodmark",
+  "CabinetWorks",
+  "KraftMaid"
+ ],
+ "337121": [
+  "Ashley Furniture",
+  "La-Z-Boy",
+  "IKEA",
+  "Bassett Furniture"
+ ],
+ "337122": [
+  "Ashley Furniture",
+  "Ethan Allen",
+  "IKEA",
+  "Sauder"
+ ],
+ "337126": [
+  "Ashley Furniture",
+  "La-Z-Boy",
+  "IKEA",
+  "Steelcase"
+ ],
+ "337127": [
+  "Steelcase",
+  "Herman Miller",
+  "Haworth",
+  "Kimball International"
+ ],
+ "337211": [
+  "Steelcase",
+  "Herman Miller",
+  "Haworth",
+  "Knoll"
+ ],
+ "337212": [
+  "Masonite",
+  "JELD-WEN",
+  "Builders FirstSource",
+  "Woodgrain Millwork"
+ ],
+ "337214": [
+  "Steelcase",
+  "Herman Miller",
+  "Haworth",
+  "Knoll"
+ ],
+ "337215": [
+  "Interlake Mecalux",
+  "Rousseau Metal",
+  "Steelcase",
+  "Spacesaver"
+ ],
+ "337910": [
+  "Serta Simmons Bedding",
+  "Tempur Sealy",
+  "Spring Air",
+  "Corsicana"
+ ],
+ "337920": [
+  "Hunter Douglas",
+  "Springs Window Fashions",
+  "Bali",
+  "Norman Window Fashions"
+ ],
+ "339112": [
+  "Stryker",
+  "Medtronic",
+  "Johnson & Johnson",
+  "Boston Scientific"
+ ],
+ "339113": [
+  "Össur",
+  "Zimmer Biomet",
+  "DJO",
+  "Coloplast"
+ ],
+ "339114": [
+  "Dentsply Sirona",
+  "Henry Schein",
+  "Align Technology",
+  "Envista"
+ ],
+ "339115": [
+  "EssilorLuxottica",
+  "Johnson & Johnson Vision",
+  "Bausch + Lomb",
+  "CooperVision"
+ ],
+ "339116": [
+  "National Dentex Labs",
+  "Modern Dental USA",
+  "Affordable Dentures",
+  "Glidewell"
+ ],
+ "339910": [
+  "Signet Jewelers",
+  "Tiffany & Co.",
+  "Pandora",
+  "Brilliant Earth"
+ ],
+ "339920": [
+  "Nike",
+  "Wilson Sporting Goods",
+  "Easton",
+  "Callaway"
+ ],
+ "339930": [
+  "Mattel",
+  "Hasbro",
+  "Spin Master",
+  "MGA Entertainment"
+ ],
+ "339940": [
+  "ACCO Brands",
+  "Newell Brands",
+  "Avery Products",
+  "Staples"
+ ],
+ "339950": [
+  "YESCO",
+  "Federal Heath",
+  "Watchfire Signs",
+  "Daktronics"
+ ],
+ "339991": [
+  "Reddy Ice",
+  "Home City Ice",
+  "Arctic Glacier",
+  "Penguin Ice"
+ ],
+ "339992": [
+  "Fender",
+  "Gibson Brands",
+  "Yamaha",
+  "Steinway & Sons"
+ ],
+ "339993": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "339994": [
+  "The Libman Company",
+  "Rubbermaid",
+  "Fuller Brush",
+  "O-Cedar"
+ ],
+ "339995": [
+  "Hillenbrand",
+  "Matthews International",
+  "Batesville",
+  "Aurora Casket"
+ ],
+ "339999": [
+  "Honeywell",
+  "3M",
+  "Illinois Tool Works",
+  "Emerson"
+ ],
+ "423110": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423120": [
+  "Genuine Parts Company",
+  "LKQ Corporation",
+  "AutoZone",
+  "Advance Auto Parts"
+ ],
+ "423130": [
+  "TireHub",
+  "American Tire Distributors",
+  "Goodyear",
+  "Michelin"
+ ],
+ "423140": [
+  "Lear Corporation",
+  "Aptiv",
+  "BorgWarner",
+  "Dana"
+ ],
+ "423210": [
+  "Furniture Row",
+  "Legends Furniture",
+  "Ashley Furniture",
+  "Hooker Furnishings"
+ ],
+ "423220": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423310": [
+  "Masonite",
+  "JELD-WEN",
+  "Builders FirstSource",
+  "Woodgrain Millwork"
+ ],
+ "423320": [
+  "Builders FirstSource",
+  "ABC Supply",
+  "Beacon Building Products",
+  "Ferguson"
+ ],
+ "423330": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423390": [
+  "Builders FirstSource",
+  "ABC Supply",
+  "Beacon Building Products",
+  "Ferguson"
+ ],
+ "423410": [
+  "Nikon",
+  "Canon",
+  "Sony",
+  "B&H Photo"
+ ],
+ "423420": [
+  "Xerox",
+  "Ricoh",
+  "Konica Minolta",
+  "Canon"
+ ],
+ "423430": [
+  "HP Inc.",
+  "Logitech",
+  "Epson America",
+  "Lexmark"
+ ],
+ "423440": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423450": [
+  "Medline",
+  "McKesson Medical-Surgical",
+  "Henry Schein",
+  "Cardinal Health"
+ ],
+ "423460": [
+  "EssilorLuxottica",
+  "Johnson & Johnson Vision",
+  "Bausch + Lomb",
+  "CooperVision"
+ ],
+ "423490": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423510": [
+  "Ryerson",
+  "Kloeckner Metals",
+  "Reliance",
+  "Russel Metals"
+ ],
+ "423520": [
+  "Glencore",
+  "Vitol",
+  "Trafigura",
+  "Cargill"
+ ],
+ "423610": [
+  "WESCO International",
+  "Graybar",
+  "Sonepar",
+  "Rexel"
+ ],
+ "423620": [
+  "Ferguson",
+  "WESCO International",
+  "ADI Global",
+  "Mayer Electric"
+ ],
+ "423690": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423710": [
+  "Ferguson",
+  "HD Supply",
+  "Fastenal",
+  "Grainger"
+ ],
+ "423720": [
+  "Carrier",
+  "Trane Technologies",
+  "Lennox",
+  "Johnson Controls"
+ ],
+ "423730": [
+  "Carrier",
+  "Trane Technologies",
+  "Lennox",
+  "Daikin Applied"
+ ],
+ "423740": [
+  "United Refrigeration",
+  "Baker Distributing",
+  "Watsco",
+  "Ferguson"
+ ],
+ "423810": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423820": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "423830": [
+  "Illinois Tool Works",
+  "Emerson",
+  "Dover",
+  "Ingersoll Rand"
+ ],
+ "423840": [
+  "Grainger",
+  "Fastenal",
+  "MSC Industrial",
+  "Motion Industries"
+ ],
+ "423850": [
+  "Edward Don & Company",
+  "TriMark USA",
+  "Singer Equipment",
+  "KaTom"
+ ],
+ "423860": [
+  "Wabtec",
+  "Wesco",
+  "Airline Hydraulics",
+  "Bell Equipment"
+ ],
+ "423910": [
+  "Nike",
+  "Callaway",
+  "Wilson Sporting Goods",
+  "The North Face"
+ ],
+ "423920": [
+  "MGA Entertainment",
+  "Hasbro",
+  "Mattel",
+  "Bandai Namco"
+ ],
+ "423930": [
+  "Sims Metal",
+  "Commercial Metals",
+  "Radius Recycling",
+  "Waste Management"
+ ],
+ "423940": [
+  "Signet Jewelers",
+  "Tiffany & Co.",
+  "Pandora",
+  "Brilliant Earth"
+ ],
+ "423990": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "424110": [
+  "RR Donnelley",
+  "Quad",
+  "Cenveo",
+  "LSC Communications"
+ ],
+ "424120": [
+  "ACCO Brands",
+  "Avery Products",
+  "Dixon Ticonderoga",
+  "Smead"
+ ],
+ "424130": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "424210": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "424310": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "424340": [
+  "Nike",
+  "Skechers",
+  "Wolverine Worldwide",
+  "New Balance"
+ ],
+ "424350": [
+  "TJX Companies",
+  "Ross Stores",
+  "Gap",
+  "H&M"
+ ],
+ "424410": [
+  "C&S Wholesale Grocers",
+  "McLane Company",
+  "UNFI",
+  "KeHE Distributors"
+ ],
+ "424420": [
+  "Lineage",
+  "Conagra Brands",
+  "Sysco",
+  "US Foods"
+ ],
+ "424430": [
+  "Dairy Farmers of America",
+  "Land O'Lakes",
+  "Saputo Dairy USA",
+  "Glanbia Nutritionals"
+ ],
+ "424440": [
+  "Tyson Foods",
+  "Pilgrim's Pride",
+  "Perdue Farms",
+  "Wayne-Sanderson Farms"
+ ],
+ "424450": [
+  "Mars",
+  "The Hershey Company",
+  "Ferrero",
+  "Mondelez International"
+ ],
+ "424460": [
+  "Trident Seafoods",
+  "Thai Union USA",
+  "Bumble Bee Foods",
+  "High Liner Foods"
+ ],
+ "424470": [
+  "Sysco",
+  "US Foods",
+  "Cargill Protein",
+  "JBS USA"
+ ],
+ "424480": [
+  "Fresh Del Monte",
+  "Dole",
+  "Chiquita",
+  "Sunkist"
+ ],
+ "424490": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "424510": [
+  "ADM",
+  "Cargill",
+  "Bunge",
+  "CHS"
+ ],
+ "424520": [
+  "Cargill",
+  "JBS USA",
+  "Tyson Foods",
+  "National Beef"
+ ],
+ "424590": [
+  "Cargill",
+  "ADM",
+  "Bunge",
+  "CHS"
+ ],
+ "424610": [
+  "Dow",
+  "ExxonMobil Chemical",
+  "LyondellBasell",
+  "Westlake"
+ ],
+ "424690": [
+  "Univar Solutions",
+  "Brenntag",
+  "Azelis",
+  "Gates Corporation"
+ ],
+ "424710": [
+  "Kinder Morgan",
+  "Vitol",
+  "Marathon Petroleum",
+  "Buckeye Partners"
+ ],
+ "424720": [
+  "Vitol",
+  "Trafigura",
+  "Marathon Petroleum",
+  "Phillips 66"
+ ],
+ "424810": [
+  "Reyes Beverage Group",
+  "Coca-Cola Consolidated",
+  "Breakthru Beverage",
+  "Columbia Distributing"
+ ],
+ "424820": [
+  "Southern Glazer's Wine & Spirits",
+  "RNDC",
+  "Breakthru Beverage",
+  "Young's Market"
+ ],
+ "424910": [
+  "Nutrien Ag Solutions",
+  "Helena Agri-Enterprises",
+  "CHS",
+  "SiteOne Landscape Supply"
+ ],
+ "424920": [
+  "Ingram Content Group",
+  "Simon & Schuster",
+  "Penguin Random House",
+  "Baker & Taylor"
+ ],
+ "424930": [
+  "SiteOne Landscape Supply",
+  "BFG Supply",
+  "Ewing Irrigation",
+  "Horizon Distributors"
+ ],
+ "424940": [
+  "Altria",
+  "Reynolds American",
+  "ITG Brands",
+  "Swisher"
+ ],
+ "424950": [
+  "Sherwin-Williams",
+  "PPG",
+  "Benjamin Moore",
+  "Genuine Parts Company"
+ ],
+ "424990": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "425120": [
+  "Grainger",
+  "Ferguson",
+  "Sysco",
+  "C.H. Robinson"
+ ],
+ "441110": [
+  "AutoNation",
+  "Penske Automotive",
+  "Lithia Motors",
+  "Group 1 Automotive"
+ ],
+ "441120": [
+  "CarMax",
+  "Carvana",
+  "AutoNation",
+  "Lithia Motors"
+ ],
+ "441210": [
+  "Camping World",
+  "General RV Center",
+  "LaMesa RV",
+  "Curtis Trailers"
+ ],
+ "441222": [
+  "MarineMax",
+  "OneWater Marine",
+  "Bass Pro Shops",
+  "West Marine"
+ ],
+ "441227": [
+  "Harley-Davidson",
+  "Polaris",
+  "Honda",
+  "Yamaha"
+ ],
+ "441330": [
+  "AutoZone",
+  "O'Reilly Auto Parts",
+  "Advance Auto Parts",
+  "NAPA"
+ ],
+ "441340": [
+  "Discount Tire",
+  "Les Schwab",
+  "Goodyear",
+  "NTB"
+ ],
+ "444110": [
+  "The Home Depot",
+  "Lowe's",
+  "Menards",
+  "84 Lumber"
+ ],
+ "444120": [
+  "Sherwin-Williams",
+  "The Home Depot",
+  "Lowe's",
+  "Benjamin Moore"
+ ],
+ "444140": [
+  "Ace Hardware",
+  "True Value",
+  "The Home Depot",
+  "Lowe's"
+ ],
+ "444180": [
+  "Builders FirstSource",
+  "84 Lumber",
+  "ABC Supply",
+  "Lowe's"
+ ],
+ "444230": [
+  "Tractor Supply",
+  "The Home Depot",
+  "Lowe's",
+  "Husqvarna"
+ ],
+ "444240": [
+  "Tractor Supply",
+  "SiteOne Landscape Supply",
+  "The Home Depot",
+  "Lowe's"
+ ],
+ "445110": [
+  "Kroger",
+  "Albertsons",
+  "Publix",
+  "Ahold Delhaize USA"
+ ],
+ "445131": [
+  "7-Eleven",
+  "Circle K",
+  "Casey's",
+  "Wawa"
+ ],
+ "445132": [
+  "Aramark",
+  "Canteen",
+  "Selecta",
+  "Compass Group"
+ ],
+ "445230": [
+  "The Fresh Market",
+  "Whole Foods Market",
+  "Sprouts Farmers Market",
+  "Kroger"
+ ],
+ "445240": [
+  "Kroger",
+  "Publix",
+  "Albertsons",
+  "Walmart"
+ ],
+ "445250": [
+  "Trident Seafoods",
+  "Thai Union USA",
+  "Bumble Bee Foods",
+  "High Liner Foods"
+ ],
+ "445291": [
+  "Panera Bread",
+  "Nothing Bundt Cakes",
+  "Cinnabon",
+  "Great Harvest"
+ ],
+ "445292": [
+  "Mars",
+  "The Hershey Company",
+  "Ferrero",
+  "Mondelez International"
+ ],
+ "445298": [
+  "Whole Foods Market",
+  "Trader Joe's",
+  "Sprouts Farmers Market",
+  "The Fresh Market"
+ ],
+ "445320": [
+  "Total Wine & More",
+  "Drizly",
+  "BevMo!",
+  "Binny's"
+ ],
+ "449110": [
+  "Ashley Furniture",
+  "IKEA",
+  "Rooms To Go",
+  "Wayfair"
+ ],
+ "449121": [
+  "Floor & Decor",
+  "The Home Depot",
+  "Lowe's",
+  "LL Flooring"
+ ],
+ "449122": [
+  "Budget Blinds",
+  "Blinds To Go",
+  "Hunter Douglas",
+  "The Home Depot"
+ ],
+ "449129": [
+  "Williams-Sonoma",
+  "Wayfair",
+  "Bed Bath & Beyond",
+  "At Home"
+ ],
+ "449210": [
+  "Best Buy",
+  "The Home Depot",
+  "Lowe's",
+  "Amazon"
+ ],
+ "455110": [
+  "Macy's",
+  "Kohl's",
+  "Nordstrom",
+  "JCPenney"
+ ],
+ "455211": [
+  "Walmart",
+  "Costco",
+  "Sam's Club",
+  "BJ's Wholesale Club"
+ ],
+ "455219": [
+  "Walmart",
+  "Target",
+  "Amazon",
+  "Dollar General"
+ ],
+ "456110": [
+  "CVS Health",
+  "Walgreens Boots Alliance",
+  "Walmart",
+  "Rite Aid"
+ ],
+ "456120": [
+  "Ulta Beauty",
+  "Sephora",
+  "Sally Beauty",
+  "Bath & Body Works"
+ ],
+ "456130": [
+  "LensCrafters",
+  "Warby Parker",
+  "Visionworks",
+  "America's Best"
+ ],
+ "456191": [
+  "Walmart",
+  "Target",
+  "Amazon",
+  "Kroger"
+ ],
+ "456199": [
+  "CVS Health",
+  "Walgreens",
+  "Walmart",
+  "Dollar General"
+ ],
+ "457110": [
+  "Shell",
+  "Circle K",
+  "BP",
+  "ExxonMobil"
+ ],
+ "457120": [
+  "Shell",
+  "Circle K",
+  "BP",
+  "ExxonMobil"
+ ],
+ "457210": [
+  "AmeriGas",
+  "Suburban Propane",
+  "Ferrellgas",
+  "Heritage Cooperative"
+ ],
+ "458110": [
+  "TJX Companies",
+  "Ross Stores",
+  "Gap",
+  "H&M"
+ ],
+ "458210": [
+  "Foot Locker",
+  "Famous Footwear",
+  "DSW",
+  "Shoe Carnival"
+ ],
+ "458310": [
+  "Signet Jewelers",
+  "Tiffany & Co.",
+  "Pandora",
+  "Brilliant Earth"
+ ],
+ "458320": [
+  "Tumi",
+  "Samsonite",
+  "Coach",
+  "Travelpro"
+ ],
+ "459110": [
+  "Dick's Sporting Goods",
+  "Academy Sports",
+  "REI",
+  "Bass Pro Shops"
+ ],
+ "459120": [
+  "GameStop",
+  "Michaels",
+  "Hobby Lobby",
+  "Build-A-Bear"
+ ],
+ "459130": [
+  "Joann",
+  "Hobby Lobby",
+  "Michaels",
+  "The Sewing Basket"
+ ],
+ "459140": [
+  "Fender",
+  "Gibson Brands",
+  "Yamaha",
+  "Steinway & Sons"
+ ],
+ "459210": [
+  "Barnes & Noble",
+  "Books-A-Million",
+  "Amazon",
+  "Half Price Books"
+ ],
+ "459310": [
+  "1-800-Flowers.com",
+  "FTD",
+  "Teleflora",
+  "ProFlowers"
+ ],
+ "459410": [
+  "ACCO Brands",
+  "Avery Products",
+  "Dixon Ticonderoga",
+  "Smead"
+ ],
+ "459420": [
+  "Spencer Gifts",
+  "Hallmark",
+  "Five Below",
+  "Papyrus"
+ ],
+ "459510": [
+  "Goodwill",
+  "Savers",
+  "Plato's Closet",
+  "The Salvation Army"
+ ],
+ "459910": [
+  "PetSmart",
+  "Petco",
+  "Chewy",
+  "Tractor Supply"
+ ],
+ "459920": [
+  "Sotheby's",
+  "Christie's",
+  "Haven Art Group",
+  "Artsy"
+ ],
+ "459930": [
+  "Walmart",
+  "Target",
+  "Amazon",
+  "Kroger"
+ ],
+ "459991": [
+  "Altria",
+  "Reynolds American",
+  "ITG Brands",
+  "Swisher"
+ ],
+ "459999": [
+  "Walmart",
+  "Target",
+  "Amazon",
+  "Kroger"
+ ],
+ "481111": [
+  "American Airlines",
+  "Delta Air Lines",
+  "United Airlines",
+  "Southwest Airlines"
+ ],
+ "481112": [
+  "FedEx Express",
+  "UPS Airlines",
+  "Atlas Air",
+  "DHL Aviation"
+ ],
+ "481211": [
+  "American Airlines",
+  "Delta Air Lines",
+  "United Airlines",
+  "Southwest Airlines"
+ ],
+ "481212": [
+  "FedEx Express",
+  "UPS Airlines",
+  "Atlas Air",
+  "DHL Aviation"
+ ],
+ "481219": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "483111": [
+  "Maersk",
+  "MSC",
+  "CMA CGM",
+  "Hapag-Lloyd"
+ ],
+ "483112": [
+  "Carnival Cruise Line",
+  "Royal Caribbean",
+  "Norwegian Cruise Line",
+  "Disney Cruise Line"
+ ],
+ "483113": [
+  "Kirby Corporation",
+  "Ingram Barge",
+  "American Steamship Company",
+  "Interlake Steamship"
+ ],
+ "483114": [
+  "Washington State Ferries",
+  "Martha's Vineyard Steamship",
+  "Golden Gate Ferry",
+  "NYC Ferry"
+ ],
+ "483211": [
+  "Kirby Corporation",
+  "Ingram Barge",
+  "American Commercial Barge Line",
+  "Cargill Marine"
+ ],
+ "483212": [
+  "NYC Ferry",
+  "Hornblower",
+  "Washington State Ferries",
+  "Alcatraz City Cruises"
+ ],
+ "484110": [
+  "Ryder",
+  "Penske Logistics",
+  "J.B. Hunt",
+  "Estes Express Lines"
+ ],
+ "484121": [
+  "J.B. Hunt",
+  "Schneider National",
+  "Werner Enterprises",
+  "Knight-Swift"
+ ],
+ "484122": [
+  "J.B. Hunt",
+  "Schneider National",
+  "Werner Enterprises",
+  "Knight-Swift"
+ ],
+ "484210": [
+  "U-Haul",
+  "United Van Lines",
+  "Mayflower Transit",
+  "Allied Van Lines"
+ ],
+ "484220": [
+  "Ryder",
+  "Penske Logistics",
+  "J.B. Hunt",
+  "TForce Freight"
+ ],
+ "484230": [
+  "Ryder",
+  "Penske Logistics",
+  "J.B. Hunt",
+  "TForce Freight"
+ ],
+ "485111": [
+  "New York MTA",
+  "WMATA",
+  "Chicago Transit Authority",
+  "LA Metro"
+ ],
+ "485112": [
+  "New Jersey Transit",
+  "Metropolitan Transportation Authority",
+  "Metra",
+  "Caltrain"
+ ],
+ "485113": [
+  "First Transit",
+  "Transdev",
+  "MV Transportation",
+  "Keolis"
+ ],
+ "485119": [
+  "New York MTA",
+  "Chicago Transit Authority",
+  "LA Metro",
+  "SEPTA"
+ ],
+ "485210": [
+  "Greyhound",
+  "Jefferson Lines",
+  "Trailways",
+  "Coach USA"
+ ],
+ "485310": [
+  "Uber",
+  "Lyft",
+  "Curb",
+  "Yellow Cab"
+ ],
+ "485320": [
+  "Carey International",
+  "EmpireCLS",
+  "Dav El | BostonCoach",
+  "ExecuCar"
+ ],
+ "485410": [
+  "First Student",
+  "National Express",
+  "Transdev",
+  "DATTCO"
+ ],
+ "485510": [
+  "Coach USA",
+  "Academy Bus",
+  "Greyhound",
+  "Peter Pan Bus Lines"
+ ],
+ "485991": [
+  "MV Transportation",
+  "Transdev",
+  "Medical Transportation Management",
+  "Modivcare"
+ ],
+ "485999": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "486110": [
+  "Kinder Morgan",
+  "Enbridge",
+  "Plains All American",
+  "Enterprise Products"
+ ],
+ "486210": [
+  "Kinder Morgan",
+  "Enbridge",
+  "Williams",
+  "Energy Transfer"
+ ],
+ "486910": [
+  "Kinder Morgan",
+  "Enbridge",
+  "Williams",
+  "Energy Transfer"
+ ],
+ "486990": [
+  "Kinder Morgan",
+  "Enbridge",
+  "Williams",
+  "Energy Transfer"
+ ],
+ "487110": [
+  "Gray Line",
+  "Big Bus Tours",
+  "City Experiences",
+  "Viator"
+ ],
+ "487210": [
+  "Gray Line",
+  "Big Bus Tours",
+  "City Experiences",
+  "Viator"
+ ],
+ "487990": [
+  "Gray Line",
+  "Big Bus Tours",
+  "City Experiences",
+  "Viator"
+ ],
+ "488111": [
+  "FAA",
+  "L3Harris",
+  "Raytheon",
+  "SAIC"
+ ],
+ "488119": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "488190": [
+  "Swissport",
+  "Menzies Aviation",
+  "Dnata",
+  "Airport Terminal Services"
+ ],
+ "488210": [
+  "Progress Rail",
+  "Loram Maintenance",
+  "Herzog",
+  "RailWorks"
+ ],
+ "488310": [
+  "Ports America",
+  "SSA Marine",
+  "ICTSI",
+  "Ceres Terminals"
+ ],
+ "488320": [
+  "Ports America",
+  "SSA Marine",
+  "Long Beach Container Terminal",
+  "Ceres Terminals"
+ ],
+ "488330": [
+  "L3Harris",
+  "Raytheon",
+  "Garmin",
+  "Furuno"
+ ],
+ "488390": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "488410": [
+  "AAA",
+  "LKQ",
+  "Copart",
+  "Agero"
+ ],
+ "488490": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "488510": [
+  "C.H. Robinson",
+  "Expeditors",
+  "Kuehne+Nagel",
+  "DSV"
+ ],
+ "488991": [
+  "FedEx Office",
+  "UPS Store",
+  "Craters & Freighters",
+  "Packsize"
+ ],
+ "488999": [
+  "UPS",
+  "FedEx",
+  "J.B. Hunt",
+  "Ryder"
+ ],
+ "492110": [
+  "UPS",
+  "FedEx",
+  "DHL",
+  "Amazon Logistics"
+ ],
+ "492210": [
+  "Uber Eats",
+  "DoorDash",
+  "Roadie",
+  "Postmates"
+ ],
+ "493110": [
+  "GXO Logistics",
+  "DHL Supply Chain",
+  "Ryder",
+  "Prologis"
+ ],
+ "493120": [
+  "Lineage Logistics",
+  "Americold",
+  "United States Cold Storage",
+  "VersaCold"
+ ],
+ "493130": [
+  "C.H. Robinson",
+  "Americold",
+  "Gavilon",
+  "The Andersons"
+ ],
+ "493190": [
+  "UPS",
+  "FedEx",
+  "GXO Logistics",
+  "Prologis"
+ ],
+ "512110": [
+  "Walt Disney Studios",
+  "Universal Pictures",
+  "Warner Bros. Pictures",
+  "Paramount Pictures"
+ ],
+ "512120": [
+  "Warner Bros. Discovery",
+  "The Walt Disney Company",
+  "Universal Pictures",
+  "Sony Pictures"
+ ],
+ "512131": [
+  "AMC Theatres",
+  "Regal Cinemas",
+  "Cinemark",
+  "Marcus Theatres"
+ ],
+ "512132": [
+  "AMC Theatres",
+  "Regal Cinemas",
+  "Cinemark",
+  "Marcus Theatres"
+ ],
+ "512191": [
+  "Deluxe Entertainment",
+  "Company 3",
+  "FotoKem",
+  "Pixelogic Media"
+ ],
+ "512199": [
+  "Microsoft",
+  "Alphabet",
+  "Comcast",
+  "AT&T"
+ ],
+ "512230": [
+  "Universal Music Publishing",
+  "Sony Music Publishing",
+  "Warner Chappell",
+  "Kobalt Music"
+ ],
+ "512240": [
+  "Universal Music Group",
+  "Sony Music Entertainment",
+  "Warner Music Group",
+  "Atlantic Records"
+ ],
+ "512250": [
+  "Universal Music Group",
+  "Sony Music Entertainment",
+  "Warner Music Group",
+  "Concord"
+ ],
+ "512290": [
+  "Microsoft",
+  "Alphabet",
+  "Comcast",
+  "AT&T"
+ ],
+ "513110": [
+  "Gannett",
+  "News Corp",
+  "McClatchy",
+  "Hearst Newspapers"
+ ],
+ "513120": [
+  "Condé Nast",
+  "Hearst Magazines",
+  "Meredith",
+  "Dotdash Meredith"
+ ],
+ "513130": [
+  "Penguin Random House",
+  "HarperCollins",
+  "Simon & Schuster",
+  "Hachette Book Group"
+ ],
+ "513140": [
+  "DexKo Global",
+  "Yell",
+  "DexOne",
+  "RR Donnelley"
+ ],
+ "513191": [
+  "Hallmark",
+  "American Greetings",
+  "Papyrus",
+  "Blue Mountain Arts"
+ ],
+ "513199": [
+  "Microsoft",
+  "Alphabet",
+  "Comcast",
+  "AT&T"
+ ],
+ "513210": [
+  "Microsoft",
+  "Oracle",
+  "Adobe",
+  "Intuit"
+ ],
+ "516110": [
+  "iHeartMedia",
+  "Audacy",
+  "Cumulus Media",
+  "Townsquare Media"
+ ],
+ "516120": [
+  "Comcast NBCUniversal",
+  "The Walt Disney Company",
+  "Fox Corporation",
+  "Paramount Global"
+ ],
+ "516210": [
+  "Netflix",
+  "Alphabet",
+  "Meta",
+  "Amazon"
+ ],
+ "517111": [
+  "AT&T",
+  "Comcast",
+  "Verizon",
+  "Charter Communications"
+ ],
+ "517112": [
+  "Verizon",
+  "AT&T",
+  "T-Mobile",
+  "Dish Network"
+ ],
+ "517121": [
+  "TracFone",
+  "Ting Mobile",
+  "Boost Mobile",
+  "Consumer Cellular"
+ ],
+ "517122": [
+  "Verizon",
+  "AT&T",
+  "T-Mobile",
+  "Dish Network"
+ ],
+ "517410": [
+  "SpaceX Starlink",
+  "Viasat",
+  "EchoStar",
+  "SES"
+ ],
+ "517810": [
+  "American Tower",
+  "Crown Castle",
+  "Zayo",
+  "Lumen Technologies"
+ ],
+ "518210": [
+  "Amazon Web Services",
+  "Microsoft Azure",
+  "Google Cloud",
+  "Oracle Cloud"
+ ],
+ "519210": [
+  "New York Public Library",
+  "Library of Congress",
+  "Chicago Public Library",
+  "Los Angeles Public Library"
+ ],
+ "519290": [
+  "Alphabet",
+  "Microsoft",
+  "Meta",
+  "Verizon Media"
+ ],
+ "521110": [
+  "Federal Reserve System",
+  "Federal Reserve Bank of New York",
+  "Federal Reserve Bank of Chicago",
+  "Federal Reserve Bank of San Francisco"
+ ],
+ "522110": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Wells Fargo",
+  "Citigroup"
+ ],
+ "522130": [
+  "Navy Federal Credit Union",
+  "State Employees' Credit Union",
+  "America First Credit Union",
+  "Boeing Employees Credit Union"
+ ],
+ "522180": [
+  "U.S. Bancorp",
+  "Truist",
+  "Fifth Third Bank",
+  "M&T Bank"
+ ],
+ "522210": [
+  "JPMorgan Chase",
+  "American Express",
+  "Capital One",
+  "Citibank"
+ ],
+ "522220": [
+  "Ally Financial",
+  "Ford Credit",
+  "Toyota Financial Services",
+  "Synchrony"
+ ],
+ "522291": [
+  "LendingClub",
+  "Discover",
+  "SoFi",
+  "OneMain Financial"
+ ],
+ "522292": [
+  "Rocket Mortgage",
+  "United Wholesale Mortgage",
+  "Mr. Cooper",
+  "PennyMac"
+ ],
+ "522299": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "522310": [
+  "LendingTree",
+  "Rocket Mortgage",
+  "Guaranteed Rate",
+  "Fairway Independent Mortgage"
+ ],
+ "522320": [
+  "FIS",
+  "Fiserv",
+  "Global Payments",
+  "Jack Henry"
+ ],
+ "522390": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "523150": [
+  "JPMorgan Chase",
+  "Goldman Sachs",
+  "Morgan Stanley",
+  "Bank of America"
+ ],
+ "523160": [
+  "Cargill",
+  "J.P. Morgan",
+  "Goldman Sachs",
+  "Morgan Stanley"
+ ],
+ "523210": [
+  "CME Group",
+  "Intercontinental Exchange",
+  "Nasdaq",
+  "Cboe Global Markets"
+ ],
+ "523910": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "523940": [
+  "BlackRock",
+  "Vanguard",
+  "Fidelity Investments",
+  "State Street Global Advisors"
+ ],
+ "523991": [
+  "BNY Mellon",
+  "State Street",
+  "Northern Trust",
+  "JPMorgan Chase"
+ ],
+ "523999": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "524113": [
+  "Berkshire Hathaway",
+  "MetLife",
+  "Prudential Financial",
+  "New York Life"
+ ],
+ "524114": [
+  "Berkshire Hathaway",
+  "MetLife",
+  "Prudential Financial",
+  "New York Life"
+ ],
+ "524126": [
+  "Berkshire Hathaway",
+  "MetLife",
+  "Prudential Financial",
+  "New York Life"
+ ],
+ "524127": [
+  "Berkshire Hathaway",
+  "MetLife",
+  "Prudential Financial",
+  "New York Life"
+ ],
+ "524128": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "524130": [
+  "Berkshire Hathaway",
+  "MetLife",
+  "Prudential Financial",
+  "New York Life"
+ ],
+ "524210": [
+  "Marsh McLennan",
+  "Aon",
+  "Arthur J. Gallagher",
+  "Brown & Brown"
+ ],
+ "524291": [
+  "Crawford & Company",
+  "Sedgwick",
+  "PMA Companies",
+  "Gallagher Bassett"
+ ],
+ "524292": [
+  "CVS Caremark",
+  "Express Scripts",
+  "Optum Rx",
+  "Prime Therapeutics"
+ ],
+ "524298": [
+  "JPMorgan Chase",
+  "Bank of America",
+  "Berkshire Hathaway",
+  "BlackRock"
+ ],
+ "531110": [
+  "AvalonBay Communities",
+  "Equity Residential",
+  "Invitation Homes",
+  "American Homes 4 Rent"
+ ],
+ "531120": [
+  "AvalonBay Communities",
+  "Equity Residential",
+  "Invitation Homes",
+  "American Homes 4 Rent"
+ ],
+ "531130": [
+  "Public Storage",
+  "Extra Space Storage",
+  "CubeSmart",
+  "U-Haul"
+ ],
+ "531190": [
+  "CBRE",
+  "JLL",
+  "Prologis",
+  "Enterprise Mobility"
+ ],
+ "531210": [
+  "CBRE",
+  "JLL",
+  "Cushman & Wakefield",
+  "Colliers"
+ ],
+ "531311": [
+  "Greystar",
+  "FirstService Corporation",
+  "Lincoln Property Company",
+  "Cushman & Wakefield"
+ ],
+ "531312": [
+  "Greystar",
+  "FirstService Corporation",
+  "Lincoln Property Company",
+  "Cushman & Wakefield"
+ ],
+ "531320": [
+  "Cushman & Wakefield",
+  "CBRE",
+  "JLL",
+  "CoreLogic"
+ ],
+ "531390": [
+  "CBRE",
+  "JLL",
+  "Prologis",
+  "Enterprise Mobility"
+ ],
+ "532111": [
+  "Enterprise Mobility",
+  "Hertz",
+  "Avis Budget Group",
+  "Sixt"
+ ],
+ "532112": [
+  "Enterprise Mobility",
+  "Hertz",
+  "Ayvens",
+  "LeasePlan"
+ ],
+ "532120": [
+  "Ryder",
+  "Penske",
+  "United Rentals",
+  "Herc Rentals"
+ ],
+ "532210": [
+  "CBRE",
+  "JLL",
+  "Prologis",
+  "Enterprise Mobility"
+ ],
+ "532281": [
+  "Men's Wearhouse",
+  "Generation Tux",
+  "Al's Formal Wear",
+  "Kleinfield"
+ ],
+ "532282": [
+  "Redbox",
+  "Family Video",
+  "Netflix",
+  "GameFly"
+ ],
+ "532283": [
+  "Apria Healthcare",
+  "Lincare",
+  "Rotech Healthcare",
+  "AdaptHealth"
+ ],
+ "532284": [
+  "Rent-A-Center",
+  "Sunbelt Rentals",
+  "United Rentals",
+  "REI"
+ ],
+ "532289": [
+  "CBRE",
+  "JLL",
+  "Prologis",
+  "Enterprise Mobility"
+ ],
+ "532310": [
+  "United Rentals",
+  "Sunbelt Rentals",
+  "Herc Rentals",
+  "Home Depot Rental"
+ ],
+ "532411": [
+  "Wabtec",
+  "Wesco",
+  "Airline Hydraulics",
+  "Bell Equipment"
+ ],
+ "532412": [
+  "United Rentals",
+  "Sunbelt Rentals",
+  "Herc Rentals",
+  "H&E Equipment Services"
+ ],
+ "532420": [
+  "Xerox",
+  "Ricoh",
+  "Canon",
+  "Konica Minolta"
+ ],
+ "532490": [
+  "Illinois Tool Works",
+  "Emerson",
+  "Dover",
+  "Ingersoll Rand"
+ ],
+ "533110": [
+  "IBM",
+  "Microsoft",
+  "Oracle",
+  "Dolby Laboratories"
+ ],
+ "541110": [
+  "Kirkland & Ellis",
+  "Baker McKenzie",
+  "Latham & Watkins",
+  "DLA Piper"
+ ],
+ "541191": [
+  "First American",
+  "Fidelity National Financial",
+  "Old Republic",
+  "Stewart Title"
+ ],
+ "541199": [
+  "LegalZoom",
+  "Baker McKenzie",
+  "DLA Piper",
+  "Kirkland & Ellis"
+ ],
+ "541211": [
+  "Deloitte",
+  "PwC",
+  "EY",
+  "KPMG"
+ ],
+ "541213": [
+  "H&R Block",
+  "Jackson Hewitt",
+  "Intuit",
+  "Liberty Tax"
+ ],
+ "541214": [
+  "ADP",
+  "Paychex",
+  "Paycor",
+  "UKG"
+ ],
+ "541219": [
+  "Deloitte",
+  "PwC",
+  "EY",
+  "KPMG"
+ ],
+ "541310": [
+  "Gensler",
+  "AECOM",
+  "HOK",
+  "Perkins&Will"
+ ],
+ "541320": [
+  "Gensler",
+  "AECOM",
+  "HOK",
+  "Perkins&Will"
+ ],
+ "541330": [
+  "AECOM",
+  "Jacobs",
+  "Bechtel",
+  "WSP USA"
+ ],
+ "541340": [
+  "AECOM",
+  "Jacobs",
+  "HNTB",
+  "Kimley-Horn"
+ ],
+ "541350": [
+  "Bureau Veritas",
+  "Intertek",
+  "UL Solutions",
+  "SOCOTEC"
+ ],
+ "541360": [
+  "CGG",
+  "SLB",
+  "TGS",
+  "Fugro"
+ ],
+ "541370": [
+  "WSP USA",
+  "Stantec",
+  "Dewberry",
+  "Kimley-Horn"
+ ],
+ "541380": [
+  "Eurofins Scientific",
+  "SGS",
+  "Intertek",
+  "Bureau Veritas"
+ ],
+ "541410": [
+  "Gensler",
+  "HOK",
+  "Perkins&Will",
+  "IA Interior Architects"
+ ],
+ "541420": [
+  "IDEO",
+  "frog",
+  "Teague",
+  "Designworks"
+ ],
+ "541430": [
+  "Pentagram",
+  "Landor & Fitch",
+  "Wolff Olins",
+  "Chermayeff & Geismar"
+ ],
+ "541490": [
+  "IDEO",
+  "frog",
+  "Gensler",
+  "Teague"
+ ],
+ "541511": [
+  "Accenture",
+  "Deloitte",
+  "Tata Consultancy Services",
+  "EPAM"
+ ],
+ "541512": [
+  "Accenture",
+  "IBM",
+  "Deloitte",
+  "Cognizant"
+ ],
+ "541513": [
+  "IBM",
+  "Kyndryl",
+  "NTT Data",
+  "Cognizant"
+ ],
+ "541519": [
+  "IBM",
+  "Accenture",
+  "Cognizant",
+  "CDW"
+ ],
+ "541611": [
+  "McKinsey & Company",
+  "Boston Consulting Group",
+  "Bain & Company",
+  "Accenture"
+ ],
+ "541612": [
+  "Mercer",
+  "Korn Ferry",
+  "Aon",
+  "Willis Towers Watson"
+ ],
+ "541613": [
+  "Accenture Song",
+  "Deloitte Digital",
+  "Publicis Groupe",
+  "Omnicom Group"
+ ],
+ "541614": [
+  "Gartner",
+  "Accenture",
+  "Deloitte",
+  "Kearney"
+ ],
+ "541618": [
+  "McKinsey & Company",
+  "Boston Consulting Group",
+  "Bain & Company",
+  "Accenture"
+ ],
+ "541620": [
+  "AECOM",
+  "Tetra Tech",
+  "Jacobs",
+  "Stantec"
+ ],
+ "541690": [
+  "Booz Allen Hamilton",
+  "ICF",
+  "Science Applications International",
+  "Leidos"
+ ],
+ "541713": [
+  "IBM Research",
+  "Applied Materials",
+  "3M",
+  "Nanosys"
+ ],
+ "541714": [
+  "Amgen",
+  "Gilead Sciences",
+  "Regeneron",
+  "Genentech"
+ ],
+ "541715": [
+  "IBM Research",
+  "Applied Materials",
+  "3M",
+  "Nanosys"
+ ],
+ "541720": [
+  "NORC",
+  "RTI International",
+  "Westat",
+  "Mathematica"
+ ],
+ "541810": [
+  "WPP",
+  "Omnicom Group",
+  "Publicis Groupe",
+  "IPG"
+ ],
+ "541820": [
+  "Edelman",
+  "FleishmanHillard",
+  "Burson",
+  "Ketchum"
+ ],
+ "541830": [
+  "GroupM",
+  "Horizon Media",
+  "dentsu",
+  "Omnicom Media Group"
+ ],
+ "541840": [
+  "National CineMedia",
+  "Clear Channel Outdoor",
+  "Lamar Advertising",
+  "Entravision"
+ ],
+ "541850": [
+  "Lamar Advertising",
+  "Clear Channel Outdoor",
+  "JCDecaux",
+  "Outfront Media"
+ ],
+ "541860": [
+  "RR Donnelley",
+  "Quad",
+  "Valassis",
+  "IWCO Direct"
+ ],
+ "541870": [
+  "Valassis",
+  "Quad",
+  "RR Donnelley",
+  "Loblaw Marketing"
+ ],
+ "541890": [
+  "Accenture",
+  "Deloitte",
+  "AECOM",
+  "ADP"
+ ],
+ "541910": [
+  "NielsenIQ",
+  "Ipsos",
+  "Kantar",
+  "Circana"
+ ],
+ "541921": [
+  "Accenture",
+  "Deloitte",
+  "AECOM",
+  "ADP"
+ ],
+ "541922": [
+  "Getty Images",
+  "Shutterstock",
+  "Lifetouch",
+  "MullenLowe"
+ ],
+ "541930": [
+  "TransPerfect",
+  "Lionbridge",
+  "LanguageLine Solutions",
+  "RWS"
+ ],
+ "541940": [
+  "VCA Animal Hospitals",
+  "Banfield Pet Hospital",
+  "BluePearl",
+  "NVA"
+ ],
+ "541990": [
+  "Accenture",
+  "Deloitte",
+  "AECOM",
+  "ADP"
+ ],
+ "561110": [
+  "Kelly Services",
+  "Robert Half",
+  "Adecco",
+  "Manpower"
+ ],
+ "561210": [
+  "ABM Industries",
+  "Aramark",
+  "Sodexo",
+  "ISS Facility Services"
+ ],
+ "561311": [
+  "Holcim US",
+  "CEMEX USA",
+  "Heidelberg Materials",
+  "CRH"
+ ],
+ "561312": [
+  "Korn Ferry",
+  "Russell Reynolds",
+  "Spencer Stuart",
+  "Heidrick & Struggles"
+ ],
+ "561320": [
+  "Adecco",
+  "Randstad",
+  "Manpower",
+  "Kelly Services"
+ ],
+ "561330": [
+  "Insperity",
+  "TriNet",
+  "Paychex",
+  "ADP"
+ ],
+ "561410": [
+  "LegalZoom",
+  "Doxim",
+  "RR Donnelley",
+  "Iron Mountain"
+ ],
+ "561421": [
+  "AnswerNet",
+  "PATLive",
+  "Stericycle Communication Solutions",
+  "Ruby Receptionists"
+ ],
+ "561422": [
+  "Concentrix",
+  "Teleperformance",
+  "Foundever",
+  "TTEC"
+ ],
+ "561431": [
+  "The UPS Store",
+  "FedEx Office",
+  "PostalAnnex",
+  "Pak Mail"
+ ],
+ "561439": [
+  "FedEx Office",
+  "The UPS Store",
+  "Minuteman Press",
+  "AlphaGraphics"
+ ],
+ "561440": [
+  "Encore Capital Group",
+  "PRA Group",
+  "CBE Group",
+  "Transworld Systems"
+ ],
+ "561450": [
+  "Equifax",
+  "Experian",
+  "TransUnion",
+  "Dun & Bradstreet"
+ ],
+ "561491": [
+  "Recovery Database Network",
+  "RepoSystems",
+  "Paragon Systems",
+  "United Road"
+ ],
+ "561492": [
+  "Veritext",
+  "Esquire Deposition Solutions",
+  "Planet Depos",
+  "US Legal Support"
+ ],
+ "561499": [
+  "ABM Industries",
+  "Manpower",
+  "Waste Management",
+  "Allied Universal"
+ ],
+ "561510": [
+  "American Express Global Business Travel",
+  "BCD Travel",
+  "Carlson Wagonlit",
+  "Flight Centre"
+ ],
+ "561520": [
+  "Trafalgar",
+  "Globus",
+  "G Adventures",
+  "Intrepid Travel"
+ ],
+ "561591": [
+  "Visit Orlando",
+  "NYC & Company",
+  "Las Vegas Convention and Visitors Authority",
+  "Visit California"
+ ],
+ "561599": [
+  "Expedia",
+  "Booking.com",
+  "American Express Travel",
+  "Tripadvisor"
+ ],
+ "561611": [
+  "Pinkerton",
+  "Kroll",
+  "Securitas",
+  "Allied Universal"
+ ],
+ "561612": [
+  "Allied Universal",
+  "Securitas",
+  "G4S",
+  "GardaWorld"
+ ],
+ "561613": [
+  "Brink's",
+  "Loomis",
+  "GardaWorld",
+  "Malca-Amit"
+ ],
+ "561621": [
+  "ADT",
+  "Securitas Technology",
+  "Johnson Controls",
+  "Vivint"
+ ],
+ "561622": [
+  "Pop-A-Lock",
+  "Mr. Rekey",
+  "A-1 Locksmith",
+  "Minute Key"
+ ],
+ "561710": [
+  "Rentokil Terminix",
+  "Rollins",
+  "Ecolab",
+  "Truly Nolen"
+ ],
+ "561720": [
+  "ABM Industries",
+  "ServiceMaster Clean",
+  "ISS Facility Services",
+  "Sodexo"
+ ],
+ "561730": [
+  "BrightView",
+  "TruGreen",
+  "The Davey Tree Expert Company",
+  "Bartlett Tree Experts"
+ ],
+ "561740": [
+  "Shaw Industries",
+  "Mohawk Industries",
+  "Interface",
+  "Engineered Floors"
+ ],
+ "561790": [
+  "ABM Industries",
+  "JLL",
+  "CBRE",
+  "ServiceMaster"
+ ],
+ "561910": [
+  "ProAmpac",
+  "Multi-Color Corporation",
+  "CCL Industries",
+  "Avery Dennison"
+ ],
+ "561920": [
+  "Freeman",
+  "GES",
+  "Informa Markets",
+  "RX Global"
+ ],
+ "561990": [
+  "ABM Industries",
+  "Manpower",
+  "Waste Management",
+  "Allied Universal"
+ ],
+ "562111": [
+  "Waste Management",
+  "Republic Services",
+  "GFL Environmental",
+  "Recology"
+ ],
+ "562112": [
+  "Clean Harbors",
+  "Stericycle",
+  "Veolia",
+  "Heritage-Crystal Clean"
+ ],
+ "562119": [
+  "Waste Management",
+  "Republic Services",
+  "GFL Environmental",
+  "Waste Connections"
+ ],
+ "562211": [
+  "Clean Harbors",
+  "Veolia",
+  "Stericycle",
+  "Heritage-Crystal Clean"
+ ],
+ "562212": [
+  "Waste Management",
+  "Republic Services",
+  "GFL Environmental",
+  "Waste Connections"
+ ],
+ "562213": [
+  "Covanta",
+  "Wheelabrator",
+  "WIN Waste Innovations",
+  "Rumpke"
+ ],
+ "562219": [
+  "Clean Harbors",
+  "Veolia",
+  "Stericycle",
+  "Heritage-Crystal Clean"
+ ],
+ "562910": [
+  "Clean Harbors",
+  "Tetra Tech",
+  "AECOM",
+  "Veolia"
+ ],
+ "562920": [
+  "Waste Management",
+  "Republic Services",
+  "GFL Environmental",
+  "AMP Robotics"
+ ],
+ "562991": [
+  "Roto-Rooter",
+  "Mr. Rooter",
+  "Septic Solutions",
+  "A-1 Septic"
+ ],
+ "562998": [
+  "ABM Industries",
+  "Manpower",
+  "Waste Management",
+  "Allied Universal"
+ ],
+ "611410": [
+  "Office Dynamics",
+  "Pitman Training",
+  "New Horizons",
+  "MyComputerCareer"
+ ],
+ "611420": [
+  "New Horizons",
+  "General Assembly",
+  "Noble Desktop",
+  "Learning Tree"
+ ],
+ "611430": [
+  "Dale Carnegie",
+  "FranklinCovey",
+  "Skillsoft",
+  "LinkedIn Learning"
+ ],
+ "611511": [
+  "Paul Mitchell Schools",
+  "Aveda Institutes",
+  "Regency Beauty Institute",
+  "Empire Beauty School"
+ ],
+ "611512": [
+  "ATP Flight School",
+  "FlightSafety International",
+  "CAE",
+  "Embry-Riddle"
+ ],
+ "611513": [
+  "Apprenticeship Works",
+  "IEC",
+  "ABC National",
+  "Union Apprenticeship"
+ ],
+ "611519": [
+  "Lincoln Tech",
+  "Universal Technical Institute",
+  "WyoTech",
+  "The Refrigeration School"
+ ],
+ "611610": [
+  "School of Visual Arts",
+  "Parsons School of Design",
+  "ArtCenter College of Design",
+  "Pratt Institute"
+ ],
+ "611620": [
+  "YMCA",
+  "U.S. Sports Camps",
+  "i9 Sports",
+  "Skyhawks"
+ ],
+ "611630": [
+  "Berlitz",
+  "EF Education First",
+  "Rosetta Stone",
+  "Inlingua"
+ ],
+ "611691": [
+  "Kaplan",
+  "Princeton Review",
+  "Pearson",
+  "Magoosh"
+ ],
+ "611692": [
+  "AAA Driving School",
+  "160 Driving Academy",
+  "DriversEd.com",
+  "Roadmaster Group"
+ ],
+ "611699": [
+  "K12",
+  "Stride",
+  "Pearson",
+  "Lifelong Learning"
+ ],
+ "611710": [
+  "Pearson",
+  "McGraw Hill",
+  "ETS",
+  "College Board"
+ ],
+ "621111": [
+  "HCA Healthcare",
+  "Tenet Healthcare",
+  "CommonSpirit Health",
+  "Kaiser Permanente"
+ ],
+ "621112": [
+  "HCA Healthcare",
+  "Tenet Healthcare",
+  "CommonSpirit Health",
+  "Kaiser Permanente"
+ ],
+ "621210": [
+  "Heartland Dental",
+  "Aspen Dental",
+  "Pacific Dental Services",
+  "Dental Care Alliance"
+ ],
+ "621310": [
+  "The Joint Chiropractic",
+  "Chiro One",
+  "HealthSource",
+  "Team Rehabilitation"
+ ],
+ "621320": [
+  "MyEyeDr.",
+  "National Vision",
+  "Visionworks",
+  "America's Best"
+ ],
+ "621330": [
+  "HCA Healthcare",
+  "Tenet Healthcare",
+  "CommonSpirit Health",
+  "Kaiser Permanente"
+ ],
+ "621340": [
+  "Select Physical Therapy",
+  "ATI Physical Therapy",
+  "BenchMark Physical Therapy",
+  "U.S. Physical Therapy"
+ ],
+ "621391": [
+  "Upperline Health",
+  "Village Podiatry",
+  "Foot & Ankle Specialists",
+  "US Foot & Ankle"
+ ],
+ "621399": [
+  "Optum",
+  "DaVita",
+  "Fresenius Medical Care",
+  "Concentra"
+ ],
+ "621410": [
+  "Planned Parenthood",
+  "Family Health Centers",
+  "Mayo Clinic",
+  "Kaiser Permanente"
+ ],
+ "621420": [
+  "Acadia Healthcare",
+  "Universal Health Services",
+  "Behavioral Health Group",
+  "LifeStance Health"
+ ],
+ "621491": [
+  "Kaiser Permanente",
+  "HealthPartners",
+  "Geisinger",
+  "Molina Healthcare"
+ ],
+ "621492": [
+  "DaVita",
+  "Fresenius Medical Care",
+  "U.S. Renal Care",
+  "American Renal Associates"
+ ],
+ "621493": [
+  "Surgery Partners",
+  "AmSurg",
+  "HCA Healthcare",
+  "Tenet Healthcare"
+ ],
+ "621498": [
+  "HCA Healthcare",
+  "Optum",
+  "Envision Healthcare",
+  "USPI"
+ ],
+ "621511": [
+  "Quest Diagnostics",
+  "Labcorp",
+  "Sonic Healthcare",
+  "Mayo Clinic Laboratories"
+ ],
+ "621512": [
+  "RadNet",
+  "Akumin",
+  "Alliance Medical Group",
+  "Rayus Radiology"
+ ],
+ "621610": [
+  "Amedisys",
+  "Enhabit",
+  "Aveanna Healthcare",
+  "CenterWell Home Health"
+ ],
+ "621910": [
+  "AMR",
+  "Falck",
+  "Acadian Ambulance",
+  "Rural/Metro"
+ ],
+ "621991": [
+  "American Red Cross",
+  "Vitalant",
+  "OneBlood",
+  "LifeSouth"
+ ],
+ "621999": [
+  "Optum",
+  "Concentra",
+  "HCA Healthcare",
+  "Carbon Health"
+ ],
+ "622110": [
+  "HCA Healthcare",
+  "CommonSpirit Health",
+  "Tenet Healthcare",
+  "Ascension"
+ ],
+ "622210": [
+  "Universal Health Services",
+  "Acadia Healthcare",
+  "LifeStance Health",
+  "BHG"
+ ],
+ "622310": [
+  "Universal Health Services",
+  "Acadia Healthcare",
+  "LifeStance Health",
+  "BHG"
+ ],
+ "623110": [
+  "Genesis HealthCare",
+  "Ensign Group",
+  "PruittHealth",
+  "Life Care Centers of America"
+ ],
+ "623210": [
+  "The MENTOR Network",
+  "Sevita",
+  "Easterseals",
+  "Goodwill"
+ ],
+ "623220": [
+  "Acadia Healthcare",
+  "Universal Health Services",
+  "Sevita",
+  "Civitas Solutions"
+ ],
+ "623311": [
+  "Erickson Senior Living",
+  "Sunrise Senior Living",
+  "Brookdale Senior Living",
+  "Acts Retirement-Life Communities"
+ ],
+ "623312": [
+  "Brookdale Senior Living",
+  "Sunrise Senior Living",
+  "Atria Senior Living",
+  "Five Star Senior Living"
+ ],
+ "623990": [
+  "Brookdale Senior Living",
+  "Encompass Health",
+  "Sevita",
+  "The Arbor Company"
+ ],
+ "624110": [
+  "Boys & Girls Clubs of America",
+  "YMCA",
+  "Childhelp",
+  "Big Brothers Big Sisters"
+ ],
+ "624120": [
+  "Caregivers America",
+  "Home Instead",
+  "Comfort Keepers",
+  "Visiting Angels"
+ ],
+ "624190": [
+  "Catholic Charities",
+  "Lutheran Services in America",
+  "Goodwill",
+  "The Salvation Army"
+ ],
+ "624210": [
+  "Feeding America",
+  "City Harvest",
+  "Food Bank for New York City",
+  "Meals on Wheels"
+ ],
+ "624221": [
+  "The Salvation Army",
+  "Volunteers of America",
+  "Catholic Charities",
+  "National Coalition for the Homeless"
+ ],
+ "624229": [
+  "Habitat for Humanity",
+  "Volunteers of America",
+  "Mercy Housing",
+  "National Church Residences"
+ ],
+ "624230": [
+  "American Red Cross",
+  "The Salvation Army",
+  "FEMA",
+  "Direct Relief"
+ ],
+ "624310": [
+  "Goodwill Industries",
+  "Easterseals",
+  "Maximus",
+  "Vocational Rehabilitation Services"
+ ],
+ "624410": [
+  "KinderCare",
+  "Bright Horizons",
+  "Learning Care Group",
+  "Primrose Schools"
+ ],
+ "711110": [
+  "Disney Theatrical Group",
+  "Nederlander Organization",
+  "Shubert Organization",
+  "Broadway Across America"
+ ],
+ "711120": [
+  "American Ballet Theatre",
+  "Ballet Hispanico",
+  "Alvin Ailey",
+  "New York City Ballet"
+ ],
+ "711130": [
+  "Live Nation",
+  "AEG Presents",
+  "Warner Music Group",
+  "Universal Music Group"
+ ],
+ "711190": [
+  "Live Nation",
+  "Nederlander Organization",
+  "Shubert Organization",
+  "Lincoln Center"
+ ],
+ "711211": [
+  "NFL",
+  "MLB",
+  "NBA",
+  "NHL"
+ ],
+ "711212": [
+  "Churchill Downs",
+  "NASCAR",
+  "Keeneland",
+  "Penn Entertainment"
+ ],
+ "711219": [
+  "Live Nation",
+  "ESPN",
+  "Fox Sports",
+  "NBC Sports"
+ ],
+ "711310": [
+  "Live Nation",
+  "AEG Presents",
+  "Oak View Group",
+  "Wasserman"
+ ],
+ "711320": [
+  "Live Nation",
+  "AEG Presents",
+  "Oak View Group",
+  "Wasserman"
+ ],
+ "711410": [
+  "Creative Artists Agency",
+  "William Morris Endeavor",
+  "United Talent Agency",
+  "Wasserman"
+ ],
+ "711510": [
+  "Getty Images",
+  "Shutterstock",
+  "Patreon",
+  "Etsy"
+ ],
+ "712110": [
+  "Smithsonian Institution",
+  "Metropolitan Museum of Art",
+  "American Museum of Natural History",
+  "Museum of Modern Art"
+ ],
+ "712120": [
+  "National Trust for Historic Preservation",
+  "Colonial Williamsburg",
+  "Historic Jamestowne",
+  "National Park Service"
+ ],
+ "712130": [
+  "San Diego Zoo Wildlife Alliance",
+  "Columbus Zoo",
+  "Smithsonian National Zoo",
+  "Dallas Zoo"
+ ],
+ "712190": [
+  "National Park Service",
+  "The Nature Conservancy",
+  "Six Flags",
+  "SeaWorld Parks"
+ ],
+ "713110": [
+  "Walt Disney Parks",
+  "Universal Parks & Resorts",
+  "Six Flags",
+  "Cedar Fair"
+ ],
+ "713120": [
+  "Dave & Buster's",
+  "Main Event",
+  "Round One",
+  "Chuck E. Cheese"
+ ],
+ "713210": [
+  "MGM Resorts",
+  "Caesars Entertainment",
+  "Penn Entertainment",
+  "Boyd Gaming"
+ ],
+ "713290": [
+  "DraftKings",
+  "FanDuel",
+  "MGM Resorts",
+  "Caesars Entertainment"
+ ],
+ "713910": [
+  "Troon",
+  "ClubCorp",
+  "KemperSports",
+  "Invited"
+ ],
+ "713920": [
+  "Vail Resorts",
+  "Alterra Mountain Company",
+  "Boyne Resorts",
+  "Powder Corporation"
+ ],
+ "713930": [
+  "Safe Harbor Marinas",
+  "Suntex Marinas",
+  "Marina Management Services",
+  "Westrec Marinas"
+ ],
+ "713940": [
+  "Planet Fitness",
+  "LA Fitness",
+  "Crunch Fitness",
+  "Anytime Fitness"
+ ],
+ "713950": [
+  "Bowlero",
+  "Brunswick Zone",
+  "AMF Bowling",
+  "Main Event"
+ ],
+ "713990": [
+  "Walt Disney Parks",
+  "Six Flags",
+  "Live Nation",
+  "Vail Resorts"
+ ],
+ "721110": [
+  "Marriott International",
+  "Hilton",
+  "Hyatt",
+  "Wyndham Hotels & Resorts"
+ ],
+ "721120": [
+  "Marriott International",
+  "Hilton",
+  "Hyatt",
+  "Wyndham Hotels & Resorts"
+ ],
+ "721191": [
+  "BedandBreakfast.com",
+  "Select Registry",
+  "B&Bs for Vets",
+  "The B&B Team"
+ ],
+ "721199": [
+  "Marriott International",
+  "Hilton",
+  "Airbnb",
+  "Booking.com"
+ ],
+ "721211": [
+  "Marriott International",
+  "Compass Group",
+  "McDonald's",
+  "Hilton"
+ ],
+ "721214": [
+  "YMCA",
+  "Boy Scouts of America",
+  "Girl Scouts of the USA",
+  "Camp America"
+ ],
+ "721310": [
+  "American Campus Communities",
+  "Greystar",
+  "Campus Advantage",
+  "Collegiate Housing Services"
+ ],
+ "722310": [
+  "Compass Group",
+  "Aramark",
+  "Sodexo",
+  "Delaware North"
+ ],
+ "722320": [
+  "Compass Group",
+  "Aramark",
+  "Sodexo",
+  "Delaware North"
+ ],
+ "722330": [
+  "Fooda",
+  "Guzman y Gomez",
+  "The Halal Guys",
+  "Cousins Maine Lobster"
+ ],
+ "722410": [
+  "Yum! Brands",
+  "Restaurant Brands International",
+  "Darden Restaurants",
+  "Brinker International"
+ ],
+ "722511": [
+  "Darden Restaurants",
+  "Brinker International (Chili's)",
+  "Dine Brands (Applebee's, IHOP)",
+  "Texas Roadhouse"
+ ],
+ "722513": [
+  "McDonald's",
+  "Yum! Brands",
+  "Restaurant Brands International",
+  "Wendy's"
+ ],
+ "722514": [
+  "Compass Group",
+  "Aramark",
+  "Sodexo",
+  "CulinArt"
+ ],
+ "722515": [
+  "Starbucks",
+  "Dunkin'",
+  "Dutch Bros",
+  "JAB Holding"
+ ],
+ "811111": [
+  "Firestone Complete Auto Care",
+  "Midas",
+  "Jiffy Lube",
+  "Meineke"
+ ],
+ "811114": [
+  "Firestone Complete Auto Care",
+  "Midas",
+  "Jiffy Lube",
+  "Meineke"
+ ],
+ "811121": [
+  "Caliber Collision",
+  "Service King",
+  "Gerber Collision & Glass",
+  "Classic Collision"
+ ],
+ "811122": [
+  "Holcim US",
+  "CEMEX USA",
+  "Heidelberg Materials",
+  "CRH"
+ ],
+ "811191": [
+  "Jiffy Lube",
+  "Valvoline Instant Oil Change",
+  "Take 5 Oil Change",
+  "Meineke"
+ ],
+ "811192": [
+  "Mister Car Wash",
+  "Quick Quack Car Wash",
+  "International Car Wash Group",
+  "Zips Car Wash"
+ ],
+ "811198": [
+  "Firestone Complete Auto Care",
+  "Midas",
+  "Jiffy Lube",
+  "Meineke"
+ ],
+ "811210": [
+  "Geek Squad",
+  "uBreakiFix",
+  "Best Buy",
+  "Asurion"
+ ],
+ "811310": [
+  "Illinois Tool Works",
+  "Emerson",
+  "Dover",
+  "Ingersoll Rand"
+ ],
+ "811411": [
+  "Home Depot",
+  "Lowe's",
+  "Sears Home Services",
+  "Ace Hardware"
+ ],
+ "811412": [
+  "Sears Home Services",
+  "Mr. Appliance",
+  "GE Appliances",
+  "Whirlpool"
+ ],
+ "811420": [
+  "Furniture Medic",
+  "Fibrenew",
+  "The Leather Institute",
+  "CORT"
+ ],
+ "811430": [
+  "Nike",
+  "Skechers",
+  "Wolverine Worldwide",
+  "New Balance"
+ ],
+ "811490": [
+  "Asurion",
+  "uBreakiFix",
+  "Best Buy",
+  "Sears Home Services"
+ ],
+ "812111": [
+  "Sport Clips",
+  "Great Clips",
+  "Supercuts",
+  "The Barbers"
+ ],
+ "812112": [
+  "Great Clips",
+  "Regis Corporation",
+  "Ulta Beauty",
+  "Drybar"
+ ],
+ "812113": [
+  "Regis Corporation",
+  "Daisy Nail",
+  "PROSE",
+  "MiniLuxe"
+ ],
+ "812191": [
+  "Jenny Craig",
+  "WeightWatchers",
+  "Nutrisystem",
+  "Medi-Weightloss"
+ ],
+ "812199": [
+  "Massage Envy",
+  "Hand & Stone",
+  "European Wax Center",
+  "The Lash Lounge"
+ ],
+ "812210": [
+  "Service Corporation International",
+  "Dignity Memorial",
+  "Carriage Services",
+  "StoneMor"
+ ],
+ "812220": [
+  "Service Corporation International",
+  "StoneMor",
+  "Dignity Memorial",
+  "Carriage Services"
+ ],
+ "812310": [
+  "Speed Queen",
+  "Laundromat Equipment",
+  "CSC ServiceWorks",
+  "Alliance Laundry Systems"
+ ],
+ "812320": [
+  "Cleanly",
+  "Martinizing",
+  "Lapels Cleaners",
+  "Comet Cleaners"
+ ],
+ "812331": [
+  "UniFirst",
+  "Cintas",
+  "Alsco",
+  "Healthcare Services Group"
+ ],
+ "812332": [
+  "Cintas",
+  "UniFirst",
+  "Alsco",
+  "Prudential Overall Supply"
+ ],
+ "812910": [
+  "PetSmart",
+  "Petco",
+  "Camp Bow Wow",
+  "Rover"
+ ],
+ "812921": [
+  "Shutterfly",
+  "Walgreens Photo",
+  "CVS Photo",
+  "Printique"
+ ],
+ "812922": [
+  "Shutterfly",
+  "Walgreens Photo",
+  "CVS Photo",
+  "Printique"
+ ],
+ "812930": [
+  "SP+",
+  "LAZ Parking",
+  "ABM Parking",
+  "Metropolis"
+ ],
+ "812990": [
+  "ServiceMaster",
+  "The UPS Store",
+  "Aramark",
+  "Cintas"
+ ],
+ "813211": [
+  "Ford Foundation",
+  "Bill & Melinda Gates Foundation",
+  "Rockefeller Foundation",
+  "MacArthur Foundation"
+ ],
+ "813212": [
+  "American Cancer Society",
+  "American Heart Association",
+  "Susan G. Komen",
+  "March of Dimes"
+ ],
+ "813219": [
+  "ServiceMaster",
+  "Cintas",
+  "Mister Car Wash",
+  "The UPS Store"
+ ],
+ "813311": [
+  "ACLU",
+  "Human Rights Campaign",
+  "Amnesty International USA",
+  "NAACP"
+ ],
+ "813312": [
+  "The Nature Conservancy",
+  "National Audubon Society",
+  "Sierra Club",
+  "World Wildlife Fund"
+ ],
+ "813319": [
+  "NAACP",
+  "ACLU",
+  "League of Women Voters",
+  "Human Rights Campaign"
+ ],
+ "813410": [
+  "YMCA",
+  "Boys & Girls Clubs of America",
+  "Rotary International",
+  "Knights of Columbus"
+ ],
+ "813910": [
+  "U.S. Chamber of Commerce",
+  "National Association of Manufacturers",
+  "Business Roundtable",
+  "NFIB"
+ ],
+ "813920": [
+  "American Medical Association",
+  "American Bar Association",
+  "IEEE",
+  "American Nurses Association"
+ ],
+ "813990": [
+  "United Way",
+  "Goodwill Industries",
+  "United Way Worldwide",
+  "Catholic Charities"
+ ]
 }
