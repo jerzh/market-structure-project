@@ -8,7 +8,7 @@ import math
 import os
 import pandas as pd
 
-OUT = "site/data/industries.json"
+OUT = "docs/data/industries.json"
 # Hand-curated, indicative list of well-known large employers per 6-digit industry (not a Census product).
 TOP_EMPLOYERS = json.load(open("top_employers.json")) if os.path.exists("top_employers.json") else {}
 

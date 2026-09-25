@@ -1,7 +1,7 @@
 """Inline CSS, data, D3 and app.js into a single self-contained HTML file."""
 import pathlib, urllib.request
 
-root = pathlib.Path(__file__).parent / "site"
+root = pathlib.Path(__file__).parent / "docs"
 html = (root / "index.html").read_text()
 css = (root / "style.css").read_text()
 data = (root / "data" / "industries.json").read_text()
