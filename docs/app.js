@@ -19,7 +19,7 @@
     cr50: { label: "Share of revenue held by the 50 largest firms (%)", get: d => d.cr50, domain: [0, 100] },
     hhi: { label: "Herfindahl–Hirschman index (50 largest firms)", get: d => d.hhi, log: true },
     cr4_chg: { label: "Change in top-4 revenue share, 2017→2022 (percentage points)", get: d => d.cr4_chg, zero: true },
-    payroll_share: { label: "Payroll as % of revenue, 2022", get: d => d.payroll_share, log: true },
+    payroll_share: { label: "Payroll as % of revenue, 2022", get: d => d.payroll_share },
     payroll_share_chg: { label: "Change in payroll share of revenue, 2017→2022 (points)", get: d => d.payroll_share_chg, zero: true },
     pay_per_emp_k: { label: "Annual payroll per employee, 2022 ($ thousands)", get: d => d.pay_per_emp_k, log: true },
     wage: { label: "Average weekly wage, 2026 Q1 ($)", get: d => d.qcew && d.qcew.avg_wkly_wage, log: true },
