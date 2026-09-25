@@ -1,0 +1,7 @@
+*.csv
+*.zip
+*.dat
+ip.*
+EC*
+*.html
+!site/index.html

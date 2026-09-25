@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Concentration vs. Labor Share — 900 U.S. industries</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Does concentration eat the paycheck?</h1>
+  <p class="lede">Every dot is a U.S. industry at the finest public detail (6-digit NAICS, 2022 Economic Census). Horizontal: how much of the industry's revenue goes to its four largest firms. Vertical: how much of that revenue is paid out as payroll. Click a dot for its 1987–2025 labor-share history, its 2017→2022 drift, and where its jobs sit today (QCEW, 2026 Q1).</p>
+</header>
+
+<section class="controls">
+  <label>Detail
+    <select id="level">
+      <option value="6" selected>6-digit NAICS (899 industries)</option>
+      <option value="5">5-digit (601)</option>
+      <option value="4">4-digit (271)</option>
+      <option value="3">3-digit (78)</option>
+      <option value="2">Sector (17)</option>
+    </select></label>
+  <label>X
+    <select id="x">
+      <option value="cr4" selected>Top-4 firms' share of revenue (CR4)</option>
+      <option value="cr8">Top-8 share (CR8)</option>
+      <option value="cr20">Top-20 share (CR20)</option>
+      <option value="cr50">Top-50 share (CR50)</option>
+      <option value="hhi">HHI (manufacturing only)</option>
+      <option value="cr4_chg">Change in CR4, 2017→2022 (pts)</option>
+    </select></label>
+  <label>Y
+    <select id="y">
+      <option value="payroll_share" selected>Payroll ÷ revenue, 2022 (%)</option>
+      <option value="payroll_share_chg">Change in payroll share, 2017→2022 (pts)</option>
+      <option value="pay_per_emp_k">Payroll per employee ($k, 2022)</option>
+      <option value="wage">Avg. weekly wage, 2026 Q1 ($, QCEW)</option>
+      <option value="bls_latest">BLS labor share, latest year (%)</option>
+    </select></label>
+  <label>Size
+    <select id="size">
+      <option value="emp" selected>Employment</option>
+      <option value="revenue_musd">Revenue</option>
+      <option value="firms">Number of firms</option>
+      <option value="none">Uniform</option>
+    </select></label>
+  <label>Color
+    <select id="color">
+      <option value="sector" selected>Sector</option>
+      <option value="cr4_chg">Change in CR4, 2017→2022</option>
+      <option value="payroll_share_chg">Change in payroll share, 2017→2022</option>
+      <option value="emp_yoy">Employment growth, yr to 2026 Q1</option>
+      <option value="geo_hhi">Geographic concentration of jobs</option>
+    </select></label>
+  <label class="grow">Find <input id="search" type="search" placeholder="e.g. warehousing, 5112, dental"></label>
+  <label class="check"><input id="arrows" type="checkbox"> show 2017→2022 drift</label>
+</section>
+
+<section class="main">
+  <div class="chart-wrap">
+    <div id="legend" class="legend"></div>
+    <svg id="chart"></svg>
+    <div id="stats" class="stats"></div>
+  </div>
+  <aside id="panel" class="panel">
+    <p class="hint">Hover a dot to preview; click to pin it here.</p>
+  </aside>
+</section>
+
+<footer>
+  <details>
+    <summary>Sources, definitions and caveats</summary>
+    <ul>
+      <li><b>Concentration</b> — U.S. Census Bureau, Economic Census 2022 and 2017, tables <code>EC2200SIZECONCEN</code> / <code>EC1700SIZECONCEN</code>: share of sales, shipments or revenue accounted for by the largest 4/8/20/50 firms; HHI published for manufacturing only. Agriculture (11) and management of companies (55) are not covered.</li>
+      <li><b>Payroll share</b> — annual payroll ÷ sales/receipts/revenue from the same tables. It is a <em>revenue</em> denominator, not value added, so capital- and materials-intensive industries look low; compare within a sector or over time rather than across very different industries. A few industries exceed 100% (e.g. general warehousing) because Census revenue excludes in-house logistics operations of retailers.</li>
+      <li><b>BLS history</b> — BLS Industry Productivity program, 1987–2025. Where BLS publishes "labor share" (<code>L03</code>, compensation ÷ value of production, manufacturing) it is used; elsewhere compensation ÷ sectoral output (or ÷ value added at the sector level) is computed. The series is matched at the finest NAICS level BLS publishes, which is noted in the panel.</li>
+      <li><b>Jobs today</b> — BLS QCEW, 2026 Q1 (released Aug 2026), private ownership. Geographic concentration is the Herfindahl of March employment across counties, computed only where disclosed counties cover ≥70% of national employment (6-digit where possible, else the 4-digit parent).</li>
+      <li>NAICS 2017→2022 codes are matched by identical code; industries redefined between vintages show no drift. Census imputation/suppression flags are shown in the panel where present. Correlations shown are descriptive, not causal.</li>
+    </ul>
+  </details>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="app.js"></script>
+</body>
+</html>

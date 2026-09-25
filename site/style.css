@@ -1,0 +1,71 @@
+:root {
+  --ink: #1b1b1f;
+  --muted: #6b6f76;
+  --line: #e4e6ea;
+  --bg: #fbfbfc;
+  --accent: #c0392b;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Helvetica, Arial, sans-serif;
+  color: var(--ink);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); line-height: 1.4; }
+header, .controls, .main, footer { max-width: 1400px; margin: 0 auto; padding: 0 24px; }
+header { padding-top: 28px; }
+h1 { font-size: 30px; margin: 0 0 6px; letter-spacing: -0.01em; }
+.lede { margin: 0; color: var(--muted); max-width: 900px; font-size: 15px; }
+
+.controls { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: end; padding-top: 18px; padding-bottom: 8px; }
+.controls label { display: flex; flex-direction: column; font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); gap: 3px; }
+.controls label.grow { flex: 1 1 180px; }
+.controls label.check { flex-direction: row; align-items: center; text-transform: none; letter-spacing: 0; font-size: 13px; color: var(--ink); padding-bottom: 6px; gap: 6px; }
+select, input[type=search] { font: inherit; font-size: 13px; padding: 5px 7px; border: 1px solid var(--line); border-radius: 5px; background: #fff; color: var(--ink); }
+
+.main { display: grid; grid-template-columns: minmax(0, 1fr) 390px; gap: 20px; padding-bottom: 20px; }
+.chart-wrap { min-width: 0; }
+#chart { width: 100%; height: 620px; display: block; background: #fff; border: 1px solid var(--line); border-radius: 8px; }
+.legend { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 12px; padding: 6px 0 8px; }
+.legend .item { display: flex; align-items: center; gap: 5px; cursor: pointer; user-select: none; color: var(--ink); }
+.legend .item.off { opacity: .3; }
+.legend .swatch { width: 10px; height: 10px; border-radius: 50%; }
+.legend .ramp { width: 160px; height: 10px; border-radius: 3px; }
+.stats { font-size: 12.5px; color: var(--muted); padding: 8px 2px 0; }
+.stats b { color: var(--ink); }
+
+.panel { background: #fff; border: 1px solid var(--line); border-radius: 8px; padding: 16px; font-size: 13px; align-self: start; position: sticky; top: 12px; max-height: calc(100vh - 24px); overflow: auto; }
+.panel .hint { color: var(--muted); margin: 0; }
+.panel h2 { font-size: 17px; margin: 0 0 2px; line-height: 1.25; }
+.panel .sub { color: var(--muted); margin: 0 0 12px; font-size: 12px; }
+.panel h3 { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 14px 0 6px; }
+.panel table { width: 100%; border-collapse: collapse; }
+.panel td { padding: 3px 0; border-bottom: 1px solid var(--line); vertical-align: top; }
+.panel td:last-child { text-align: right; font-variant-numeric: tabular-nums; }
+.panel td:first-child { color: var(--muted); padding-right: 8px; }
+.panel .up { color: var(--accent); }
+.panel .down { color: #2471a3; }
+.panel .flag { background: #fff4e5; color: #8a5a00; padding: 6px 8px; border-radius: 5px; margin: 8px 0 0; font-size: 12px; }
+.panel .spark { width: 100%; height: 90px; margin-top: 4px; }
+.panel .note { color: var(--muted); font-size: 11.5px; margin: 4px 0 0; }
+
+.axis text { font-size: 11px; fill: var(--muted); }
+.axis line, .axis path { stroke: var(--line); }
+.axis-label { font-size: 12px; fill: var(--muted); }
+.dot { stroke: #fff; stroke-width: .6; cursor: pointer; }
+.dot.dim { opacity: .08; }
+.dot.hit { stroke: var(--ink); stroke-width: 1.5; }
+.drift { stroke-opacity: .55; fill: none; }
+.tip { position: absolute; pointer-events: none; background: rgba(27,27,31,.94); color: #fff; padding: 6px 9px; border-radius: 5px; font-size: 12px; max-width: 280px; line-height: 1.35; z-index: 10; }
+.tip b { font-weight: 600; }
+.tip .m { color: #c9cdd3; }
+.fit { stroke: var(--ink); stroke-width: 1.2; stroke-dasharray: 4 4; opacity: .5; }
+
+footer { padding-bottom: 40px; font-size: 12.5px; color: var(--muted); }
+footer summary { cursor: pointer; color: var(--ink); }
+footer ul { padding-left: 18px; }
+footer li { margin: 4px 0; }
+code { font-size: 11.5px; background: #eef0f3; padding: 1px 4px; border-radius: 3px; }
+
+@media (max-width: 900px) {
+  .main { grid-template-columns: 1fr; }
+  .panel { position: static; max-height: none; }
+  #chart { height: 480px; }
+}
