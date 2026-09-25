@@ -1,13 +1,23 @@
 # Does concentration eat the paycheck?
 
 Interactive scatter of U.S. industries (899 six-digit NAICS) — product-market concentration
-(Economic Census CR4/CR8/CR20/CR50, HHI) against labor's share of revenue, with BLS labor-share
+(Economic Census CR4/CR8/CR20/CR50, HHI) against labor's share of value added, with BLS labor-share
 histories and QCEW 2026 Q1 employment / wages / geographic dispersion.
 
 * `docs/` — static site (plain HTML/CSS/JS + D3 v7 from CDN). Serve with `python3 -m http.server -d docs`.
 * `build_data.py` — rebuilds `docs/data/industries.json` from Census/BLS/QCEW raw files.
 * `bundle.py` — emits a single self-contained `concentration_vs_labor_share.html`.
 * `survey.md` — survey of prior visualizations and why this one differs.
+
+## Labor share of value added
+
+The default vertical variable is payroll divided by value added. For manufacturing,
+`EC2231BASIC` supplies exact 2022 Census payroll and value-added data for the available
+six-digit industries. Elsewhere, the site uses 2022 BEA GDP-by-industry compensation
+divided by value added for the finest mapped parent industry; those inherited values
+therefore appear as vertical stripes. The second Y option remains Census payroll divided
+by revenue, which is exact at the six-digit detail. BEA compensation includes benefits,
+while Census payroll excludes them, so the two measures are not strictly comparable.
 
 ## Employer names (caveat / TODO)
 

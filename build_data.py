@@ -79,6 +79,76 @@ ec22 = load_ec("ec2022/EC2200SIZECONCEN.dat", "NAICS2022", 2022)
 ec17 = load_ec("ec2017/EC1700SIZECONCEN.dat", "NAICS2017", 2017)
 print("EC 2022 codes:", len(ec22), " EC 2017 codes:", len(ec17))
 
+
+def load_census_value_added(path):
+    df = pd.read_csv(path, sep="|", dtype=str, keep_default_na=False)
+    df.columns = [c.lstrip("#") for c in df.columns]
+    df = df[
+        (df["GEO_ID"] == "0100000US")
+        & df["INDLEVEL"].isin({"3", "4", "5", "6"})
+    ]
+    rows = {}
+    for _, row in df.iterrows():
+        payroll = num(row["PAYANN"])
+        value_added = num(row["VALADD"])
+        if value_added is None or value_added <= 0 or payroll is None:
+            continue
+        rows[row["NAICS2022"].strip()] = round(100 * payroll / value_added, 1)
+    return rows
+
+
+census_va = load_census_value_added("ec2231/EC2231BASIC.dat")
+print("Census value-added labor-share rows:", len(census_va), " six-digit:", sum(len(k) == 6 for k in census_va))
+
+
+def load_bea_value_added(path):
+    raw = pd.read_excel(path, sheet_name="TVA113-A", header=None)
+    years = [int(raw.iloc[7, col]) for col in range(3, raw.shape[1]) if num(raw.iloc[7, col]) is not None]
+    series = {}
+    component_names = {
+        "Compensation of employees",
+        "Taxes on production and imports less subsidies",
+        "Gross operating surplus",
+    }
+    for row in range(8, len(raw) - 3):
+        title = str(raw.iloc[row, 1]).strip() if pd.notna(raw.iloc[row, 1]) else ""
+        if not title or title in component_names:
+            continue
+        if [str(raw.iloc[row + offset, 1]).strip() for offset in range(1, 4)] != [
+            "Compensation of employees",
+            "Taxes on production and imports less subsidies",
+            "Gross operating surplus",
+        ]:
+            continue
+        value_added = [num(raw.iloc[row, col]) for col in range(3, 3 + len(years))]
+        compensation = [num(raw.iloc[row + 1, col]) for col in range(3, 3 + len(years))]
+        shares = [
+            round(100 * comp / value, 1) if comp is not None and value not in (None, 0) else None
+            for value, comp in zip(value_added, compensation)
+        ]
+        series[title] = {"years": years, "values": shares}
+    return series
+
+
+bea_va = load_bea_value_added("bea/gdp/ValueAdded.xlsx")
+BEA_NAICS_MAP = {
+    key: value for key, value in json.load(open("bea_naics_map.json")).items() if not key.startswith("_")
+}
+missing_bea_titles = sorted(set(BEA_NAICS_MAP.values()) - set(bea_va))
+if missing_bea_titles:
+    raise RuntimeError(f"BEA titles not found in TVA113-A: {missing_bea_titles}")
+
+
+def bea_lookup(code):
+    for prefix in sorted(BEA_NAICS_MAP, key=len, reverse=True):
+        if code == prefix or code.startswith(prefix):
+            title = BEA_NAICS_MAP[prefix]
+            return title, bea_va[title]
+    return None, None
+
+
+print("BEA value-added industries:", len(bea_va), " mapped titles:", len(set(BEA_NAICS_MAP.values())))
+
 # ---------------------------------------------------------------- BLS Industry Productivity
 series = pd.read_csv("ip.series", sep="\t", dtype=str)
 series.columns = [c.strip() for c in series.columns]
@@ -169,6 +239,20 @@ for code, e in ec22.items():
         continue
     prev = ec17.get(code)
     bcode, b = bls_lookup(code)
+    bea_title, bea = bea_lookup(code)
+    census_share = census_va.get(code) if sector_of(code) == "31-33" else None
+    if census_share is not None:
+        va_share = census_share
+        va_source = "census"
+        va_share_2017 = None
+    elif bea is not None:
+        va_share = bea["values"][bea["years"].index(2022)] if 2022 in bea["years"] else None
+        va_share_2017 = bea["values"][bea["years"].index(2017)] if 2017 in bea["years"] else None
+        va_source = "bea" if va_share is not None else None
+    else:
+        va_share = None
+        va_share_2017 = None
+        va_source = None
     rec = {
         "code": code,
         "level": 2 if "-" in code else len(code),
@@ -188,7 +272,13 @@ for code, e in ec22.items():
         "firms_2017": prev["firms"] if prev else None,
         "bls_code": bcode,
         "bls": b,
+        "va_share": va_share,
+        "va_source": va_source,
+        "va_share_2017": va_share_2017,
     }
+    if va_source == "bea":
+        rec["va_bea_industry"] = bea_title
+        rec["bea_series"] = bea
     if rec["cr4_2017"] is not None:
         rec["cr4_chg"] = round(rec["cr4"] - rec["cr4_2017"], 1)
     if rec["payroll_share_2017"] is not None:
@@ -203,15 +293,44 @@ for code, e in ec22.items():
         rec["top_employers"] = TOP_EMPLOYERS[code]
     industries.append(rec)
 
+six_digit = [r for r in industries if r["level"] == 6]
+for rec in industries:
+    if rec["level"] >= 6:
+        continue
+    if "-" in rec["code"]:
+        children = [child for child in six_digit if sector_of(child["code"]) == rec["code"]]
+    else:
+        children = [child for child in six_digit if child["code"].startswith(rec["code"])]
+    children.sort(key=lambda child: child.get("emp") or 0, reverse=True)
+    names = []
+    for rank in range(4):
+        for child in children:
+            child_names = child.get("top_employers") or []
+            if rank < len(child_names) and child_names[rank] not in names:
+                names.append(child_names[rank])
+                if len(names) == 4:
+                    break
+        if len(names) == 4:
+            break
+    rec["top_employers"] = names
+    rec["top_employers_derived"] = True
+
 print("Industries out:", len(industries), pd.Series([r["level"] for r in industries]).value_counts().to_dict())
 print("with 2017 match:", sum(r.get("cr4_2017") is not None for r in industries))
 print("with BLS:", sum(r["bls"] is not None for r in industries), "exact:", sum(r["bls_code"] == r["code"] for r in industries))
 print("with QCEW:", sum("qcew" in r for r in industries), "with geo:", sum("geo" in r for r in industries))
+print(
+    "value-added labor share:",
+    "census exact", sum(r["va_source"] == "census" for r in industries),
+    "bea", sum(r["va_source"] == "bea" for r in industries),
+    "null", sum(r["va_source"] is None for r in industries),
+)
 
 meta = {
     "sources": {
         "concentration": "U.S. Census Bureau, 2022 & 2017 Economic Census, EC2200SIZECONCEN / EC1700SIZECONCEN (share of sales/receipts by largest firms; HHI for manufacturing).",
         "payroll_share": "Same tables: annual payroll / sales, value of shipments or revenue.",
+        "value_added": "U.S. Census Bureau, 2022 Economic Census EC2231BASIC value added and annual payroll (exact for manufacturing 6-digit industries); BEA GDP by Industry TVA113-A, Components of Value Added by Industry (1997–2024, released June 2026) for the finest mapped BEA industry.",
         "bls": "BLS Industry Productivity program (ip.data.1.AllData), labor share L03 or compensation/output, 1987-2023.",
         "qcew": "BLS QCEW 2026 Q1 single file (private ownership, national and county), released 2026-08-21.",
         "top_employers": "Curated list of well-known large employers per industry (top_employers.json); indicative only, not from Census or BLS.",

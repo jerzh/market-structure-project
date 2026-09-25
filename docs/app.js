@@ -12,6 +12,7 @@
   const sectorNames = {}; industries.forEach(d => sectorNames[d.sector] = d.sector_name);
 
   const axisDefs = {
+    va_share: { label: "Labor share of value added, 2022 (%)", get: d => d.va_share, log: true },
     cr4: { label: "Share of revenue held by the 4 largest firms (%)", get: d => d.cr4, domain: [0, 100] },
     cr8: { label: "Share of revenue held by the 8 largest firms (%)", get: d => d.cr8, domain: [0, 100] },
     cr20: { label: "Share of revenue held by the 20 largest firms (%)", get: d => d.cr20, domain: [0, 100] },
@@ -42,7 +43,7 @@
   const yLab = svg.append("text").attr("class", "axis-label").attr("text-anchor", "middle").attr("transform", "rotate(-90)");
   const tip = d3.select("body").append("div").attr("class", "tip").style("display", "none");
 
-  const state = { level: 6, x: "cr4", y: "payroll_share", size: "emp", color: "sector", off: new Set(), q: "", arrows: false, pinned: null };
+  const state = { level: 6, x: "cr4", y: "va_share", size: "emp", color: "sector", off: new Set(), q: "", arrows: false, pinned: null };
 
   function visible() {
     const rows = industries.filter(d => d.level === state.level && !state.off.has(d.sector));
@@ -88,6 +89,7 @@
     const mx = d3.sum(pts, p => p[0] * p[2]) / W, my = d3.sum(pts, p => p[1] * p[2]) / W;
     let sxy = 0, sxx = 0, syy = 0;
     for (const [x, y, w] of pts) { sxy += w * (x - mx) * (y - my); sxx += w * (x - mx) ** 2; syy += w * (y - my) ** 2; }
+    if (sxx <= 0 || syy <= 0) return null;
     return { r: sxy / Math.sqrt(sxx * syy), slope: sxy / sxx, mx, my, n: pts.length };
   }
 
@@ -152,6 +154,7 @@
 
     paint();
     renderLegend(rows);
+    $("arrows").disabled = state.y !== "payroll_share";
   }
 
   function sectorBreakdown(rows, tx, ty, xa, ya, sz) {
@@ -200,6 +203,7 @@
     tip.style("display", "block").html(
       `<b>${d.label}</b> <span class="m">${d.code}</span><br>` +
       `CR4 <b>${fmtP(d.cr4)}%</b>${d.cr4_chg != null ? ` <span class="m">(${fmtS(d.cr4_chg)} since 2017)</span>` : ""}<br>` +
+      `Labor share of value added <b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b>${d.va_source === "bea" ? ` <span class="m">(BEA parent)</span>` : ""}<br>` +
       `Payroll share <b>${fmtP(d.payroll_share)}%</b>${d.payroll_share_chg != null ? ` <span class="m">(${fmtS(d.payroll_share_chg)})</span>` : ""}<br>` +
       `<span class="m">${d.emp ? fmtN(d.emp) + " employees · " : ""}${d.firms ? fmtN(d.firms) + " firms" : ""}</span>`);
   }
@@ -225,13 +229,15 @@
       </table>
       <h3>Labor's cut</h3>
       <table>
+        <tr><td>Labor share of value added, 2022</td><td><b>${d.va_share == null ? "n/a" : fmtP(d.va_share) + "%"}</b> <span class="m">${d.va_source === "census" ? "Census, exact" : d.va_source === "bea" ? `BEA: ${d.va_bea_industry}` : ""}</span></td></tr>
         <tr><td>Payroll ÷ revenue, 2022</td><td><b>${fmtP(d.payroll_share)}%</b> ${chg(d.payroll_share_chg, " pts", true)}</td></tr>
         <tr><td>Payroll per employee, 2022</td><td>${fmtD(d.pay_per_emp_k)}k</td></tr>
         <tr><td>Employees (2022)</td><td>${fmtN(d.emp)}</td></tr>
         ${d.top_employers ? `<tr><td>Well-known large employers</td><td>${d.top_employers.join(" · ")}</td></tr>` : ""}
       </table>
-      ${d.top_employers ? `<p class="note">Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share.</p>` : ""}
-      ${d.bls ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}. Not comparable to payroll ÷ revenue above: compensation includes benefits${isTrade(d) ? ", and BLS output for wholesale/retail is sales margin, not sales" : ""}.</p>` : `<p class="note">No BLS productivity-program history for this industry.</p>`}
+      ${d.va_source === "bea" ? `<p class="note">Value-added share is BEA's for the parent industry “${d.va_bea_industry}” (compensation incl. benefits ÷ value added), so all industries in that group share one value; the payroll ÷ revenue figure is exact for this industry.</p>` : ""}
+      ${d.top_employers ? `<p class="note">${d.top_employers_derived ? "Employer names are derived from the curated lists of this group's largest component industries — indicative only." : "Employer names are a curated, indicative list — Census does not disclose which firms make up the top-4 share."}</p>` : ""}
+      ${d.bls || d.bea_series ? `<svg class="spark" id="spark"></svg><p class="note">${d.bls ? `${d.bls.kind}, ${d.bls.years[0]}–${d.bls.years[d.bls.years.length - 1]}${d.bls_code !== d.code ? ` (BLS publishes NAICS ${d.bls_code}, the closest parent)` : ""}. Not comparable to payroll ÷ revenue above: compensation includes benefits${isTrade(d) ? ", and BLS output for wholesale/retail is sales margin, not sales" : ""}.` : ""}${d.bea_series ? ` Blue: BEA labor share of value added for “${d.va_bea_industry}”, ${d.bea_series.years[0]}–${d.bea_series.years[d.bea_series.years.length - 1]}.` : ""}</p>` : `<p class="note">No labor-share history for this industry.</p>`}
       ${q ? `<h3>Jobs today (QCEW 2026 Q1)</h3>
       <table>
         <tr><td>Employment (March)</td><td>${fmtN(q.emp)} ${chg(q.emp_yoy, "%", true)}</td></tr>
@@ -242,19 +248,28 @@
         <tr><td>Largest county</td><td>${g.top_county} (${fmtP(g.top_county_share)}%)</td></tr>` : ""}
       </table>${g && g.code !== d.code ? `<p class="note">Geography from 4-digit parent ${g.code}; disclosed counties cover ${g.coverage}% of jobs.</p>` : g ? `<p class="note">Disclosed counties cover ${g.coverage}% of national employment.</p>` : ""}` : ""}
       ${d.flag ? `<p class="flag">Census flag ${d.flag}: some values imputed or withheld.</p>` : ""}`;
-    if (d.bls) drawSpark(d.bls);
+    if (d.bls || d.bea_series) drawSpark(d.bls, d.bea_series);
   }
 
-  function drawSpark(b) {
+  function drawSpark(bls, bea) {
     const s = d3.select("#spark"); const W = s.node().clientWidth, H = 90, mm = { t: 8, r: 6, b: 16, l: 30 };
-    const x = d3.scaleLinear().domain(d3.extent(b.years)).range([mm.l, W - mm.r]);
-    const y = d3.scaleLinear().domain([0, d3.max(b.values) * 1.1]).range([H - mm.b, mm.t]).nice();
+    const allYears = [...(bls ? bls.years : []), ...(bea ? bea.years : [])];
+    const allValues = [...(bls ? bls.values : []), ...(bea ? bea.values : [])].filter(Number.isFinite);
+    const x = d3.scaleLinear().domain(d3.extent(allYears)).range([mm.l, W - mm.r]);
+    const y = d3.scaleLinear().domain([0, d3.max(allValues) * 1.1]).range([H - mm.b, mm.t]).nice();
     s.append("g").attr("class", "axis").attr("transform", `translate(0,${H - mm.b})`).call(d3.axisBottom(x).ticks(5, "d").tickSize(0));
     s.append("g").attr("class", "axis").attr("transform", `translate(${mm.l},0)`).call(d3.axisLeft(y).ticks(3).tickSize(-(W - mm.l - mm.r)));
-    s.append("path").datum(d3.zip(b.years, b.values)).attr("fill", "none").attr("stroke", "#c0392b").attr("stroke-width", 1.6)
-      .attr("d", d3.line().x(p => x(p[0])).y(p => y(p[1])));
-    const last = b.values[b.values.length - 1];
-    s.append("text").attr("x", W - mm.r).attr("y", y(last) - 4).attr("text-anchor", "end").attr("font-size", 11).attr("fill", "#c0392b").text(fmtP(last) + "%");
+    const line = d3.line().defined(p => p[1] != null).x(p => x(p[0])).y(p => y(p[1]));
+    if (bls) {
+      s.append("path").datum(d3.zip(bls.years, bls.values)).attr("fill", "none").attr("stroke", "#c0392b").attr("stroke-width", 1.6).attr("d", line);
+      const last = bls.values[bls.values.length - 1];
+      s.append("text").attr("x", W - mm.r).attr("y", y(last) - 4).attr("text-anchor", "end").attr("font-size", 11).attr("fill", "#c0392b").text(fmtP(last) + "%");
+    }
+    if (bea) {
+      s.append("path").datum(d3.zip(bea.years, bea.values)).attr("fill", "none").attr("stroke", "#2b6cb0").attr("stroke-width", 1.6).attr("d", line);
+      const last = bea.values[bea.values.length - 1];
+      s.append("text").attr("x", W - mm.r).attr("y", y(last) - 4).attr("text-anchor", "end").attr("font-size", 11).attr("fill", "#2b6cb0").text(fmtP(last) + "%");
+    }
   }
 
   for (const id of ["level", "x", "y", "size", "color"]) $(id).onchange = (e) => { state[id] = id === "level" ? +e.target.value : e.target.value; state.pinned = null; showPanel(null); render(); };
