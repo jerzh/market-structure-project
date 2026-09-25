@@ -1,4 +1,12 @@
-# Does concentration eat the paycheck?
+# Jeremy's market structure visualization project
+
+This section is written by a human (me)!
+
+I've always wanted to make detailed visualizations of the broader economy, since I feel like it's hard to get an appreciation for the diversity of work and production that happens unless you're willing to look at very fine granularity, like NAICS 6-digit level. There are of course risks with insisting on such fine granularity, since data quality decays the further down you go, so I'd take these numbers with a grain of salt (the caveats should all be listed clearly on the page). Regardless I think the most interesting bit is just clicking into each sub-subindustry, seeing who the big companies are, and looking at trends/seeing if they square with your personal intuition. Because we have all probably interacted with many of these sectors before, if only through the products they create.
+
+Anyway, in the future I hope to also add markups (notoriously difficult to measure of course) and trade statistics. Maybe I'll also look into what I can find about the demographics of the employee base within each sector.
+
+## Tab 1: Does concentration eat the paycheck?
 
 Interactive scatter of U.S. industries (899 six-digit NAICS) — product-market concentration
 (Economic Census CR4/CR8/CR20/CR50, HHI) against labor's share of value added, with BLS labor-share
@@ -9,7 +17,7 @@ histories and QCEW 2026 Q1 employment / wages / geographic dispersion.
 * `bundle.py` — emits a single self-contained `concentration_vs_labor_share.html`.
 * `survey.md` — survey of prior visualizations and why this one differs.
 
-## Labor share of value added
+### Labor share of value added
 
 The default vertical variable is labor's share of value added. For manufacturing,
 `EC2231BASIC` supplies exact 2022 Census payroll and value-added data for the available
@@ -24,7 +32,7 @@ option remains Census payroll divided by revenue, which is exact at the six-digi
 BEA compensation includes benefits, while Census payroll excludes them, so the two
 measures are not strictly comparable.
 
-## Employer names (caveat / TODO)
+### Employer names (caveat / TODO)
 
 The "Well-known large employers" line in the detail panel comes from `top_employers.json`, a
 hand-curated, indicative list — Census does not disclose which firms make up the top-4 share, and
