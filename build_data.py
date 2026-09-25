@@ -164,7 +164,11 @@ for code, title in BEA_NAICS_MAP.items():
         child for child in six_digit_codes
         if bea_lookup(child)[0] == title
     }
-    if descendants == mapped_to_title:
+    # Exact when the title covers precisely this NAICS group, either directly
+    # (all children map to it) or as an aggregate of finer keys nested inside
+    # (no child maps to it directly). A residual title with some direct
+    # children plus finer keys, e.g. 541 → "Miscellaneous professional", is not.
+    if descendants and (mapped_to_title == descendants or not mapped_to_title):
         bea_exact_codes.add(code)
 print("BEA exact group codes:", len(bea_exact_codes), sorted(bea_exact_codes))
 
