@@ -266,7 +266,12 @@ for code, e in ec22.items():
         parent_share = bea["values"][bea["years"].index(2022)] if 2022 in bea["years"] else None
         parent_ratio = bea_parent_ratio.get(bea_title)
         record_ratio = e["payroll"] / e["revenue"] if e["payroll"] is not None and e["revenue"] else None
-        if parent_share is not None and parent_ratio and record_ratio is not None:
+        if parent_share is not None and parent_ratio is None:
+            scaled_share = parent_share
+            va_capped = scaled_share > 100
+            va_share = min(100, scaled_share)
+            va_source = "bea_scaled"
+        elif parent_share is not None and parent_ratio and record_ratio is not None:
             scaled_share = parent_share * record_ratio / parent_ratio
             va_capped = scaled_share > 100
             va_share = min(100, scaled_share)
